@@ -4,13 +4,15 @@ import os
 import pandas as pd
 from splinter import Browser
 import datadotworld as dw
+import time
 
 
 # Open URL list from DataWorld and iterate one by through the urls.
 dw_csv = dw.load_dataset('rustygentile/ncaa-etl', force_update=True)
-url_list = dw_csv.dataframes['game_urls']
+url_list = dw_csv.dataframes['game_urls_active']
 url_list.head()
 for url in url_list['urls']:
+    url = url + '/boxscore'
     print(url)
 
     # Use chrome driver to execute path and load url into the chrome driver to launch site. 
@@ -25,7 +27,6 @@ for url in url_list['urls']:
     #response = requests.get(url)
     soup = BeautifulSoup(html, 'lxml')
     tables = pd.read_html(html)
-    print(html)
     away_table = tables[1]
     away_table
 
@@ -41,8 +42,10 @@ for url in url_list['urls']:
     # Reload site to get home team on second tab of table. 
     browser = Browser('chrome', **executable_path, headless=False)
     browser.visit(url)
-    #away_var = away_team[0].text.strip()
-    #browser.click_link_by_partial_text(away_var)
+    browser.driver.set_window_size(3840, 2160)
+    print('Sleeping 10 seconds......')
+    time.sleep(15)
+    print(url)
 
     # Find class for home team. 
     elems = browser.find_by_css('div[class="boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home"]')
@@ -51,11 +54,14 @@ for url in url_list['urls']:
 
     # Scroll the page down to activate the java script on page and the click the class. 
     browser.execute_script("window.scrollTo(0, 200)")
-    elems[0].click()
+    #elems[0].click()
+    html = browser.html
 
     #response = requests.get(url)
     soup = BeautifulSoup(html, 'lxml')
     home_active = soup.find_all('div', class_='boxscore-team-selector-team homeTeam-bg-primary_color awayTeam-border-primary_color home active')
+
+    print(f'ERROR CATCH: {home_active}')
     home_team = home_active[0].text.strip()
     home_team
 
