@@ -1,0 +1,164 @@
+<!--  ETL Prject: - NCAA Basketball: Web Visualization Dashboard -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- All meta tags should be first in the header-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Title of dashboard-->
+<title>NCSABasketball: Web Visualization Dashboard</title>
+<!-- Bootstrap links -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<!-- Scripts-->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="/static/css/style.css?12111">
+</head>
+
+         
+<body>
+    <!-- navbar: A horizontal bar,top of a web page, offering a number of links to help the viewer to navigate the web site. Origin: Shortening of navigation bar. -->
+    
+    <!-- Navigation -->
+ <!-- Navigation -->
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation ">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+        <img src="/static/Images/ncaa_hlogo.png" width="50%" class="img-responsive" ml-auto alt="">
+        </a>
+      </div>
+      <div class ="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="nav navbar-nav ">
+        <!--"Championship Bracket" which links to the bracket file -->
+          <li class ="nav-item">
+            <a class ="nav-link" href="bracket.html"><i class="fas fa-basketball-ball"></i> Championship Bracket</a>
+          </li>
+          <li class ="nav-item dropdown">
+            <a class ="nav-link dropdown-toggle" data-toggle="dropdown" data-target ="#dropdown_target" href="#">  Regional brackets
+            
+            </a>
+            <ul class ="dropdown-menu" aria-labelledby="dropdown_target">
+              <li><a class ="dropdown-item" href="south.html"> South Regional</a></li>
+              <li><a class ="dropdown-item" href="west.html">West Regional </a></li>
+              <li><a class ="dropdown-item" href="east.html">East Regional</a></li>
+             <li><a class ="dropdown-item" href="midwest.html">Midwest Regional</a></li>
+          </ul>
+        </li>
+          <!--"final 4 " which links to the final_four team stat page-->
+          <li class = "nav-item">
+            <a class ="nav-link" href="final_four.html"><i class="fas fa-basketball-ball"></i>  Final Four</a>
+          </li>
+          <li class = "nav-item">
+            <a class ="nav-link" href="finals.html"><i class="fas fa-basketball-ball"></i> National Championship</a>
+            <li class = "nav-item">
+              <a class ="nav-link" href="table.html"><i class="fas fa-basketball-ball"></i> Teams Table</a>
+            </li>
+          </li>
+        </ul>
+      </div>
+    </div>
+</nav>
+<!-- End of the Navigation bar-->
+<div class ="container-fluid">
+  <div class="row" style = "padding-bottom:10px;">
+  
+   <!-- Left side -->
+    <div class ="col-md-8">
+      
+      <!-- Main panel-->
+      <div class ="panel panel-default">
+          
+         <div class="panel-heading panel-heading-custom">
+           <h3><i class="fas fa-trophy"></i> 2018 NCAA Basketball Tournament: East Region </h3>
+         </div>
+         <div class="panel-body">
+            <h2><i class="fas fa-trophy"></i> #11 Loyola–Chicago </h2>
+            <h3>vs.#9 Kansas State Wildcats</h3>
+         </div>
+      </div>
+        <div style = "padding-right:50px;">
+        {% for east in east_team %}
+        <div class="card bg-success " style="width: 180px; margin:10px; padding-right:30px; padding-left:30px; float:left;">
+            <img class="card-img-top" src="{{ east.mascot }}" style ="width: 100%; " alt="mascot" >
+            <button type="button" class="btn btn-success btn-block" style="float: left;" >#{{ east.seed }} {{ east.name }}</button>
+          
+          </div>
+
+
+
+ <!--         <div class="card  text-center" style="width:150px;  ">
+            <img class="card-img-top mx-auto d-block" src="{{ east.mascot }}" style ="width: 100%; " alt="mascot" >
+            <a href="south.html" class="btn btn-primary mt-auto">}</a>
+          </div> -->
+        {% endfor %}
+        </div>
+    </div>
+    
+
+    <!-- right side-->
+    <div class ="col-md-3">
+      <div class = "row" style = "padding-left:30px;">
+      <a>
+      <img class="img-responsive rounded d-block " src="/static/Images/four.png"  style = "width: 50%; float:right; padding-left:10px; " alt= ""></a>
+      <table class="infobox" style="width:22em; width:auto; color: #1E90FF; font-weight: bold;">
+        <tbody>
+                  <tr>
+                    <th scope="row">Season</th>
+                        <td>2017–18</td>
+                    </tr>
+                    <tr><th scope="row">Teams</th>
+                      <td>68</td>
+                    </tr>
+                    <tr><th scope="row">Finals site</th>
+                      <td>San Antonio, Texas</td>
+                    </tr>
+                  </tbody>
+              </table> 
+          <br>
+          <br>
+    </div>
+    <div class = "row" style = "padding-left:30px;">
+      <div class="card-columns">
+        <div class="card bg-danger text-center" style="width:150px; ">
+          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
+         <a href="south.html" class="btn btn-primary mt-auto">South Region</a>
+        </div>
+        <div class="card bg-danger text-center" style="width:150px">
+          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
+         <a href="west.html" class="btn btn-primary mt-auto">west Region</a>
+        </div>
+        <div class="card bg-danger text-center" style="width: 150px;">
+          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
+         <a href="east.html" class="btn btn-primary mt-auto"> East Region</a>
+        </div>
+        <div class="card bg-danger text-center" style="width:150px;">
+          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
+         <a href="midwest.html" class="btn btn-primary mt-auto">Midwest Region</a>
+        </div>
+      </div>
+    </div>
+    </div>
+  <br> 
+</div>
+</div>
+    
+                  
+<!-- Footer -->
+<footer>
+<!-- Copyright -->
+  <p><i class="far fa-copyright"></i>
+                      Copyright 2018
+  </p>      
+</footer>
+                 
+</body>
+</html>
