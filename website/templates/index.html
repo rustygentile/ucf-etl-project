@@ -17,7 +17,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="/static/css/style.css?1211">
+<link rel="stylesheet" href="../static/css/style.css?121224">
 </head>
 
          
@@ -25,48 +25,50 @@
     <!-- navbar: A horizontal bar,top of a web page, offering a number of links to help the viewer to navigate the web site. Origin: Shortening of navigation bar. -->
     
     <!-- Navigation -->
- <!-- Navigation -->
- <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation ">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <a class="navbar-brand" href="#">
-        <img src="/static/Images/ncaa_hlogo.png" width="50%" class="img-responsive" ml-auto alt="">
-        </a>
-      </div>
-      <div class ="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="nav navbar-nav ">
-        <!--"Championship Bracket" which links to the bracket file -->
-          <li class ="nav-item">
-            <a class ="nav-link" href="bracket.html"><i class="fas fa-basketball-ball"></i> Championship Bracket</a>
-          </li>
-          <li class ="nav-item dropdown">
-            <a class ="nav-link dropdown-toggle" data-toggle="dropdown" data-target ="#dropdown_target" href="#">  Regional brackets
-            
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation ">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+            <img src="/static/Images/ncaa_hlogo.png" width="50%" class="img-responsive" ml-auto alt="">
             </a>
-            <ul class ="dropdown-menu" aria-labelledby="dropdown_target">
-              <li><a class ="dropdown-item" href="south.html"> South Regional</a></li>
-              <li><a class ="dropdown-item" href="west.html">West Regional </a></li>
-              <li><a class ="dropdown-item" href="east.html">East Regional</a></li>
-             <li><a class ="dropdown-item" href="midwest.html">Midwest Regional</a></li>
-          </ul>
-        </li>
-          <!--"final 4 " which links to the final_four team stat page-->
-          <li class = "nav-item">
-            <a class ="nav-link" href="final_four.html"><i class="fas fa-basketball-ball"></i>  Final Four</a>
-          </li>
-          <li class = "nav-item">
-            <a class ="nav-link" href="finals.html"><i class="fas fa-basketball-ball"></i> National Championship</a>
-            <li class = "nav-item">
-              <a class ="nav-link" href="table.html"><i class="fas fa-basketball-ball"></i> Teams Table</a>
+          </div>
+          <div class ="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="nav navbar-nav ">
+            <!--"Championship Bracket" which links to the bracket file -->
+              <li class ="nav-item">
+                <a class ="nav-link" href="/bracket"><i class="fas fa-basketball-ball"></i> Bracket</a>
+              </li>
+              <li class ="nav-item dropdown">
+                <a class ="nav-link dropdown-toggle" data-toggle="dropdown" data-target ="#dropdown_target" href="#"><i class="fas fa-basketball-ball"></i>  Regional Teams
+                
+                </a>
+                <ul class ="dropdown-menu" aria-labelledby="dropdown_target">
+                  <li><a class ="dropdown-item" href="/south"> South Regional</a></li>
+                  <li><a class ="dropdown-item" href="/west">West Regional </a></li>
+                  <li><a class ="dropdown-item" href="/east">East Regional</a></li>
+                 <li><a class ="dropdown-item" href="/midwest">Midwest Regional</a></li>
+              </ul>
             </li>
-          </li>
-        </ul>
-      </div>
-    </div>
-</nav>
+              <!--"final 4 " which links to the final_four team stat page-->
+              <li class = "nav-item">
+                <a class ="nav-link" href="/final_four"><i class="fas fa-basketball-ball"></i>  Final Four</a>
+              </li>
+              <li class = "nav-item">
+                <a class ="nav-link" href="/finals"><i class="fas fa-basketball-ball"></i>Championship</a>
+                <li class = "nav-item">
+                  <a class ="nav-link" href="/table"><i class="fas fa-basketball-ball"></i> Teams Table</a>
+                </li>
+                <li class = "nav-item">
+                  <a class ="nav-link" href="/API"><i class="fas fa-basketball-ball"></i> Teams API</a>
+                </li>
+              </li>
+            </ul>
+          </div>
+        </div>
+    </nav>
 <!-- End of the Navigation bar-->
 <div class ="container-fluid">
   <div class="row" style = "padding-bottom:10px;">
@@ -87,46 +89,49 @@
       </div>
       </div>
     </div>
-   
-    <div class ="col-md-3">
-      <div class = "row" style = "padding-left:30px;">
-      <a>
-      <img class="img-responsive rounded d-block" src="/static/Images/four.png"  style = "width: 50%; float:right; padding-left:10px;" alt= ""></a>
-      <table class="infobox" style="width:22em; width:auto; color: #1E90FF; font-weight: bold;">
-        <tbody>
-                  <tr>
-                    <th scope="row">Season</th>
-                        <td>2017–18</td>
-                    </tr>
-                    <tr><th scope="row">Teams</th>
-                      <td>68</td>
-                    </tr>
-                    <tr><th scope="row">Finals site</th>
-                      <td>San Antonio, Texas</td>
-                    </tr>
-                  </tbody>
-              </table> 
-          <br>
-          <br>
-    </div>
+ <!-- right side-->
+ <div class ="col-md-3">
     <div class = "row" style = "padding-left:30px;">
+      <a>
+      <img class="img-responsive" src="/static/Images/four.png"  style = "width: 60%; padding-left:10px;" alt= ""></a>
+      <section>
+        <h5> Season: 2017–18</h5>
+        <h5> Teams: 68</h5>
+        <h5> Finals site: San Antonio, Texas</h5>
+      </section>
+    </div>
+    <div class = "row">
       <div class="card-columns">
-        <div class="card bg-success text-center" style="width:150px; ">
-          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
-         <a href="south.html" class="btn btn-primary mt-auto">South Region</a>
+          <a href="/south">
+        <div class="card bg-danger text-center" style="width:10em;  ">
+          <div class ="zoom">
+          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+         <div class="btn btn-primary mt-auto">South Region</div>
         </div>
-        <div class="card bg-success text-center" style="width:150px">
-          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
-         <a href="west.html" class="btn btn-primary mt-auto">west Region</a>
-        </div>
-        <div class="card bg-success text-center" style="width: 150px;">
-          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
-         <a href="east.html" class="btn btn-primary mt-auto"> East Region</a>
-        </div>
-        <div class="card bg-success text-center" style="width:150px;">
-          <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" >
-         <a href="midwest.html" class="btn btn-primary mt-auto">Midwest Region</a>
-        </div>
+      </a>
+      <a href="west">
+          <div class="card bg-danger text-center" style="width:10em; ">
+            <div class ="zoom">
+            <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+           <div class="btn btn-primary mt-auto">west Region</div>
+          </div>
+        </a>
+        <a href="/east">
+            <div class="card bg-danger text-center" style="width:10em; ">
+              <div class ="zoom">
+              <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+             <div class="btn btn-primary mt-auto">East Region</div>
+            </div>
+          </a>
+          <a href="/midwest">
+              <div class="card bg-danger text-center" style="width:10em; ">
+                <div class ="zoom">
+                <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+               <div class="btn btn-primary mt-auto">Midwest Region</div>
+              </div>
+            </a>
+
+        
       </div>
     </div>
   </div>

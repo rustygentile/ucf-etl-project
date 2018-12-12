@@ -84,18 +84,18 @@
            
          </div>
          <div class="panel-body">
-            <h2 style = "color:yellow;"><i class="fas fa-trophy"></i> #1 Villanova </h2>
-            <h3>vs. <br>#3 Texas Tech</h3>
+            <h2 style = "color:yellow;"><i class="fas fa-trophy"></i> #1 Kansas </h2>
+            <h3>vs. <br>#2 Duke</h3>
          </div>
       </div>
         <div style = "padding-right:20px;">
         
-        {% for east in east_team %}
+        {% for west in west_team %}
      
         <div class="card bg-success " style="width: 15em; margin:10px ; padding-right:30px; padding-left:30px; float:left;">
 
-            <img class="card-img-top rounded" src="{{ east.mascot }}" style ="width: 100%; " alt="mascot" >
-            <div class="card-text" style ="background-color:#c0392b; color:#1E90FF; font-weight:bold; text-align:center; padding-bottom: 2px;">#{{ east.seed }} {{ east.name }}</div>
+            <img class="card-img-top rounded" src="{{ west.mascot }}" style ="width: 100%; " alt="mascot" >
+            <div class="card-text" style ="background-color:#c0392b; color:#1E90FF; font-weight:bold; text-align:center; padding-bottom: 2px;">#{{ west.seed }} {{ west.name }}</div>
         
           </div>
 
@@ -124,14 +124,14 @@
           </div>
         </a>
         <a href="west">
-            <div class="card bg-danger text-center" style="width:10em; ">
+            <div class="card bg-danger text-center highlight" style="width:10em; ">
               <div class ="zoom">
               <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
              <div class="btn btn-primary mt-auto">west Region</div>
             </div>
           </a>
           <a href="/east">
-              <div class="card bg-danger text-center highlight" style="width:10em; ">
+              <div class="card bg-danger text-center" style="width:10em; ">
                 <div class ="zoom">
                 <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
                <div class="btn btn-primary mt-auto">East Region</div>

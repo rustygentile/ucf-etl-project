@@ -32,7 +32,7 @@ EAST,10,Butler,https://i.turner.ncaa.com/sites/default/files/images/logos/school
 EAST,2,Purdue,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/purdue.svg
 EAST,15,Cal St. Fullerton,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/cal-st-fullerton.svg
 WEST,3,Michigan,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan.svg
-WEST,1,Kansas,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas.svg
+MIDWEST,1,Kansas,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas.svg
 WEST,1,Xavier,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/xavier.svg
 WEST,16,Texas Southern,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-southern.svg
 WEST,8,Missouri,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/missouri.svg
@@ -47,7 +47,7 @@ WEST,14,Montana,https://i.turner.ncaa.com/sites/default/files/images/logos/schoo
 WEST,7,Texas A&M,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-am.svg
 WEST,10,Providence,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/providence.svg
 WEST,2,North Carolina,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina.svg
-MIDWEST,15,Lipscomb,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/lipscomb.svg
+WEST,15,Lipscomb,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/lipscomb.svg
 MIDWEST,16,Penn,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/penn.svg
 MIDWEST,8,Seton Hall,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/seton-hall.svg
 MIDWEST,9,North Carolina St.,https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina-st.svg
