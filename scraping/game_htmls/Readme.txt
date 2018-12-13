@@ -1,0 +1,1 @@
+Use for testing / prototyping only. Real ETL should be staged using: https://data.world/rustygentile/ncaa-etl
