@@ -1,0 +1,70 @@
+id,name,region_id,mascot
+63,Arizona,3,NULL
+5,Arkansas,1,NULL
+29,Baylor,2,NULL
+58,"Bucknell ",3,NULL
+9,Butler,1,NULL
+11,Cincinnati,1,NULL
+43,Creighton,4,NULL
+14,Dayton,1,NULL
+33,Duke,2,NULL
+26,"East Tenn. St.",2,NULL
+62,"Fla. Gulf Coast",3,NULL
+25,Florida,2,NULL
+61,"Florida St",3,NULL
+52,Gonzaga,3,NULL
+46,Iona,4,NULL
+39,"Iowa St.",4,NULL
+50,"Jacksonville St.",4,NULL
+35,Kansas,4,NULL
+4,"Kansas St",1,NULL
+13,"Kent St.",1,NULL
+16,Kentucky,1,NULL
+49,Louisville,4,NULL
+32,Marquette,2,NULL
+59,Maryland,3,NULL
+37,"Miami (Fla.)",4,NULL
+47,Michigan,4,NULL
+38,"Michigan St.",4,NULL
+8,"Middle Tenn.",1,NULL
+7,Minnesota,1,NULL
+18,"Mount St. Mary’s",2,NULL
+51,"N.C. Central",4,NULL
+40,Nevada,4,NULL
+30,"New Mexico St.",2,NULL
+19,"New Orleans",2,NULL
+3,"North Carolina",1,NULL
+66,"North Dakota",3,NULL
+17,"Northern Ky.",1,NULL
+54,Northwestern,3,NULL
+56,"Notre Dame",3,NULL
+48,"Oklahoma St.",4,NULL
+45,Oregon,4,NULL
+69,Princeton,3,NULL
+68,Providence,2,NULL
+41,Purdue,4,NULL
+44,"Rhode Island",4,NULL
+53,"S.Dakota St",3,NULL
+64,"Saint Mary’s",3,NULL
+6,"Seton Hall",1,NULL
+27,SMU,2,NULL
+31,"South Carolina",2,NULL
+67,"Southern California",2,NULL
+2,"Texas Southern",1,NULL
+34,Troy,2,NULL
+36,"UC Davis",4,NULL
+12,UCLA,1,NULL
+24,"UNC Wilmington",2,NULL
+28,USC,2,NULL
+55,Vanderbilt,3,NULL
+65,VCU,3,NULL
+42,Vermont,4,NULL
+21,Villanova,2,NULL
+23,Virginia,2,NULL
+20,"Virginia Tech",2,NULL
+1,"Wake Forest",1,NULL
+57,"West Virginia",3,NULL
+15,"Wichita St",1,NULL
+10,Winthrop,1,NULL
+22,Wisconsin,2,NULL
+60,Xavier,3,NULL

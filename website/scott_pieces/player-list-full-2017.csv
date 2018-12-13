@@ -1,0 +1,669 @@
+player_id,name,position_id,position_name,team_id,team_name
+365,"Malcolm Bernard",1,gaurd,60,Xavier
+364,"Quentin Goodin",1,gaurd,60,Xavier
+362,"RaShid Gaston",2,forward,60,Xavier
+363,"J.P. Macura",1,gaurd,60,Xavier
+361,"Tyrique Jones",2,forward,60,Xavier
+360,"Kaiser Gates",2,forward,60,Xavier
+366,"Trevon Bluiett",1,gaurd,60,Xavier
+327,"Alex Illikainen",2,forward,22,Wisconsin
+333,"Zak Showalter",1,gaurd,22,Wisconsin
+326,"Vitto Brown",2,forward,22,Wisconsin
+332,"D'Mitrik Trice",1,gaurd,22,Wisconsin
+325,"Nigel Hayes",2,forward,22,Wisconsin
+331,"Bronson Koenig",1,gaurd,22,Wisconsin
+330,"Jordan Hill",1,gaurd,22,Wisconsin
+329,"Aaron Moesch",2,forward,22,Wisconsin
+328,"Ethan Happ",2,forward,22,Wisconsin
+354,"Anders Broman",1,gaurd,10,Winthrop
+349,"Josh Ferguson",2,forward,10,Winthrop
+348,"Duby Okeke",3,center,10,Winthrop
+359,"Kellen Blake",1,gaurd,10,Winthrop
+358,"Hunter Sadlon",1,gaurd,10,Winthrop
+353,"Tevin Prescott",2,forward,10,Winthrop
+357,"Bjorn Broman",1,gaurd,10,Winthrop
+352,"Josh Davenport",2,forward,10,Winthrop
+356,"Keon Johnson",1,gaurd,10,Winthrop
+351,"Mitch Hill",2,forward,10,Winthrop
+355,"Adam Pickett",1,gaurd,10,Winthrop
+350,"Roderick Perkins",2,forward,10,Winthrop
+661,"Markis McDuffie",2,forward,15,"Wichita St"
+665,"Landry Shamet",1,gaurd,15,"Wichita St"
+660,"Rashard Kelly",2,forward,15,"Wichita St"
+664,"Conner Frankamp",1,gaurd,15,"Wichita St"
+659,"Zach Brown",2,forward,15,"Wichita St"
+663,"Daishon Smith",1,gaurd,15,"Wichita St"
+658,"Shaquille Morris",3,center,15,"Wichita St"
+657,"Rauno Nurger",3,center,15,"Wichita St"
+662,"Darral Willis",2,forward,15,"Wichita St"
+666,"Austin Reaves",1,gaurd,15,"Wichita St"
+75,"Lamont West",2,forward,57,"West Virginia"
+80,"James Bolden",1,gaurd,57,"West Virginia"
+74,"Brandon Watkins",2,forward,57,"West Virginia"
+79,"Jevon Carter",1,gaurd,57,"West Virginia"
+73,"Nathan Adrian",2,forward,57,"West Virginia"
+78,"Teyvon Myers",1,gaurd,57,"West Virginia"
+72,"Sagaba Konate",2,forward,57,"West Virginia"
+77,"Tarik Phillip",1,gaurd,57,"West Virginia"
+71,"Elijah Macon",2,forward,57,"West Virginia"
+76,"Daxter Miles",1,gaurd,57,"West Virginia"
+70,"Esa Ahmad",2,forward,57,"West Virginia"
+25,"Sam Japhet-Mathias",3,center,1,"Wake Forest"
+34,"Keyshawn Woods",1,gaurd,1,"Wake Forest"
+33,"Trent VanHorn",1,gaurd,1,"Wake Forest"
+29,"Austin Arians",2,forward,1,"Wake Forest"
+32,"Bryant Crawford",1,gaurd,1,"Wake Forest"
+28,"John Collins",2,forward,1,"Wake Forest"
+31,"Brandon Childress",1,gaurd,1,"Wake Forest"
+27,"Greg McClinton",2,forward,1,"Wake Forest"
+30,"Mitchell Wilbekin",1,gaurd,1,"Wake Forest"
+26,"Konstantinos Mitoglou",2,forward,1,"Wake Forest"
+336,"Seth Allen",1,gaurd,20,"Virginia Tech"
+335,"Khadim Sy",2,forward,20,"Virginia Tech"
+339,"Justin Bibbs",1,gaurd,20,"Virginia Tech"
+334,"Zach LeDay",2,forward,20,"Virginia Tech"
+338,"Justin Robinson",1,gaurd,20,"Virginia Tech"
+337,"Ahmed Hill",1,gaurd,20,"Virginia Tech"
+262,"Marial Shayok",1,gaurd,23,Virginia
+261,"Kyle Guy",1,gaurd,23,Virginia
+257,"Isaiah Wilkins",2,forward,23,Virginia
+255,"Jack Salt",3,center,23,Virginia
+260,"London Perrantes",1,gaurd,23,Virginia
+256,"Mamadi Diakite",2,forward,23,Virginia
+259,"Devon Hall",1,gaurd,23,Virginia
+258,"Darius Thompson",1,gaurd,23,Virginia
+263,"Ty Jerome",1,gaurd,23,Virginia
+161,"Jalen Brunson",1,gaurd,21,Villanova
+160,"Josh Hart",1,gaurd,21,Villanova
+158,"Darryl Reynolds",2,forward,21,Villanova
+159,"Donte DiVincenzo",1,gaurd,21,Villanova
+157,"Eric Paschall",2,forward,21,Villanova
+156,"Kris Jenkins",2,forward,21,Villanova
+155,"Dylan Painter",2,forward,21,Villanova
+321,"Trae Bell-Haynes",1,gaurd,42,Vermont
+320,"Payton Henson",2,forward,42,Vermont
+319,"Darren Payen",2,forward,42,Vermont
+324,"Dre Wills",1,gaurd,42,Vermont
+318,"Drew Urquhart",2,forward,42,Vermont
+323,"Ernie Duncan",1,gaurd,42,Vermont
+317,"Anthony Lamb",2,forward,42,Vermont
+322,"Cam Ward",1,gaurd,42,Vermont
+299,"Malik Crowfield",1,gaurd,65,VCU
+298,"Doug Brooks",1,gaurd,65,VCU
+297,"Jonathan Williams",1,gaurd,65,VCU
+296,"Samir Doughty",1,gaurd,65,VCU
+293,"Justin Tillman",2,forward,65,VCU
+295,"JeQuan Lewis",1,gaurd,65,VCU
+292,"Hamdy Mohamed",2,forward,65,VCU
+294,"De'Riante Jenkins",1,gaurd,65,VCU
+291,"Mo Alie-Cox",2,forward,65,VCU
+289,"Denzel Ingram",1,gaurd,55,Vanderbilt
+284,"Chuck Ogbodo",2,forward,55,Vanderbilt
+288,"Ambrose Mosley",1,gaurd,55,Vanderbilt
+283,"Devontae Cacok",2,forward,55,Vanderbilt
+287,"Jaylen Fornes",1,gaurd,55,Vanderbilt
+282,"C.J. Bryce",2,forward,55,Vanderbilt
+286,"Jordon Talley",1,gaurd,55,Vanderbilt
+290,"Chris Flemmings",1,gaurd,55,Vanderbilt
+285,"Marcus Bryan",2,forward,55,Vanderbilt
+264,"C.J. Bryce",2,forward,24,"UNC Wilmington"
+272,"Chris Flemmings",1,gaurd,24,"UNC Wilmington"
+271,"Denzel Ingram",1,gaurd,24,"UNC Wilmington"
+270,"Ambrose Mosley",1,gaurd,24,"UNC Wilmington"
+269,"Jaylen Fornes",1,gaurd,24,"UNC Wilmington"
+267,"Marcus Bryan",2,forward,24,"UNC Wilmington"
+268,"Jordon Talley",1,gaurd,24,"UNC Wilmington"
+266,"Chuck Ogbodo",2,forward,24,"UNC Wilmington"
+265,"Devontae Cacok",2,forward,24,"UNC Wilmington"
+438,"Lonzo Ball",1,gaurd,12,UCLA
+430,"Ikenna Okwarabizie",3,center,12,UCLA
+437,"Alec Wulff",1,gaurd,12,UCLA
+429,"Thomas Welsh",3,center,12,UCLA
+436,"Jerrold Smith",1,gaurd,12,UCLA
+435,"Isaac Hamilton",1,gaurd,12,UCLA
+432,"Gyorgy Goloman",2,forward,12,UCLA
+434,"Aaron Holiday",1,gaurd,12,UCLA
+431,"TJ Leaf",2,forward,12,UCLA
+433,"Bryce Alford",1,gaurd,12,UCLA
+41,"Siler Schneider",1,gaurd,36,"UC Davis"
+651,"Lawrence White",1,gaurd,36,"UC Davis"
+38,"Garrison Goode",2,forward,36,"UC Davis"
+40,"Arell Hennings",1,gaurd,36,"UC Davis"
+37,"Chima Moneke",2,forward,36,"UC Davis"
+39,"Brynton Lemar",1,gaurd,36,"UC Davis"
+36,"Mikey Henn",2,forward,36,"UC Davis"
+650,"Chima Moneke",2,forward,36,"UC Davis"
+656,"Siler Schneider",1,gaurd,36,"UC Davis"
+35,"J.T. Adenrele",2,forward,36,"UC Davis"
+649,"Garrison Goode",2,forward,36,"UC Davis"
+655,"Brynton Lemar",1,gaurd,36,"UC Davis"
+648,"Georgi Funtarov",2,forward,36,"UC Davis"
+654,"Darius Graham",1,gaurd,36,"UC Davis"
+43,"Lawrence White",1,gaurd,36,"UC Davis"
+647,"J.T. Adenrele",2,forward,36,"UC Davis"
+653,"Michael Onyebalu",1,gaurd,36,"UC Davis"
+42,"Darius Graham",1,gaurd,36,"UC Davis"
+646,"Mikey Henn",2,forward,36,"UC Davis"
+652,"Arell Hennings",1,gaurd,36,"UC Davis"
+633,"Kevin Baker",1,gaurd,34,Troy
+632,"Wesley Person",1,gaurd,34,Troy
+631,"Daniel Peace",1,gaurd,34,Troy
+628,"Alex Hicks",2,forward,34,Troy
+630,"Jeremy Hollimon",1,gaurd,34,Troy
+627,"Jordon Varnado",2,forward,34,Troy
+629,"B.J. Miller",1,gaurd,34,Troy
+626,"Juan Davis",2,forward,34,Troy
+625,"Whit Moreman",2,forward,34,Troy
+605,"Stephan Bennett",2,forward,2,"Texas Southern"
+613,"Jalan McCloud",1,gaurd,2,"Texas Southern"
+612,"Zach Lofton",1,gaurd,2,"Texas Southern"
+611,"Dulani Robinson",1,gaurd,2,"Texas Southern"
+610,"Ty Bynum",1,gaurd,2,"Texas Southern"
+607,"Lamont Walker",2,forward,2,"Texas Southern"
+609,"Kevin Scott",1,gaurd,2,"Texas Southern"
+606,"Eric Washington",2,forward,2,"Texas Southern"
+604,"Marvin Jones",3,center,2,"Texas Southern"
+608,"Demontrae Jefferson",1,gaurd,2,"Texas Southern"
+56,"De'Anthony Melton",1,gaurd,67,"Southern California"
+580,"Nick Rakocevic",2,forward,67,"Southern California"
+55,"Bennie Boatwright",2,forward,67,"Southern California"
+579,"Chimezie Metu",2,forward,67,"Southern California"
+585,"Jordan McLaughlin",1,gaurd,67,"Southern California"
+54,"Nick Rakocevic",2,forward,67,"Southern California"
+578,"Bennie Boatwright",2,forward,67,"Southern California"
+584,"Jonah Mathews",1,gaurd,67,"Southern California"
+53,"Chimezie Metu",2,forward,67,"Southern California"
+577,"Charles Buggs",2,forward,67,"Southern California"
+60,"Elijah Stewart",1,gaurd,67,"Southern California"
+583,"Elijah Stewart",1,gaurd,67,"Southern California"
+59,"Shaqquan Aaron",1,gaurd,67,"Southern California"
+582,"Shaqquan Aaron",1,gaurd,67,"Southern California"
+58,"Jordan McLaughlin",1,gaurd,67,"Southern California"
+581,"De'Anthony Melton",1,gaurd,67,"Southern California"
+57,"Jonah Mathews",1,gaurd,67,"Southern California"
+454,"Hassani Gravett",1,gaurd,31,"South Carolina"
+461,"Rakym Felder",1,gaurd,31,"South Carolina"
+460,"Sindarius Thornwell",1,gaurd,31,"South Carolina"
+459,"Justin McKie",1,gaurd,31,"South Carolina"
+458,"PJ Dozier",1,gaurd,31,"South Carolina"
+453,"Maik Kotsar",2,forward,31,"South Carolina"
+457,"Duane Notice",1,gaurd,31,"South Carolina"
+452,"Chris Silva",2,forward,31,"South Carolina"
+456,"Evan Hinson",1,gaurd,31,"South Carolina"
+451,"Sedee Keita",2,forward,31,"South Carolina"
+455,"TeMarcus Blanton",1,gaurd,31,"South Carolina"
+586,"Ben Moore",2,forward,27,SMU
+589,"Ben Emelogu",1,gaurd,27,SMU
+588,"Jarrey Foster",1,gaurd,27,SMU
+591,"Sterling Brown",1,gaurd,27,SMU
+587,"Semi Ojeleye",2,forward,27,SMU
+590,"Malik Milton",1,gaurd,27,SMU
+570,"Ismael Sanogo",2,forward,6,"Seton Hall"
+575,"Myles Powell",1,gaurd,6,"Seton Hall"
+569,"Michael Nzei",2,forward,6,"Seton Hall"
+574,"Khadeen Carrington",1,gaurd,6,"Seton Hall"
+573,"Rashed Anthony",2,forward,6,"Seton Hall"
+572,"Desi Rodriguez",2,forward,6,"Seton Hall"
+571,"Angel Delgado",2,forward,6,"Seton Hall"
+576,"Madison Jones",1,gaurd,6,"Seton Hall"
+300,"Evan Fitzner",3,center,64,"Saint Mary’s"
+306,"Joe Rahon",1,gaurd,64,"Saint Mary’s"
+305,"Dane Pineau",2,forward,64,"Saint Mary’s"
+304,"Kyle Clark",2,forward,64,"Saint Mary’s"
+303,"Calvin Hermanson",2,forward,64,"Saint Mary’s"
+302,"Jordan Hunter",3,center,64,"Saint Mary’s"
+308,"Emmett Naar",1,gaurd,64,"Saint Mary’s"
+301,"Jock Landale",3,center,64,"Saint Mary’s"
+307,"Tanner Krebs",1,gaurd,64,"Saint Mary’s"
+251,"Tevin King",1,gaurd,53,"S.Dakota St"
+250,"Michael Orris",1,gaurd,53,"S.Dakota St"
+249,"Chris Howell",1,gaurd,53,"S.Dakota St"
+248,"Skyler Flatten",1,gaurd,53,"S.Dakota St"
+247,"Mike Daum",2,forward,53,"S.Dakota St"
+246,"Adam Dykman",2,forward,53,"S.Dakota St"
+254,"Beau Brown",1,gaurd,53,"S.Dakota St"
+245,"Ian Theisen",2,forward,53,"S.Dakota St"
+253,"Sergio El Darwich",1,gaurd,53,"S.Dakota St"
+252,"Andre Wallace",1,gaurd,53,"S.Dakota St"
+545,"Jared Terrell",1,gaurd,44,"Rhode Island"
+538,"Cyril Langevine",2,forward,44,"Rhode Island"
+544,"Jarvis Garrett",1,gaurd,44,"Rhode Island"
+537,"Hassan Martin",2,forward,44,"Rhode Island"
+543,"Jeff Dowtin",1,gaurd,44,"Rhode Island"
+536,"Mike Layssard",2,forward,44,"Rhode Island"
+542,"Will Leviton",1,gaurd,44,"Rhode Island"
+535,"Andre Berry",2,forward,44,"Rhode Island"
+541,"E.C. Matthews",1,gaurd,44,"Rhode Island"
+534,"Nicola Akele",2,forward,44,"Rhode Island"
+540,"Stanford Robinson",1,gaurd,44,"Rhode Island"
+533,"Kuran Iverson",2,forward,44,"Rhode Island"
+539,"Christion Thompson",1,gaurd,44,"Rhode Island"
+546,"Eric Dadika",1,gaurd,44,"Rhode Island"
+310,"Vincent Edwards",2,forward,41,Purdue
+316,"Spike Albrecht",1,gaurd,41,Purdue
+315,"Dakota Mathias",1,gaurd,41,Purdue
+314,"Ryan Cline",1,gaurd,41,Purdue
+313,"P.J. Thompson",1,gaurd,41,Purdue
+309,"Isaac Haas",3,center,41,Purdue
+312,"Carsen Edwards",1,gaurd,41,Purdue
+311,"Caleb Swanigan",2,forward,41,Purdue
+67,"Jalen Lindsey",1,gaurd,68,Providence
+61,"Rodney Bullock",2,forward,68,Providence
+66,"Alpha Diallo",1,gaurd,68,Providence
+65,"Ryan Fazekas",1,gaurd,68,Providence
+64,"Isaiah Jackson",1,gaurd,68,Providence
+69,"Kyron Cartwright",1,gaurd,68,Providence
+63,"Kalif Young",2,forward,68,Providence
+68,"Maliek White",1,gaurd,68,Providence
+62,"Emmitt Holt",2,forward,68,Providence
+233,"Amir Bell",1,gaurd,69,Princeton
+232,"Myles Stephens",1,gaurd,69,Princeton
+231,"Devin Cannady",1,gaurd,69,Princeton
+229,"Steven Cook",2,forward,69,Princeton
+230,"Aaron Young",1,gaurd,69,Princeton
+228,"Will Gladson",2,forward,69,Princeton
+227,"Alec Brennan",2,forward,69,Princeton
+226,"Pete Miller",2,forward,69,Princeton
+225,"Spencer Weisz",2,forward,69,Princeton
+382,"Dylan Ennis",1,gaurd,45,Oregon
+380,"Keith Smith",2,forward,45,Oregon
+381,"Casey Benson",1,gaurd,45,Oregon
+379,"Kavell Bigby-Williams",2,forward,45,Oregon
+378,"Roman Sorkin",2,forward,45,Oregon
+377,"Dillon Brooks",2,forward,45,Oregon
+376,"Jordan Bell",2,forward,45,Oregon
+384,"Payton Pritchard",1,gaurd,45,Oregon
+383,"Tyler Dorsey",1,gaurd,45,Oregon
+221,"Matt Farrell",1,gaurd,56,"Notre Dame"
+220,"Matt Ryan",2,forward,56,"Notre Dame"
+219,"V.J. Beachem",2,forward,56,"Notre Dame"
+218,"Bonzie Colson",2,forward,56,"Notre Dame"
+217,"Martinas Geben",2,forward,56,"Notre Dame"
+216,"Austin Torres",2,forward,56,"Notre Dame"
+224,"Temple Gibbs",1,gaurd,56,"Notre Dame"
+223,"Steve Vasturia",1,gaurd,56,"Notre Dame"
+222,"Rex Pflueger",1,gaurd,56,"Notre Dame"
+277,"Devon Hall",1,gaurd,54,Northwestern
+273,"Jack Salt",3,center,54,Northwestern
+276,"Darius Thompson",1,gaurd,54,Northwestern
+275,"Isaiah Wilkins",2,forward,54,Northwestern
+281,"Ty Jerome",1,gaurd,54,Northwestern
+274,"Mamadi Diakite",2,forward,54,Northwestern
+280,"Marial Shayok",1,gaurd,54,Northwestern
+279,"Kyle Guy",1,gaurd,54,Northwestern
+278,"London Perrantes",1,gaurd,54,Northwestern
+527,"Carson Williams",2,forward,17,"Northern Ky."
+531,"Lavone Holland",1,gaurd,17,"Northern Ky."
+526,"Brennan Gillis",2,forward,17,"Northern Ky."
+530,"Cole Murray",1,gaurd,17,"Northern Ky."
+525,"Jeff Garrett",2,forward,17,"Northern Ky."
+529,"Mason Faulkner",1,gaurd,17,"Northern Ky."
+528,"Jordan Garnett",2,forward,17,"Northern Ky."
+532,"Dantez Walton",1,gaurd,17,"Northern Ky."
+205,"Josh Collins",2,forward,66,"North Dakota"
+215,"Corey Baldwin",1,gaurd,66,"North Dakota"
+214,"Devon Pekas",1,gaurd,66,"North Dakota"
+213,"Quinton Hooker",1,gaurd,66,"North Dakota"
+204,"Carson Shanks",3,center,66,"North Dakota"
+212,"Billy Brown",1,gaurd,66,"North Dakota"
+211,"Cortez Seales",1,gaurd,66,"North Dakota"
+208,"Conner Avants",2,forward,66,"North Dakota"
+210,"Thomas Blake",1,gaurd,66,"North Dakota"
+207,"Drick Bernstine",2,forward,66,"North Dakota"
+209,"Geno Crandall",1,gaurd,66,"North Dakota"
+206,"Kienan Walter",2,forward,66,"North Dakota"
+603,"Kanler Coker",1,gaurd,3,"North Carolina"
+597,"Kennedy Meeks",2,forward,3,"North Carolina"
+602,"Brandon Robinson",1,gaurd,3,"North Carolina"
+596,"Isaiah Hicks",2,forward,3,"North Carolina"
+601,"Seventh Woods",1,gaurd,3,"North Carolina"
+595,"Shea Rush",2,forward,3,"North Carolina"
+600,"Nate Britt",1,gaurd,3,"North Carolina"
+594,"Luke Maye",2,forward,3,"North Carolina"
+599,"Stilman White",1,gaurd,3,"North Carolina"
+593,"Tony Bradley",2,forward,3,"North Carolina"
+598,"Joel Berry",1,gaurd,3,"North Carolina"
+592,"Aaron Rohlman",2,forward,3,"North Carolina"
+15,"Nate Frye",1,gaurd,19,"New Orleans"
+14,"Tevin Broyles",1,gaurd,19,"New Orleans"
+11,"Erik Thomas",2,forward,19,"New Orleans"
+13,"Christavious Gill",1,gaurd,19,"New Orleans"
+10,"Makur Puou",2,forward,19,"New Orleans"
+12,"Jorge Rosa",1,gaurd,19,"New Orleans"
+9,"Travin Thibodeaux",2,forward,19,"New Orleans"
+507,"Eli Chuha",2,forward,30,"New Mexico St."
+515,"Jalyn Pennie",1,gaurd,30,"New Mexico St."
+506,"Jemerrio Jones",2,forward,30,"New Mexico St."
+514,"Jermaine Haley",1,gaurd,30,"New Mexico St."
+505,"Tanveer Bhullar",3,center,30,"New Mexico St."
+513,"Braxton Huggins",1,gaurd,30,"New Mexico St."
+512,"Matt Taylor",1,gaurd,30,"New Mexico St."
+511,"Ian Baker",1,gaurd,30,"New Mexico St."
+510,"Chance Ellis",1,gaurd,30,"New Mexico St."
+509,"Joe Garza",1,gaurd,30,"New Mexico St."
+508,"Johnathon Wilkins",2,forward,30,"New Mexico St."
+190,"Bryce Thurston",1,gaurd,40,Nevada
+189,"Miles Wilson",1,gaurd,40,Nevada
+188,"Elijah Long",1,gaurd,40,Nevada
+187,"Junior Robinson",1,gaurd,40,Nevada
+186,"Khalid Nwandu",1,gaurd,40,Nevada
+182,"Will Miller",2,forward,40,Nevada
+185,"Greg Alexander",1,gaurd,40,Nevada
+181,"Chris Wray",2,forward,40,Nevada
+184,"Sean Gurdon",1,gaurd,40,Nevada
+180,"Mawdo Sallah",3,center,40,Nevada
+183,"Charles Glover",1,gaurd,40,Nevada
+52,"Patrick Cole",1,gaurd,51,"N.C. Central"
+51,"Ron Trapps",1,gaurd,51,"N.C. Central"
+50,"Rashaun Madison",1,gaurd,51,"N.C. Central"
+49,"Dajuan Graf",1,gaurd,51,"N.C. Central"
+47,"Kyle Benton",2,forward,51,"N.C. Central"
+48,"CJ Wiggins",1,gaurd,51,"N.C. Central"
+46,"Pablo Rivas",2,forward,51,"N.C. Central"
+45,"Will Ransom",2,forward,51,"N.C. Central"
+44,"Del'Vin Dickerson",2,forward,51,"N.C. Central"
+8,"Charles Glover",1,gaurd,18,"Mount St. Mary’s"
+162,"Mawdo Sallah",3,center,18,"Mount St. Mary’s"
+167,"Greg Alexander",1,gaurd,18,"Mount St. Mary’s"
+3,"Chris Wray",2,forward,18,"Mount St. Mary’s"
+7,"Elijah Long",1,gaurd,18,"Mount St. Mary’s"
+1,"Mawdo Sallah",3,center,18,"Mount St. Mary’s"
+166,"Sean Gurdon",1,gaurd,18,"Mount St. Mary’s"
+2,"Will Miller",2,forward,18,"Mount St. Mary’s"
+6,"Greg Alexander",1,gaurd,18,"Mount St. Mary’s"
+165,"Charles Glover",1,gaurd,18,"Mount St. Mary’s"
+164,"Will Miller",2,forward,18,"Mount St. Mary’s"
+5,"Junior Robinson",1,gaurd,18,"Mount St. Mary’s"
+172,"Bryce Thurston",1,gaurd,18,"Mount St. Mary’s"
+163,"Chris Wray",2,forward,18,"Mount St. Mary’s"
+4,"Miles Wilson",1,gaurd,18,"Mount St. Mary’s"
+171,"Miles Wilson",1,gaurd,18,"Mount St. Mary’s"
+170,"Elijah Long",1,gaurd,18,"Mount St. Mary’s"
+169,"Junior Robinson",1,gaurd,18,"Mount St. Mary’s"
+168,"Khalid Nwandu",1,gaurd,18,"Mount St. Mary’s"
+152,"Nate Mason",1,gaurd,7,Minnesota
+150,"Eric Curry",2,forward,7,Minnesota
+147,"Reggie Lynch",3,center,7,Minnesota
+151,"Amir Coffey",1,gaurd,7,Minnesota
+149,"Jordan Murphy",2,forward,7,Minnesota
+146,"Bakary Konate",3,center,7,Minnesota
+148,"Michael Hurt",2,forward,7,Minnesota
+154,"Stephon Sharp",1,gaurd,7,Minnesota
+153,"Dupree McBrayer",1,gaurd,7,Minnesota
+145,"Antwain Johnson",1,gaurd,8,"Middle Tenn."
+144,"Giddy Potts",1,gaurd,8,"Middle Tenn."
+140,"Jacorey Williams",2,forward,8,"Middle Tenn."
+143,"Tyrik Dixon",1,gaurd,8,"Middle Tenn."
+139,"Brandon Walters",2,forward,8,"Middle Tenn."
+142,"Edward Simpson",1,gaurd,8,"Middle Tenn."
+138,"Reggie Upshaw",2,forward,8,"Middle Tenn."
+141,"Quavius Copeland",1,gaurd,8,"Middle Tenn."
+137,"Xavier Habersham",2,forward,8,"Middle Tenn."
+476,"Greg Roy",1,gaurd,38,"Michigan St."
+475,"Miles Bridges",2,forward,38,"Michigan St."
+483,"Joshua Langford",1,gaurd,38,"Michigan St."
+474,"Kenny Goins",2,forward,38,"Michigan St."
+482,"Matt McQuaid",1,gaurd,38,"Michigan St."
+473,"Matt Van Dyk",2,forward,38,"Michigan St."
+481,"Alvin Ellis",1,gaurd,38,"Michigan St."
+472,"Nick Ward",2,forward,38,"Michigan St."
+480,"Conner George",1,gaurd,38,"Michigan St."
+479,"Lourawls Nairn",1,gaurd,38,"Michigan St."
+478,"Kyle Ahrens",1,gaurd,38,"Michigan St."
+477,"Cassius Winston",1,gaurd,38,"Michigan St."
+487,"Kamari Murphy",2,forward,37,"Miami (Fla.)"
+489,"Dejan Vasiljevic",1,gaurd,37,"Miami (Fla.)"
+486,"Dewan Huell",2,forward,37,"Miami (Fla.)"
+494,"Bruce Brown",1,gaurd,37,"Miami (Fla.)"
+485,"Ebuka Izundu",3,center,37,"Miami (Fla.)"
+493,"Davon Reed",1,gaurd,37,"Miami (Fla.)"
+484,"Rodney Miller",3,center,37,"Miami (Fla.)"
+492,"Mike Robinson",1,gaurd,37,"Miami (Fla.)"
+491,"Ja'Quan Newton",1,gaurd,37,"Miami (Fla.)"
+488,"Chris Stowell",2,forward,37,"Miami (Fla.)"
+490,"Anthony Lawrence",1,gaurd,37,"Miami (Fla.)"
+367,"Ivan Bender",2,forward,59,Maryland
+375,"Anthony Cowan",1,gaurd,59,Maryland
+374,"Kevin Huerter",1,gaurd,59,Maryland
+373,"Dion Wiley",1,gaurd,59,Maryland
+372,"Jaylen Brantley",1,gaurd,59,Maryland
+370,"Damonte Dodd",2,forward,59,Maryland
+371,"Melo Trimble",1,gaurd,59,Maryland
+369,"Justin Jackson",2,forward,59,Maryland
+368,"L.G. Gill",2,forward,59,Maryland
+464,"Duane Wilson",1,gaurd,32,Marquette
+471,"Cam Marotta",1,gaurd,32,Marquette
+470,"Katin Reinhardt",1,gaurd,32,Marquette
+469,"JaJuan Johnson",1,gaurd,32,Marquette
+468,"Andrew Rowsey",1,gaurd,32,Marquette
+467,"Sam Hauser",1,gaurd,32,Marquette
+463,"Luke Fischer",3,center,32,Marquette
+466,"Markus Howard",1,gaurd,32,Marquette
+462,"Matt Heldt",3,center,32,Marquette
+465,"Haanif Cheatham",1,gaurd,32,Marquette
+397,"Quentin Snider",1,gaurd,49,Louisville
+396,"Deng Adel",2,forward,49,Louisville
+395,"V.J. King",2,forward,49,Louisville
+394,"Ray Spalding",2,forward,49,Louisville
+393,"Jaylen Johnson",2,forward,49,Louisville
+400,"David Levitch",1,gaurd,49,Louisville
+392,"Anas Mahmoud",2,forward,49,Louisville
+399,"Tony Hicks",1,gaurd,49,Louisville
+398,"Donovan Mitchell",1,gaurd,49,Louisville
+519,"Isaac Humphries",2,forward,16,Kentucky
+524,"De'Aaron Fox",1,gaurd,16,Kentucky
+518,"Derek Willis",2,forward,16,Kentucky
+523,"Isaiah Briscoe",1,gaurd,16,Kentucky
+517,"Wenyen Gabriel",2,forward,16,Kentucky
+522,"Mychal Mulder",1,gaurd,16,Kentucky
+516,"Edrice Adebayo",2,forward,16,Kentucky
+521,"Malik Monk",1,gaurd,16,Kentucky
+520,"Dominique Hawkins",1,gaurd,16,Kentucky
+442,"Jimmy Hall",2,forward,13,"Kent St."
+450,"Jon Fleming",1,gaurd,13,"Kent St."
+441,"Alonzo Walker",2,forward,13,"Kent St."
+449,"Mitch Peterson",1,gaurd,13,"Kent St."
+440,"Danny Pippen",2,forward,13,"Kent St."
+448,"Jalen Avery",1,gaurd,13,"Kent St."
+447,"Desmond Ridenour",1,gaurd,13,"Kent St."
+446,"Kevin Zabo",1,gaurd,13,"Kent St."
+445,"Jaylin Walker",1,gaurd,13,"Kent St."
+444,"Deon Edwin",1,gaurd,13,"Kent St."
+439,"Adonis De La Rosa",3,center,13,"Kent St."
+443,"Leo Edwards",2,forward,13,"Kent St."
+426,"Brian Patrick",1,gaurd,4,"Kansas St"
+24,"Kamau Stokes",1,gaurd,4,"Kansas St"
+419,"Wesley Iwundu",2,forward,4,"Kansas St"
+20,"Dean Wade",2,forward,4,"Kansas St"
+425,"Carlbe Ervin",1,gaurd,4,"Kansas St"
+23,"Brian Patrick",1,gaurd,4,"Kansas St"
+418,"Dean Wade",2,forward,4,"Kansas St"
+19,"Isaiah Maurice",2,forward,4,"Kansas St"
+424,"Barry Brown",1,gaurd,4,"Kansas St"
+22,"Carlbe Ervin",1,gaurd,4,"Kansas St"
+417,"Xavier Sneed",2,forward,4,"Kansas St"
+18,"Xavier Sneed",2,forward,4,"Kansas St"
+423,"Zach Winter",1,gaurd,4,"Kansas St"
+21,"Barry Brown",1,gaurd,4,"Kansas St"
+416,"Isaiah Maurice",2,forward,4,"Kansas St"
+17,"D.J. Johnson",2,forward,4,"Kansas St"
+16,"Wesley Iwundu",2,forward,4,"Kansas St"
+422,"D.J. Johnson",2,forward,4,"Kansas St"
+428,"Mason Schoen",1,gaurd,4,"Kansas St"
+421,"Austin Budke",2,forward,4,"Kansas St"
+427,"Kamau Stokes",1,gaurd,4,"Kansas St"
+420,"Pierson McAtee",2,forward,4,"Kansas St"
+637,"Dwight Coleby",2,forward,35,Kansas
+638,"Tucker Vang",1,gaurd,35,Kansas
+636,"Landen Lucas",2,forward,35,Kansas
+645,"Devonte' Graham",1,gaurd,35,Kansas
+635,"Carlton Bragg",2,forward,35,Kansas
+644,"Sviatoslav Mykhailiuk",1,gaurd,35,Kansas
+634,"Mitch Lightfoot",2,forward,35,Kansas
+643,"Josh Jackson",1,gaurd,35,Kansas
+642,"Tyler Self",1,gaurd,35,Kansas
+641,"Lagerald Vick",1,gaurd,35,Kansas
+640,"Clay Young",1,gaurd,35,Kansas
+639,"Frank Mason",1,gaurd,35,Kansas
+407,"Erik Durham",1,gaurd,50,"Jacksonville St."
+401,"Christian Cunningham",2,forward,50,"Jacksonville St."
+406,"Ashton Spears",1,gaurd,50,"Jacksonville St."
+405,"Tyrik Edwards",1,gaurd,50,"Jacksonville St."
+404,"Malcolm Drumwright",1,gaurd,50,"Jacksonville St."
+403,"Greg Tucker",1,gaurd,50,"Jacksonville St."
+402,"Jacara Cross",2,forward,50,"Jacksonville St."
+179,"Jalen Brunson",1,gaurd,39,"Iowa St."
+174,"Kris Jenkins",2,forward,39,"Iowa St."
+178,"Josh Hart",1,gaurd,39,"Iowa St."
+173,"Dylan Painter",2,forward,39,"Iowa St."
+177,"Donte DiVincenzo",1,gaurd,39,"Iowa St."
+176,"Darryl Reynolds",2,forward,39,"Iowa St."
+175,"Eric Paschall",2,forward,39,"Iowa St."
+391,"Schadrac Casimir",1,gaurd,46,Iona
+390,"Deyshonee Much",1,gaurd,46,Iona
+389,"Sam Cassell",1,gaurd,46,Iona
+388,"Rickey McGill",1,gaurd,46,Iona
+387,"Jon Severe",1,gaurd,46,Iona
+386,"Taylor Bessick",2,forward,46,Iona
+385,"Jordan Washington",2,forward,46,Iona
+240,"Nigel Williams-Goss",1,gaurd,52,Gonzaga
+237,"Killian Tillie",2,forward,52,Gonzaga
+236,"Zach Collins",2,forward,52,Gonzaga
+235,"Jeremy Jones",2,forward,52,Gonzaga
+234,"Przemek Karnowski",3,center,52,Gonzaga
+244,"Silas Melson",1,gaurd,52,Gonzaga
+243,"Jordan Mathews",1,gaurd,52,Gonzaga
+242,"Josh Perkins",1,gaurd,52,Gonzaga
+239,"Johnathan Williams",2,forward,52,Gonzaga
+241,"Bryan Alberts",1,gaurd,52,Gonzaga
+238,"Rui Hachimura",2,forward,52,Gonzaga
+123,"Braian Angola-Rodas",1,gaurd,61,"Florida St"
+122,"Xavier Rathan-Mayes",1,gaurd,61,"Florida St"
+121,"Trent Forrest",1,gaurd,61,"Florida St"
+117,"Christ Koumadje",3,center,61,"Florida St"
+120,"Jonathan Isaac",2,forward,61,"Florida St"
+116,"Michael Ojo",3,center,61,"Florida St"
+127,"CJ Walker",1,gaurd,61,"Florida St"
+119,"Phil Cofer",2,forward,61,"Florida St"
+126,"PJ Savoy",1,gaurd,61,"Florida St"
+118,"Jarquez Smith",2,forward,61,"Florida St"
+125,"Dwayne Bacon",1,gaurd,61,"Florida St"
+124,"Terance Mann",1,gaurd,61,"Florida St"
+109,"Devin Robinson",2,forward,25,Florida
+115,"Chris Chiozza",1,gaurd,25,Florida
+114,"KeVaughn Allen",1,gaurd,25,Florida
+108,"Schuyler Rimmer",3,center,25,Florida
+113,"Kasey Hill",1,gaurd,25,Florida
+112,"Canyon Barry",1,gaurd,25,Florida
+111,"Keith Stone",2,forward,25,Florida
+110,"Justin Leon",2,forward,25,Florida
+135,"Reggie Reid",1,gaurd,62,"Fla. Gulf Coast"
+130,"Marc-Eddy Norelia",2,forward,62,"Fla. Gulf Coast"
+134,"Rayjon Tucker",1,gaurd,62,"Fla. Gulf Coast"
+129,"Antravious Simmons",2,forward,62,"Fla. Gulf Coast"
+133,"Christian Terrell",1,gaurd,62,"Fla. Gulf Coast"
+128,"Demetris Morant",2,forward,62,"Fla. Gulf Coast"
+132,"Zach Johnson",1,gaurd,62,"Fla. Gulf Coast"
+136,"Brandon Goodwin",1,gaurd,62,"Fla. Gulf Coast"
+131,"Kevin Mickle",2,forward,62,"Fla. Gulf Coast"
+106,"Jermaine Long",1,gaurd,26,"East Tenn. St."
+105,"Desonta Bradford",1,gaurd,26,"East Tenn. St."
+102,"Tevin Glass",2,forward,26,"East Tenn. St."
+104,"A.J. Merriweather",1,gaurd,26,"East Tenn. St."
+101,"Hanner Mosquera-Perea",2,forward,26,"East Tenn. St."
+103,"T.J. Cromer",1,gaurd,26,"East Tenn. St."
+100,"David Burrell",2,forward,26,"East Tenn. St."
+99,"Isaac Banks",2,forward,26,"East Tenn. St."
+107,"Devontavius Payne",1,gaurd,26,"East Tenn. St."
+620,"Justin Robinson",2,forward,33,Duke
+622,"Frank Jackson",1,gaurd,33,Duke
+619,"Jayson Tatum",2,forward,33,Duke
+621,"Luke Kennard",1,gaurd,33,Duke
+618,"Jack White",2,forward,33,Duke
+617,"Amile Jefferson",2,forward,33,Duke
+616,"Javin DeLaurier",2,forward,33,Duke
+615,"Harry Giles",2,forward,33,Duke
+614,"Antonio Vrankovic",3,center,33,Duke
+624,"Grayson Allen",1,gaurd,33,Duke
+623,"Matt Jones",1,gaurd,33,Duke
+671,"Kendall Pollard",2,forward,14,Dayton
+676,"John Crosby",1,gaurd,14,Dayton
+670,"Ryan Mikesell",2,forward,14,Dayton
+675,"Kyle Davis",1,gaurd,14,Dayton
+669,"Sam Miller",2,forward,14,Dayton
+674,"Charles Cooke",1,gaurd,14,Dayton
+668,"Josh Cunningham",2,forward,14,Dayton
+673,"Scoochie Smith",1,gaurd,14,Dayton
+667,"Xeyrius Williams",2,forward,14,Dayton
+672,"Darrell Davis",1,gaurd,14,Dayton
+549,"Cole Huff",2,forward,43,Creighton
+548,"Zach Hanson",3,center,43,Creighton
+558,"Isaiah Zierden",1,gaurd,43,Creighton
+547,"Justin Patton",3,center,43,Creighton
+557,"Kobe Paras",1,gaurd,43,Creighton
+556,"Jordan Scurry",1,gaurd,43,Creighton
+555,"Ronnie Harrell",1,gaurd,43,Creighton
+554,"Davion Mintz",1,gaurd,43,Creighton
+553,"Khyri Thomas",1,gaurd,43,Creighton
+551,"Martin Krampelj",2,forward,43,Creighton
+552,"Tyler Clement",1,gaurd,43,Creighton
+550,"Toby Hegner",2,forward,43,Creighton
+559,"Marcus Foster",1,gaurd,43,Creighton
+408,"Nysier Brooks",3,center,11,Cincinnati
+415,"Kevin Johnson",1,gaurd,11,Cincinnati
+411,"Gary Clark",2,forward,11,Cincinnati
+414,"Justin Jenifer",1,gaurd,11,Cincinnati
+410,"Quadri Moore",2,forward,11,Cincinnati
+413,"Troy Caupain",1,gaurd,11,Cincinnati
+409,"Kyle Washington",2,forward,11,Cincinnati
+412,"Jarron Cumberland",1,gaurd,11,Cincinnati
+347,"Kamar Baldwin",1,gaurd,9,Butler
+343,"Andrew Chrabascz",2,forward,9,Butler
+346,"Tyler Lewis",1,gaurd,9,Butler
+342,"Kelan Martin",2,forward,9,Butler
+345,"Kethan Savage",1,gaurd,9,Butler
+341,"Tyler Wideman",2,forward,9,Butler
+340,"Nate Fowler",3,center,9,Butler
+344,"Avery Woodson",1,gaurd,9,Butler
+86,"John Azzinaro",1,gaurd,58,"Bucknell "
+90,"Avi Toomer",1,gaurd,58,"Bucknell "
+89,"Nate Jones",1,gaurd,58,"Bucknell "
+85,"Zach Thomas",2,forward,58,"Bucknell "
+88,"Kimbal Mackenzie",1,gaurd,58,"Bucknell "
+82,"Nana Foulland",3,center,58,"Bucknell "
+84,"Bruce Moore",2,forward,58,"Bucknell "
+87,"Stephen Brown",1,gaurd,58,"Bucknell "
+81,"Nate Sestina",3,center,58,"Bucknell "
+83,"D.J. MacLeay",2,forward,58,"Bucknell "
+503,"Jake Lindsey",1,gaurd,29,Baylor
+502,"King McClure",1,gaurd,29,Baylor
+499,"Nuni Omot",2,forward,29,Baylor
+500,"Ishmail Wainright",1,gaurd,29,Baylor
+501,"Al Freeman",1,gaurd,29,Baylor
+498,"Terry Maston",2,forward,29,Baylor
+497,"Johnathan Motley",2,forward,29,Baylor
+496,"Jonathan Davis",2,forward,29,Baylor
+495,"Jo Lual-Acuil",2,forward,29,Baylor
+504,"Manu Lecomte",1,gaurd,29,Baylor
+563,"Trey Thompson",2,forward,5,Arkansas
+568,"Anton Beard",1,gaurd,5,Arkansas
+562,"Arlando Cook",2,forward,5,Arkansas
+567,"Jaylen Barford",1,gaurd,5,Arkansas
+561,"Moses Kingsley",2,forward,5,Arkansas
+566,"Daryl Macon",1,gaurd,5,Arkansas
+560,"Dustin Thomas",2,forward,5,Arkansas
+565,"Dusty Hannahs",1,gaurd,5,Arkansas
+564,"Manuale Watkins",1,gaurd,5,Arkansas
+203,"Allonzo Trier",1,gaurd,63,Arizona
+202,"Tyler Trillo",1,gaurd,63,Arizona
+195,"Jake Desjardins",2,forward,63,Arizona
+201,"Paulo Cruz",1,gaurd,63,Arizona
+194,"Lauri Markkanen",2,forward,63,Arizona
+200,"Parker Jackson-Cartwright",1,gaurd,63,Arizona
+193,"Keanu Pinder",2,forward,63,Arizona
+199,"Kadeem Allen",1,gaurd,63,Arizona
+192,"Chance Comanche",3,center,63,Arizona
+198,"Rawle Alkins",1,gaurd,63,Arizona
+191,"Dusan Ristic",3,center,63,Arizona
+197,"Kobi Simmons",1,gaurd,63,Arizona
+196,"Kory Jones",1,gaurd,63,Arizona

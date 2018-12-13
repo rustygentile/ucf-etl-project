@@ -1,0 +1,669 @@
+,player_id,position_id,position_name,team_id,team_name,Player_Name
+0,365,1,gaurd,60,Xavier,Malcolm_Bernard
+1,364,1,gaurd,60,Xavier,Quentin_Goodin
+2,362,2,forward,60,Xavier,RaShid_Gaston
+3,363,1,gaurd,60,Xavier,J.P._Macura
+4,361,2,forward,60,Xavier,Tyrique_Jones
+5,360,2,forward,60,Xavier,Kaiser_Gates
+6,366,1,gaurd,60,Xavier,Trevon_Bluiett
+7,327,2,forward,22,Wisconsin,Alex_Illikainen
+8,333,1,gaurd,22,Wisconsin,Zak_Showalter
+9,326,2,forward,22,Wisconsin,Vitto_Brown
+10,332,1,gaurd,22,Wisconsin,D'Mitrik_Trice
+11,325,2,forward,22,Wisconsin,Nigel_Hayes
+12,331,1,gaurd,22,Wisconsin,Bronson_Koenig
+13,330,1,gaurd,22,Wisconsin,Jordan_Hill
+14,329,2,forward,22,Wisconsin,Aaron_Moesch
+15,328,2,forward,22,Wisconsin,Ethan_Happ
+16,354,1,gaurd,10,Winthrop,Anders_Broman
+17,349,2,forward,10,Winthrop,Josh_Ferguson
+18,348,3,center,10,Winthrop,Duby_Okeke
+19,359,1,gaurd,10,Winthrop,Kellen_Blake
+20,358,1,gaurd,10,Winthrop,Hunter_Sadlon
+21,353,2,forward,10,Winthrop,Tevin_Prescott
+22,357,1,gaurd,10,Winthrop,Bjorn_Broman
+23,352,2,forward,10,Winthrop,Josh_Davenport
+24,356,1,gaurd,10,Winthrop,Keon_Johnson
+25,351,2,forward,10,Winthrop,Mitch_Hill
+26,355,1,gaurd,10,Winthrop,Adam_Pickett
+27,350,2,forward,10,Winthrop,Roderick_Perkins
+28,661,2,forward,15,Wichita St,Markis_McDuffie
+29,665,1,gaurd,15,Wichita St,Landry_Shamet
+30,660,2,forward,15,Wichita St,Rashard_Kelly
+31,664,1,gaurd,15,Wichita St,Conner_Frankamp
+32,659,2,forward,15,Wichita St,Zach_Brown
+33,663,1,gaurd,15,Wichita St,Daishon_Smith
+34,658,3,center,15,Wichita St,Shaquille_Morris
+35,657,3,center,15,Wichita St,Rauno_Nurger
+36,662,2,forward,15,Wichita St,Darral_Willis
+37,666,1,gaurd,15,Wichita St,Austin_Reaves
+38,75,2,forward,57,West Virginia,Lamont_West
+39,80,1,gaurd,57,West Virginia,James_Bolden
+40,74,2,forward,57,West Virginia,Brandon_Watkins
+41,79,1,gaurd,57,West Virginia,Jevon_Carter
+42,73,2,forward,57,West Virginia,Nathan_Adrian
+43,78,1,gaurd,57,West Virginia,Teyvon_Myers
+44,72,2,forward,57,West Virginia,Sagaba_Konate
+45,77,1,gaurd,57,West Virginia,Tarik_Phillip
+46,71,2,forward,57,West Virginia,Elijah_Macon
+47,76,1,gaurd,57,West Virginia,Daxter_Miles
+48,70,2,forward,57,West Virginia,Esa_Ahmad
+49,25,3,center,1,Wake Forest,Sam_Japhet-Mathias
+50,34,1,gaurd,1,Wake Forest,Keyshawn_Woods
+51,33,1,gaurd,1,Wake Forest,Trent_VanHorn
+52,29,2,forward,1,Wake Forest,Austin_Arians
+53,32,1,gaurd,1,Wake Forest,Bryant_Crawford
+54,28,2,forward,1,Wake Forest,John_Collins
+55,31,1,gaurd,1,Wake Forest,Brandon_Childress
+56,27,2,forward,1,Wake Forest,Greg_McClinton
+57,30,1,gaurd,1,Wake Forest,Mitchell_Wilbekin
+58,26,2,forward,1,Wake Forest,Konstantinos_Mitoglou
+59,336,1,gaurd,20,Virginia Tech,Seth_Allen
+60,335,2,forward,20,Virginia Tech,Khadim_Sy
+61,339,1,gaurd,20,Virginia Tech,Justin_Bibbs
+62,334,2,forward,20,Virginia Tech,Zach_LeDay
+63,338,1,gaurd,20,Virginia Tech,Justin_Robinson
+64,337,1,gaurd,20,Virginia Tech,Ahmed_Hill
+65,262,1,gaurd,23,Virginia,Marial_Shayok
+66,261,1,gaurd,23,Virginia,Kyle_Guy
+67,257,2,forward,23,Virginia,Isaiah_Wilkins
+68,255,3,center,23,Virginia,Jack_Salt
+69,260,1,gaurd,23,Virginia,London_Perrantes
+70,256,2,forward,23,Virginia,Mamadi_Diakite
+71,259,1,gaurd,23,Virginia,Devon_Hall
+72,258,1,gaurd,23,Virginia,Darius_Thompson
+73,263,1,gaurd,23,Virginia,Ty_Jerome
+74,161,1,gaurd,21,Villanova,Jalen_Brunson
+75,160,1,gaurd,21,Villanova,Josh_Hart
+76,158,2,forward,21,Villanova,Darryl_Reynolds
+77,159,1,gaurd,21,Villanova,Donte_DiVincenzo
+78,157,2,forward,21,Villanova,Eric_Paschall
+79,156,2,forward,21,Villanova,Kris_Jenkins
+80,155,2,forward,21,Villanova,Dylan_Painter
+81,321,1,gaurd,42,Vermont,Trae_Bell-Haynes
+82,320,2,forward,42,Vermont,Payton_Henson
+83,319,2,forward,42,Vermont,Darren_Payen
+84,324,1,gaurd,42,Vermont,Dre_Wills
+85,318,2,forward,42,Vermont,Drew_Urquhart
+86,323,1,gaurd,42,Vermont,Ernie_Duncan
+87,317,2,forward,42,Vermont,Anthony_Lamb
+88,322,1,gaurd,42,Vermont,Cam_Ward
+89,299,1,gaurd,65,VCU,Malik_Crowfield
+90,298,1,gaurd,65,VCU,Doug_Brooks
+91,297,1,gaurd,65,VCU,Jonathan_Williams
+92,296,1,gaurd,65,VCU,Samir_Doughty
+93,293,2,forward,65,VCU,Justin_Tillman
+94,295,1,gaurd,65,VCU,JeQuan_Lewis
+95,292,2,forward,65,VCU,Hamdy_Mohamed
+96,294,1,gaurd,65,VCU,De'Riante_Jenkins
+97,291,2,forward,65,VCU,Mo_Alie-Cox
+98,289,1,gaurd,55,Vanderbilt,Denzel_Ingram
+99,284,2,forward,55,Vanderbilt,Chuck_Ogbodo
+100,288,1,gaurd,55,Vanderbilt,Ambrose_Mosley
+101,283,2,forward,55,Vanderbilt,Devontae_Cacok
+102,287,1,gaurd,55,Vanderbilt,Jaylen_Fornes
+103,282,2,forward,55,Vanderbilt,C.J._Bryce
+104,286,1,gaurd,55,Vanderbilt,Jordon_Talley
+105,290,1,gaurd,55,Vanderbilt,Chris_Flemmings
+106,285,2,forward,55,Vanderbilt,Marcus_Bryan
+107,264,2,forward,24,UNC Wilmington,C.J._Bryce
+108,272,1,gaurd,24,UNC Wilmington,Chris_Flemmings
+109,271,1,gaurd,24,UNC Wilmington,Denzel_Ingram
+110,270,1,gaurd,24,UNC Wilmington,Ambrose_Mosley
+111,269,1,gaurd,24,UNC Wilmington,Jaylen_Fornes
+112,267,2,forward,24,UNC Wilmington,Marcus_Bryan
+113,268,1,gaurd,24,UNC Wilmington,Jordon_Talley
+114,266,2,forward,24,UNC Wilmington,Chuck_Ogbodo
+115,265,2,forward,24,UNC Wilmington,Devontae_Cacok
+116,438,1,gaurd,12,UCLA,Lonzo_Ball
+117,430,3,center,12,UCLA,Ikenna_Okwarabizie
+118,437,1,gaurd,12,UCLA,Alec_Wulff
+119,429,3,center,12,UCLA,Thomas_Welsh
+120,436,1,gaurd,12,UCLA,Jerrold_Smith
+121,435,1,gaurd,12,UCLA,Isaac_Hamilton
+122,432,2,forward,12,UCLA,Gyorgy_Goloman
+123,434,1,gaurd,12,UCLA,Aaron_Holiday
+124,431,2,forward,12,UCLA,TJ_Leaf
+125,433,1,gaurd,12,UCLA,Bryce_Alford
+126,41,1,gaurd,36,UC Davis,Siler_Schneider
+127,651,1,gaurd,36,UC Davis,Lawrence_White
+128,38,2,forward,36,UC Davis,Garrison_Goode
+129,40,1,gaurd,36,UC Davis,Arell_Hennings
+130,37,2,forward,36,UC Davis,Chima_Moneke
+131,39,1,gaurd,36,UC Davis,Brynton_Lemar
+132,36,2,forward,36,UC Davis,Mikey_Henn
+133,650,2,forward,36,UC Davis,Chima_Moneke
+134,656,1,gaurd,36,UC Davis,Siler_Schneider
+135,35,2,forward,36,UC Davis,J.T._Adenrele
+136,649,2,forward,36,UC Davis,Garrison_Goode
+137,655,1,gaurd,36,UC Davis,Brynton_Lemar
+138,648,2,forward,36,UC Davis,Georgi_Funtarov
+139,654,1,gaurd,36,UC Davis,Darius_Graham
+140,43,1,gaurd,36,UC Davis,Lawrence_White
+141,647,2,forward,36,UC Davis,J.T._Adenrele
+142,653,1,gaurd,36,UC Davis,Michael_Onyebalu
+143,42,1,gaurd,36,UC Davis,Darius_Graham
+144,646,2,forward,36,UC Davis,Mikey_Henn
+145,652,1,gaurd,36,UC Davis,Arell_Hennings
+146,633,1,gaurd,34,Troy,Kevin_Baker
+147,632,1,gaurd,34,Troy,Wesley_Person
+148,631,1,gaurd,34,Troy,Daniel_Peace
+149,628,2,forward,34,Troy,Alex_Hicks
+150,630,1,gaurd,34,Troy,Jeremy_Hollimon
+151,627,2,forward,34,Troy,Jordon_Varnado
+152,629,1,gaurd,34,Troy,B.J._Miller
+153,626,2,forward,34,Troy,Juan_Davis
+154,625,2,forward,34,Troy,Whit_Moreman
+155,605,2,forward,2,Texas Southern,Stephan_Bennett
+156,613,1,gaurd,2,Texas Southern,Jalan_McCloud
+157,612,1,gaurd,2,Texas Southern,Zach_Lofton
+158,611,1,gaurd,2,Texas Southern,Dulani_Robinson
+159,610,1,gaurd,2,Texas Southern,Ty_Bynum
+160,607,2,forward,2,Texas Southern,Lamont_Walker
+161,609,1,gaurd,2,Texas Southern,Kevin_Scott
+162,606,2,forward,2,Texas Southern,Eric_Washington
+163,604,3,center,2,Texas Southern,Marvin_Jones
+164,608,1,gaurd,2,Texas Southern,Demontrae_Jefferson
+165,56,1,gaurd,67,Southern California,De'Anthony_Melton
+166,580,2,forward,67,Southern California,Nick_Rakocevic
+167,55,2,forward,67,Southern California,Bennie_Boatwright
+168,579,2,forward,67,Southern California,Chimezie_Metu
+169,585,1,gaurd,67,Southern California,Jordan_McLaughlin
+170,54,2,forward,67,Southern California,Nick_Rakocevic
+171,578,2,forward,67,Southern California,Bennie_Boatwright
+172,584,1,gaurd,67,Southern California,Jonah_Mathews
+173,53,2,forward,67,Southern California,Chimezie_Metu
+174,577,2,forward,67,Southern California,Charles_Buggs
+175,60,1,gaurd,67,Southern California,Elijah_Stewart
+176,583,1,gaurd,67,Southern California,Elijah_Stewart
+177,59,1,gaurd,67,Southern California,Shaqquan_Aaron
+178,582,1,gaurd,67,Southern California,Shaqquan_Aaron
+179,58,1,gaurd,67,Southern California,Jordan_McLaughlin
+180,581,1,gaurd,67,Southern California,De'Anthony_Melton
+181,57,1,gaurd,67,Southern California,Jonah_Mathews
+182,454,1,gaurd,31,South Carolina,Hassani_Gravett
+183,461,1,gaurd,31,South Carolina,Rakym_Felder
+184,460,1,gaurd,31,South Carolina,Sindarius_Thornwell
+185,459,1,gaurd,31,South Carolina,Justin_McKie
+186,458,1,gaurd,31,South Carolina,PJ_Dozier
+187,453,2,forward,31,South Carolina,Maik_Kotsar
+188,457,1,gaurd,31,South Carolina,Duane_Notice
+189,452,2,forward,31,South Carolina,Chris_Silva
+190,456,1,gaurd,31,South Carolina,Evan_Hinson
+191,451,2,forward,31,South Carolina,Sedee_Keita
+192,455,1,gaurd,31,South Carolina,TeMarcus_Blanton
+193,586,2,forward,27,SMU,Ben_Moore
+194,589,1,gaurd,27,SMU,Ben_Emelogu
+195,588,1,gaurd,27,SMU,Jarrey_Foster
+196,591,1,gaurd,27,SMU,Sterling_Brown
+197,587,2,forward,27,SMU,Semi_Ojeleye
+198,590,1,gaurd,27,SMU,Malik_Milton
+199,570,2,forward,6,Seton Hall,Ismael_Sanogo
+200,575,1,gaurd,6,Seton Hall,Myles_Powell
+201,569,2,forward,6,Seton Hall,Michael_Nzei
+202,574,1,gaurd,6,Seton Hall,Khadeen_Carrington
+203,573,2,forward,6,Seton Hall,Rashed_Anthony
+204,572,2,forward,6,Seton Hall,Desi_Rodriguez
+205,571,2,forward,6,Seton Hall,Angel_Delgado
+206,576,1,gaurd,6,Seton Hall,Madison_Jones
+207,300,3,center,64,Saint Mary’s,Evan_Fitzner
+208,306,1,gaurd,64,Saint Mary’s,Joe_Rahon
+209,305,2,forward,64,Saint Mary’s,Dane_Pineau
+210,304,2,forward,64,Saint Mary’s,Kyle_Clark
+211,303,2,forward,64,Saint Mary’s,Calvin_Hermanson
+212,302,3,center,64,Saint Mary’s,Jordan_Hunter
+213,308,1,gaurd,64,Saint Mary’s,Emmett_Naar
+214,301,3,center,64,Saint Mary’s,Jock_Landale
+215,307,1,gaurd,64,Saint Mary’s,Tanner_Krebs
+216,251,1,gaurd,53,S.Dakota St,Tevin_King
+217,250,1,gaurd,53,S.Dakota St,Michael_Orris
+218,249,1,gaurd,53,S.Dakota St,Chris_Howell
+219,248,1,gaurd,53,S.Dakota St,Skyler_Flatten
+220,247,2,forward,53,S.Dakota St,Mike_Daum
+221,246,2,forward,53,S.Dakota St,Adam_Dykman
+222,254,1,gaurd,53,S.Dakota St,Beau_Brown
+223,245,2,forward,53,S.Dakota St,Ian_Theisen
+224,253,1,gaurd,53,S.Dakota St,Sergio_El_Darwich
+225,252,1,gaurd,53,S.Dakota St,Andre_Wallace
+226,545,1,gaurd,44,Rhode Island,Jared_Terrell
+227,538,2,forward,44,Rhode Island,Cyril_Langevine
+228,544,1,gaurd,44,Rhode Island,Jarvis_Garrett
+229,537,2,forward,44,Rhode Island,Hassan_Martin
+230,543,1,gaurd,44,Rhode Island,Jeff_Dowtin
+231,536,2,forward,44,Rhode Island,Mike_Layssard
+232,542,1,gaurd,44,Rhode Island,Will_Leviton
+233,535,2,forward,44,Rhode Island,Andre_Berry
+234,541,1,gaurd,44,Rhode Island,E.C._Matthews
+235,534,2,forward,44,Rhode Island,Nicola_Akele
+236,540,1,gaurd,44,Rhode Island,Stanford_Robinson
+237,533,2,forward,44,Rhode Island,Kuran_Iverson
+238,539,1,gaurd,44,Rhode Island,Christion_Thompson
+239,546,1,gaurd,44,Rhode Island,Eric_Dadika
+240,310,2,forward,41,Purdue,Vincent_Edwards
+241,316,1,gaurd,41,Purdue,Spike_Albrecht
+242,315,1,gaurd,41,Purdue,Dakota_Mathias
+243,314,1,gaurd,41,Purdue,Ryan_Cline
+244,313,1,gaurd,41,Purdue,P.J._Thompson
+245,309,3,center,41,Purdue,Isaac_Haas
+246,312,1,gaurd,41,Purdue,Carsen_Edwards
+247,311,2,forward,41,Purdue,Caleb_Swanigan
+248,67,1,gaurd,68,Providence,Jalen_Lindsey
+249,61,2,forward,68,Providence,Rodney_Bullock
+250,66,1,gaurd,68,Providence,Alpha_Diallo
+251,65,1,gaurd,68,Providence,Ryan_Fazekas
+252,64,1,gaurd,68,Providence,Isaiah_Jackson
+253,69,1,gaurd,68,Providence,Kyron_Cartwright
+254,63,2,forward,68,Providence,Kalif_Young
+255,68,1,gaurd,68,Providence,Maliek_White
+256,62,2,forward,68,Providence,Emmitt_Holt
+257,233,1,gaurd,69,Princeton,Amir_Bell
+258,232,1,gaurd,69,Princeton,Myles_Stephens
+259,231,1,gaurd,69,Princeton,Devin_Cannady
+260,229,2,forward,69,Princeton,Steven_Cook
+261,230,1,gaurd,69,Princeton,Aaron_Young
+262,228,2,forward,69,Princeton,Will_Gladson
+263,227,2,forward,69,Princeton,Alec_Brennan
+264,226,2,forward,69,Princeton,Pete_Miller
+265,225,2,forward,69,Princeton,Spencer_Weisz
+266,382,1,gaurd,45,Oregon,Dylan_Ennis
+267,380,2,forward,45,Oregon,Keith_Smith
+268,381,1,gaurd,45,Oregon,Casey_Benson
+269,379,2,forward,45,Oregon,Kavell_Bigby-Williams
+270,378,2,forward,45,Oregon,Roman_Sorkin
+271,377,2,forward,45,Oregon,Dillon_Brooks
+272,376,2,forward,45,Oregon,Jordan_Bell
+273,384,1,gaurd,45,Oregon,Payton_Pritchard
+274,383,1,gaurd,45,Oregon,Tyler_Dorsey
+275,221,1,gaurd,56,Notre Dame,Matt_Farrell
+276,220,2,forward,56,Notre Dame,Matt_Ryan
+277,219,2,forward,56,Notre Dame,V.J._Beachem
+278,218,2,forward,56,Notre Dame,Bonzie_Colson
+279,217,2,forward,56,Notre Dame,Martinas_Geben
+280,216,2,forward,56,Notre Dame,Austin_Torres
+281,224,1,gaurd,56,Notre Dame,Temple_Gibbs
+282,223,1,gaurd,56,Notre Dame,Steve_Vasturia
+283,222,1,gaurd,56,Notre Dame,Rex_Pflueger
+284,277,1,gaurd,54,Northwestern,Devon_Hall
+285,273,3,center,54,Northwestern,Jack_Salt
+286,276,1,gaurd,54,Northwestern,Darius_Thompson
+287,275,2,forward,54,Northwestern,Isaiah_Wilkins
+288,281,1,gaurd,54,Northwestern,Ty_Jerome
+289,274,2,forward,54,Northwestern,Mamadi_Diakite
+290,280,1,gaurd,54,Northwestern,Marial_Shayok
+291,279,1,gaurd,54,Northwestern,Kyle_Guy
+292,278,1,gaurd,54,Northwestern,London_Perrantes
+293,527,2,forward,17,Northern Ky.,Carson_Williams
+294,531,1,gaurd,17,Northern Ky.,Lavone_Holland
+295,526,2,forward,17,Northern Ky.,Brennan_Gillis
+296,530,1,gaurd,17,Northern Ky.,Cole_Murray
+297,525,2,forward,17,Northern Ky.,Jeff_Garrett
+298,529,1,gaurd,17,Northern Ky.,Mason_Faulkner
+299,528,2,forward,17,Northern Ky.,Jordan_Garnett
+300,532,1,gaurd,17,Northern Ky.,Dantez_Walton
+301,205,2,forward,66,North Dakota,Josh_Collins
+302,215,1,gaurd,66,North Dakota,Corey_Baldwin
+303,214,1,gaurd,66,North Dakota,Devon_Pekas
+304,213,1,gaurd,66,North Dakota,Quinton_Hooker
+305,204,3,center,66,North Dakota,Carson_Shanks
+306,212,1,gaurd,66,North Dakota,Billy_Brown
+307,211,1,gaurd,66,North Dakota,Cortez_Seales
+308,208,2,forward,66,North Dakota,Conner_Avants
+309,210,1,gaurd,66,North Dakota,Thomas_Blake
+310,207,2,forward,66,North Dakota,Drick_Bernstine
+311,209,1,gaurd,66,North Dakota,Geno_Crandall
+312,206,2,forward,66,North Dakota,Kienan_Walter
+313,603,1,gaurd,3,North Carolina,Kanler_Coker
+314,597,2,forward,3,North Carolina,Kennedy_Meeks
+315,602,1,gaurd,3,North Carolina,Brandon_Robinson
+316,596,2,forward,3,North Carolina,Isaiah_Hicks
+317,601,1,gaurd,3,North Carolina,Seventh_Woods
+318,595,2,forward,3,North Carolina,Shea_Rush
+319,600,1,gaurd,3,North Carolina,Nate_Britt
+320,594,2,forward,3,North Carolina,Luke_Maye
+321,599,1,gaurd,3,North Carolina,Stilman_White
+322,593,2,forward,3,North Carolina,Tony_Bradley
+323,598,1,gaurd,3,North Carolina,Joel_Berry
+324,592,2,forward,3,North Carolina,Aaron_Rohlman
+325,15,1,gaurd,19,New Orleans,Nate_Frye
+326,14,1,gaurd,19,New Orleans,Tevin_Broyles
+327,11,2,forward,19,New Orleans,Erik_Thomas
+328,13,1,gaurd,19,New Orleans,Christavious_Gill
+329,10,2,forward,19,New Orleans,Makur_Puou
+330,12,1,gaurd,19,New Orleans,Jorge_Rosa
+331,9,2,forward,19,New Orleans,Travin_Thibodeaux
+332,507,2,forward,30,New Mexico St.,Eli_Chuha
+333,515,1,gaurd,30,New Mexico St.,Jalyn_Pennie
+334,506,2,forward,30,New Mexico St.,Jemerrio_Jones
+335,514,1,gaurd,30,New Mexico St.,Jermaine_Haley
+336,505,3,center,30,New Mexico St.,Tanveer_Bhullar
+337,513,1,gaurd,30,New Mexico St.,Braxton_Huggins
+338,512,1,gaurd,30,New Mexico St.,Matt_Taylor
+339,511,1,gaurd,30,New Mexico St.,Ian_Baker
+340,510,1,gaurd,30,New Mexico St.,Chance_Ellis
+341,509,1,gaurd,30,New Mexico St.,Joe_Garza
+342,508,2,forward,30,New Mexico St.,Johnathon_Wilkins
+343,190,1,gaurd,40,Nevada,Bryce_Thurston
+344,189,1,gaurd,40,Nevada,Miles_Wilson
+345,188,1,gaurd,40,Nevada,Elijah_Long
+346,187,1,gaurd,40,Nevada,Junior_Robinson
+347,186,1,gaurd,40,Nevada,Khalid_Nwandu
+348,182,2,forward,40,Nevada,Will_Miller
+349,185,1,gaurd,40,Nevada,Greg_Alexander
+350,181,2,forward,40,Nevada,Chris_Wray
+351,184,1,gaurd,40,Nevada,Sean_Gurdon
+352,180,3,center,40,Nevada,Mawdo_Sallah
+353,183,1,gaurd,40,Nevada,Charles_Glover
+354,52,1,gaurd,51,N.C. Central,Patrick_Cole
+355,51,1,gaurd,51,N.C. Central,Ron_Trapps
+356,50,1,gaurd,51,N.C. Central,Rashaun_Madison
+357,49,1,gaurd,51,N.C. Central,Dajuan_Graf
+358,47,2,forward,51,N.C. Central,Kyle_Benton
+359,48,1,gaurd,51,N.C. Central,CJ_Wiggins
+360,46,2,forward,51,N.C. Central,Pablo_Rivas
+361,45,2,forward,51,N.C. Central,Will_Ransom
+362,44,2,forward,51,N.C. Central,Del'Vin_Dickerson
+363,8,1,gaurd,18,Mount St. Mary’s,Charles_Glover
+364,162,3,center,18,Mount St. Mary’s,Mawdo_Sallah
+365,167,1,gaurd,18,Mount St. Mary’s,Greg_Alexander
+366,3,2,forward,18,Mount St. Mary’s,Chris_Wray
+367,7,1,gaurd,18,Mount St. Mary’s,Elijah_Long
+368,1,3,center,18,Mount St. Mary’s,Mawdo_Sallah
+369,166,1,gaurd,18,Mount St. Mary’s,Sean_Gurdon
+370,2,2,forward,18,Mount St. Mary’s,Will_Miller
+371,6,1,gaurd,18,Mount St. Mary’s,Greg_Alexander
+372,165,1,gaurd,18,Mount St. Mary’s,Charles_Glover
+373,164,2,forward,18,Mount St. Mary’s,Will_Miller
+374,5,1,gaurd,18,Mount St. Mary’s,Junior_Robinson
+375,172,1,gaurd,18,Mount St. Mary’s,Bryce_Thurston
+376,163,2,forward,18,Mount St. Mary’s,Chris_Wray
+377,4,1,gaurd,18,Mount St. Mary’s,Miles_Wilson
+378,171,1,gaurd,18,Mount St. Mary’s,Miles_Wilson
+379,170,1,gaurd,18,Mount St. Mary’s,Elijah_Long
+380,169,1,gaurd,18,Mount St. Mary’s,Junior_Robinson
+381,168,1,gaurd,18,Mount St. Mary’s,Khalid_Nwandu
+382,152,1,gaurd,7,Minnesota,Nate_Mason
+383,150,2,forward,7,Minnesota,Eric_Curry
+384,147,3,center,7,Minnesota,Reggie_Lynch
+385,151,1,gaurd,7,Minnesota,Amir_Coffey
+386,149,2,forward,7,Minnesota,Jordan_Murphy
+387,146,3,center,7,Minnesota,Bakary_Konate
+388,148,2,forward,7,Minnesota,Michael_Hurt
+389,154,1,gaurd,7,Minnesota,Stephon_Sharp
+390,153,1,gaurd,7,Minnesota,Dupree_McBrayer
+391,145,1,gaurd,8,Middle Tenn.,Antwain_Johnson
+392,144,1,gaurd,8,Middle Tenn.,Giddy_Potts
+393,140,2,forward,8,Middle Tenn.,Jacorey_Williams
+394,143,1,gaurd,8,Middle Tenn.,Tyrik_Dixon
+395,139,2,forward,8,Middle Tenn.,Brandon_Walters
+396,142,1,gaurd,8,Middle Tenn.,Edward_Simpson
+397,138,2,forward,8,Middle Tenn.,Reggie_Upshaw
+398,141,1,gaurd,8,Middle Tenn.,Quavius_Copeland
+399,137,2,forward,8,Middle Tenn.,Xavier_Habersham
+400,476,1,gaurd,38,Michigan St.,Greg_Roy
+401,475,2,forward,38,Michigan St.,Miles_Bridges
+402,483,1,gaurd,38,Michigan St.,Joshua_Langford
+403,474,2,forward,38,Michigan St.,Kenny_Goins
+404,482,1,gaurd,38,Michigan St.,Matt_McQuaid
+405,473,2,forward,38,Michigan St.,Matt_Van_Dyk
+406,481,1,gaurd,38,Michigan St.,Alvin_Ellis
+407,472,2,forward,38,Michigan St.,Nick_Ward
+408,480,1,gaurd,38,Michigan St.,Conner_George
+409,479,1,gaurd,38,Michigan St.,Lourawls_Nairn
+410,478,1,gaurd,38,Michigan St.,Kyle_Ahrens
+411,477,1,gaurd,38,Michigan St.,Cassius_Winston
+412,487,2,forward,37,Miami (Fla.),Kamari_Murphy
+413,489,1,gaurd,37,Miami (Fla.),Dejan_Vasiljevic
+414,486,2,forward,37,Miami (Fla.),Dewan_Huell
+415,494,1,gaurd,37,Miami (Fla.),Bruce_Brown
+416,485,3,center,37,Miami (Fla.),Ebuka_Izundu
+417,493,1,gaurd,37,Miami (Fla.),Davon_Reed
+418,484,3,center,37,Miami (Fla.),Rodney_Miller
+419,492,1,gaurd,37,Miami (Fla.),Mike_Robinson
+420,491,1,gaurd,37,Miami (Fla.),Ja'Quan_Newton
+421,488,2,forward,37,Miami (Fla.),Chris_Stowell
+422,490,1,gaurd,37,Miami (Fla.),Anthony_Lawrence
+423,367,2,forward,59,Maryland,Ivan_Bender
+424,375,1,gaurd,59,Maryland,Anthony_Cowan
+425,374,1,gaurd,59,Maryland,Kevin_Huerter
+426,373,1,gaurd,59,Maryland,Dion_Wiley
+427,372,1,gaurd,59,Maryland,Jaylen_Brantley
+428,370,2,forward,59,Maryland,Damonte_Dodd
+429,371,1,gaurd,59,Maryland,Melo_Trimble
+430,369,2,forward,59,Maryland,Justin_Jackson
+431,368,2,forward,59,Maryland,L.G._Gill
+432,464,1,gaurd,32,Marquette,Duane_Wilson
+433,471,1,gaurd,32,Marquette,Cam_Marotta
+434,470,1,gaurd,32,Marquette,Katin_Reinhardt
+435,469,1,gaurd,32,Marquette,JaJuan_Johnson
+436,468,1,gaurd,32,Marquette,Andrew_Rowsey
+437,467,1,gaurd,32,Marquette,Sam_Hauser
+438,463,3,center,32,Marquette,Luke_Fischer
+439,466,1,gaurd,32,Marquette,Markus_Howard
+440,462,3,center,32,Marquette,Matt_Heldt
+441,465,1,gaurd,32,Marquette,Haanif_Cheatham
+442,397,1,gaurd,49,Louisville,Quentin_Snider
+443,396,2,forward,49,Louisville,Deng_Adel
+444,395,2,forward,49,Louisville,V.J._King
+445,394,2,forward,49,Louisville,Ray_Spalding
+446,393,2,forward,49,Louisville,Jaylen_Johnson
+447,400,1,gaurd,49,Louisville,David_Levitch
+448,392,2,forward,49,Louisville,Anas_Mahmoud
+449,399,1,gaurd,49,Louisville,Tony_Hicks
+450,398,1,gaurd,49,Louisville,Donovan_Mitchell
+451,519,2,forward,16,Kentucky,Isaac_Humphries
+452,524,1,gaurd,16,Kentucky,De'Aaron_Fox
+453,518,2,forward,16,Kentucky,Derek_Willis
+454,523,1,gaurd,16,Kentucky,Isaiah_Briscoe
+455,517,2,forward,16,Kentucky,Wenyen_Gabriel
+456,522,1,gaurd,16,Kentucky,Mychal_Mulder
+457,516,2,forward,16,Kentucky,Edrice_Adebayo
+458,521,1,gaurd,16,Kentucky,Malik_Monk
+459,520,1,gaurd,16,Kentucky,Dominique_Hawkins
+460,442,2,forward,13,Kent St.,Jimmy_Hall
+461,450,1,gaurd,13,Kent St.,Jon_Fleming
+462,441,2,forward,13,Kent St.,Alonzo_Walker
+463,449,1,gaurd,13,Kent St.,Mitch_Peterson
+464,440,2,forward,13,Kent St.,Danny_Pippen
+465,448,1,gaurd,13,Kent St.,Jalen_Avery
+466,447,1,gaurd,13,Kent St.,Desmond_Ridenour
+467,446,1,gaurd,13,Kent St.,Kevin_Zabo
+468,445,1,gaurd,13,Kent St.,Jaylin_Walker
+469,444,1,gaurd,13,Kent St.,Deon_Edwin
+470,439,3,center,13,Kent St.,Adonis_De_La_Rosa
+471,443,2,forward,13,Kent St.,Leo_Edwards
+472,426,1,gaurd,4,Kansas St,Brian_Patrick
+473,24,1,gaurd,4,Kansas St,Kamau_Stokes
+474,419,2,forward,4,Kansas St,Wesley_Iwundu
+475,20,2,forward,4,Kansas St,Dean_Wade
+476,425,1,gaurd,4,Kansas St,Carlbe_Ervin
+477,23,1,gaurd,4,Kansas St,Brian_Patrick
+478,418,2,forward,4,Kansas St,Dean_Wade
+479,19,2,forward,4,Kansas St,Isaiah_Maurice
+480,424,1,gaurd,4,Kansas St,Barry_Brown
+481,22,1,gaurd,4,Kansas St,Carlbe_Ervin
+482,417,2,forward,4,Kansas St,Xavier_Sneed
+483,18,2,forward,4,Kansas St,Xavier_Sneed
+484,423,1,gaurd,4,Kansas St,Zach_Winter
+485,21,1,gaurd,4,Kansas St,Barry_Brown
+486,416,2,forward,4,Kansas St,Isaiah_Maurice
+487,17,2,forward,4,Kansas St,D.J._Johnson
+488,16,2,forward,4,Kansas St,Wesley_Iwundu
+489,422,2,forward,4,Kansas St,D.J._Johnson
+490,428,1,gaurd,4,Kansas St,Mason_Schoen
+491,421,2,forward,4,Kansas St,Austin_Budke
+492,427,1,gaurd,4,Kansas St,Kamau_Stokes
+493,420,2,forward,4,Kansas St,Pierson_McAtee
+494,637,2,forward,35,Kansas,Dwight_Coleby
+495,638,1,gaurd,35,Kansas,Tucker_Vang
+496,636,2,forward,35,Kansas,Landen_Lucas
+497,645,1,gaurd,35,Kansas,Devonte'_Graham
+498,635,2,forward,35,Kansas,Carlton_Bragg
+499,644,1,gaurd,35,Kansas,Sviatoslav_Mykhailiuk
+500,634,2,forward,35,Kansas,Mitch_Lightfoot
+501,643,1,gaurd,35,Kansas,Josh_Jackson
+502,642,1,gaurd,35,Kansas,Tyler_Self
+503,641,1,gaurd,35,Kansas,Lagerald_Vick
+504,640,1,gaurd,35,Kansas,Clay_Young
+505,639,1,gaurd,35,Kansas,Frank_Mason
+506,407,1,gaurd,50,Jacksonville St.,Erik_Durham
+507,401,2,forward,50,Jacksonville St.,Christian_Cunningham
+508,406,1,gaurd,50,Jacksonville St.,Ashton_Spears
+509,405,1,gaurd,50,Jacksonville St.,Tyrik_Edwards
+510,404,1,gaurd,50,Jacksonville St.,Malcolm_Drumwright
+511,403,1,gaurd,50,Jacksonville St.,Greg_Tucker
+512,402,2,forward,50,Jacksonville St.,Jacara_Cross
+513,179,1,gaurd,39,Iowa St.,Jalen_Brunson
+514,174,2,forward,39,Iowa St.,Kris_Jenkins
+515,178,1,gaurd,39,Iowa St.,Josh_Hart
+516,173,2,forward,39,Iowa St.,Dylan_Painter
+517,177,1,gaurd,39,Iowa St.,Donte_DiVincenzo
+518,176,2,forward,39,Iowa St.,Darryl_Reynolds
+519,175,2,forward,39,Iowa St.,Eric_Paschall
+520,391,1,gaurd,46,Iona,Schadrac_Casimir
+521,390,1,gaurd,46,Iona,Deyshonee_Much
+522,389,1,gaurd,46,Iona,Sam_Cassell
+523,388,1,gaurd,46,Iona,Rickey_McGill
+524,387,1,gaurd,46,Iona,Jon_Severe
+525,386,2,forward,46,Iona,Taylor_Bessick
+526,385,2,forward,46,Iona,Jordan_Washington
+527,240,1,gaurd,52,Gonzaga,Nigel_Williams-Goss
+528,237,2,forward,52,Gonzaga,Killian_Tillie
+529,236,2,forward,52,Gonzaga,Zach_Collins
+530,235,2,forward,52,Gonzaga,Jeremy_Jones
+531,234,3,center,52,Gonzaga,Przemek_Karnowski
+532,244,1,gaurd,52,Gonzaga,Silas_Melson
+533,243,1,gaurd,52,Gonzaga,Jordan_Mathews
+534,242,1,gaurd,52,Gonzaga,Josh_Perkins
+535,239,2,forward,52,Gonzaga,Johnathan_Williams
+536,241,1,gaurd,52,Gonzaga,Bryan_Alberts
+537,238,2,forward,52,Gonzaga,Rui_Hachimura
+538,123,1,gaurd,61,Florida St,Braian_Angola-Rodas
+539,122,1,gaurd,61,Florida St,Xavier_Rathan-Mayes
+540,121,1,gaurd,61,Florida St,Trent_Forrest
+541,117,3,center,61,Florida St,Christ_Koumadje
+542,120,2,forward,61,Florida St,Jonathan_Isaac
+543,116,3,center,61,Florida St,Michael_Ojo
+544,127,1,gaurd,61,Florida St,CJ_Walker
+545,119,2,forward,61,Florida St,Phil_Cofer
+546,126,1,gaurd,61,Florida St,PJ_Savoy
+547,118,2,forward,61,Florida St,Jarquez_Smith
+548,125,1,gaurd,61,Florida St,Dwayne_Bacon
+549,124,1,gaurd,61,Florida St,Terance_Mann
+550,109,2,forward,25,Florida,Devin_Robinson
+551,115,1,gaurd,25,Florida,Chris_Chiozza
+552,114,1,gaurd,25,Florida,KeVaughn_Allen
+553,108,3,center,25,Florida,Schuyler_Rimmer
+554,113,1,gaurd,25,Florida,Kasey_Hill
+555,112,1,gaurd,25,Florida,Canyon_Barry
+556,111,2,forward,25,Florida,Keith_Stone
+557,110,2,forward,25,Florida,Justin_Leon
+558,135,1,gaurd,62,Fla. Gulf Coast,Reggie_Reid
+559,130,2,forward,62,Fla. Gulf Coast,Marc-Eddy_Norelia
+560,134,1,gaurd,62,Fla. Gulf Coast,Rayjon_Tucker
+561,129,2,forward,62,Fla. Gulf Coast,Antravious_Simmons
+562,133,1,gaurd,62,Fla. Gulf Coast,Christian_Terrell
+563,128,2,forward,62,Fla. Gulf Coast,Demetris_Morant
+564,132,1,gaurd,62,Fla. Gulf Coast,Zach_Johnson
+565,136,1,gaurd,62,Fla. Gulf Coast,Brandon_Goodwin
+566,131,2,forward,62,Fla. Gulf Coast,Kevin_Mickle
+567,106,1,gaurd,26,East Tenn. St.,Jermaine_Long
+568,105,1,gaurd,26,East Tenn. St.,Desonta_Bradford
+569,102,2,forward,26,East Tenn. St.,Tevin_Glass
+570,104,1,gaurd,26,East Tenn. St.,A.J._Merriweather
+571,101,2,forward,26,East Tenn. St.,Hanner_Mosquera-Perea
+572,103,1,gaurd,26,East Tenn. St.,T.J._Cromer
+573,100,2,forward,26,East Tenn. St.,David_Burrell
+574,99,2,forward,26,East Tenn. St.,Isaac_Banks
+575,107,1,gaurd,26,East Tenn. St.,Devontavius_Payne
+576,620,2,forward,33,Duke,Justin_Robinson
+577,622,1,gaurd,33,Duke,Frank_Jackson
+578,619,2,forward,33,Duke,Jayson_Tatum
+579,621,1,gaurd,33,Duke,Luke_Kennard
+580,618,2,forward,33,Duke,Jack_White
+581,617,2,forward,33,Duke,Amile_Jefferson
+582,616,2,forward,33,Duke,Javin_DeLaurier
+583,615,2,forward,33,Duke,Harry_Giles
+584,614,3,center,33,Duke,Antonio_Vrankovic
+585,624,1,gaurd,33,Duke,Grayson_Allen
+586,623,1,gaurd,33,Duke,Matt_Jones
+587,671,2,forward,14,Dayton,Kendall_Pollard
+588,676,1,gaurd,14,Dayton,John_Crosby
+589,670,2,forward,14,Dayton,Ryan_Mikesell
+590,675,1,gaurd,14,Dayton,Kyle_Davis
+591,669,2,forward,14,Dayton,Sam_Miller
+592,674,1,gaurd,14,Dayton,Charles_Cooke
+593,668,2,forward,14,Dayton,Josh_Cunningham
+594,673,1,gaurd,14,Dayton,Scoochie_Smith
+595,667,2,forward,14,Dayton,Xeyrius_Williams
+596,672,1,gaurd,14,Dayton,Darrell_Davis
+597,549,2,forward,43,Creighton,Cole_Huff
+598,548,3,center,43,Creighton,Zach_Hanson
+599,558,1,gaurd,43,Creighton,Isaiah_Zierden
+600,547,3,center,43,Creighton,Justin_Patton
+601,557,1,gaurd,43,Creighton,Kobe_Paras
+602,556,1,gaurd,43,Creighton,Jordan_Scurry
+603,555,1,gaurd,43,Creighton,Ronnie_Harrell
+604,554,1,gaurd,43,Creighton,Davion_Mintz
+605,553,1,gaurd,43,Creighton,Khyri_Thomas
+606,551,2,forward,43,Creighton,Martin_Krampelj
+607,552,1,gaurd,43,Creighton,Tyler_Clement
+608,550,2,forward,43,Creighton,Toby_Hegner
+609,559,1,gaurd,43,Creighton,Marcus_Foster
+610,408,3,center,11,Cincinnati,Nysier_Brooks
+611,415,1,gaurd,11,Cincinnati,Kevin_Johnson
+612,411,2,forward,11,Cincinnati,Gary_Clark
+613,414,1,gaurd,11,Cincinnati,Justin_Jenifer
+614,410,2,forward,11,Cincinnati,Quadri_Moore
+615,413,1,gaurd,11,Cincinnati,Troy_Caupain
+616,409,2,forward,11,Cincinnati,Kyle_Washington
+617,412,1,gaurd,11,Cincinnati,Jarron_Cumberland
+618,347,1,gaurd,9,Butler,Kamar_Baldwin
+619,343,2,forward,9,Butler,Andrew_Chrabascz
+620,346,1,gaurd,9,Butler,Tyler_Lewis
+621,342,2,forward,9,Butler,Kelan_Martin
+622,345,1,gaurd,9,Butler,Kethan_Savage
+623,341,2,forward,9,Butler,Tyler_Wideman
+624,340,3,center,9,Butler,Nate_Fowler
+625,344,1,gaurd,9,Butler,Avery_Woodson
+626,86,1,gaurd,58,Bucknell ,John_Azzinaro
+627,90,1,gaurd,58,Bucknell ,Avi_Toomer
+628,89,1,gaurd,58,Bucknell ,Nate_Jones
+629,85,2,forward,58,Bucknell ,Zach_Thomas
+630,88,1,gaurd,58,Bucknell ,Kimbal_Mackenzie
+631,82,3,center,58,Bucknell ,Nana_Foulland
+632,84,2,forward,58,Bucknell ,Bruce_Moore
+633,87,1,gaurd,58,Bucknell ,Stephen_Brown
+634,81,3,center,58,Bucknell ,Nate_Sestina
+635,83,2,forward,58,Bucknell ,D.J._MacLeay
+636,503,1,gaurd,29,Baylor,Jake_Lindsey
+637,502,1,gaurd,29,Baylor,King_McClure
+638,499,2,forward,29,Baylor,Nuni_Omot
+639,500,1,gaurd,29,Baylor,Ishmail_Wainright
+640,501,1,gaurd,29,Baylor,Al_Freeman
+641,498,2,forward,29,Baylor,Terry_Maston
+642,497,2,forward,29,Baylor,Johnathan_Motley
+643,496,2,forward,29,Baylor,Jonathan_Davis
+644,495,2,forward,29,Baylor,Jo_Lual-Acuil
+645,504,1,gaurd,29,Baylor,Manu_Lecomte
+646,563,2,forward,5,Arkansas,Trey_Thompson
+647,568,1,gaurd,5,Arkansas,Anton_Beard
+648,562,2,forward,5,Arkansas,Arlando_Cook
+649,567,1,gaurd,5,Arkansas,Jaylen_Barford
+650,561,2,forward,5,Arkansas,Moses_Kingsley
+651,566,1,gaurd,5,Arkansas,Daryl_Macon
+652,560,2,forward,5,Arkansas,Dustin_Thomas
+653,565,1,gaurd,5,Arkansas,Dusty_Hannahs
+654,564,1,gaurd,5,Arkansas,Manuale_Watkins
+655,203,1,gaurd,63,Arizona,Allonzo_Trier
+656,202,1,gaurd,63,Arizona,Tyler_Trillo
+657,195,2,forward,63,Arizona,Jake_Desjardins
+658,201,1,gaurd,63,Arizona,Paulo_Cruz
+659,194,2,forward,63,Arizona,Lauri_Markkanen
+660,200,1,gaurd,63,Arizona,Parker_Jackson-Cartwright
+661,193,2,forward,63,Arizona,Keanu_Pinder
+662,199,1,gaurd,63,Arizona,Kadeem_Allen
+663,192,3,center,63,Arizona,Chance_Comanche
+664,198,1,gaurd,63,Arizona,Rawle_Alkins
+665,191,3,center,63,Arizona,Dusan_Ristic
+666,197,1,gaurd,63,Arizona,Kobi_Simmons
+667,196,1,gaurd,63,Arizona,Kory_Jones
