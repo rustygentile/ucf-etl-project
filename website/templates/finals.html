@@ -1,0 +1,628 @@
+<!--  ETL Prject: - NCAA Basketball: Web Visualization Dashboard -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- All meta tags should be first in the header-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Title of dashboard-->
+<title>NCSABasketball: Web Visualization Dashboard</title>
+<!-- Bootstrap links -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<!-- Scripts-->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="../static/css/style.css?121224">
+</head>
+
+         
+<body>
+    <!-- navbar: A horizontal bar,top of a web page, offering a number of links to help the viewer to navigate the web site. Origin: Shortening of navigation bar. -->
+ 
+ <!-- Navigation -->
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation ">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+        <img src="/static/Images/ncaa_hlogo.png" width="50%" class="img-responsive" ml-auto alt="">
+        </a>
+      </div>
+      <div class ="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="nav navbar-nav ">
+        <!--"Championship Bracket" which links to the bracket file -->
+          <li class ="nav-item">
+            <a class ="nav-link" href="/bracket"><i class="fas fa-basketball-ball"></i> Bracket</a>
+          </li>
+          <li class ="nav-item dropdown">
+            <a class ="nav-link dropdown-toggle" data-toggle="dropdown" data-target ="#dropdown_target" href="#"><i class="fas fa-basketball-ball"></i>  Regional Teams
+            
+            </a>
+            <ul class ="dropdown-menu" aria-labelledby="dropdown_target">
+              <li><a class ="dropdown-item" href="/south"> South Regional</a></li>
+              <li><a class ="dropdown-item" href="/west">West Regional </a></li>
+              <li><a class ="dropdown-item" href="/east">East Regional</a></li>
+             <li><a class ="dropdown-item" href="/midwest">Midwest Regional</a></li>
+          </ul>
+        </li>
+          <!--"final 4 " which links to the final_four team stat page-->
+          <li class = "nav-item">
+            <a class ="nav-link" href="/final_four"><i class="fas fa-basketball-ball"></i>  Final Four</a>
+          </li>
+          <li class = "nav-item">
+            <a class ="nav-link" href="/finals"><i class="fas fa-basketball-ball"></i> Championship</a>
+            <li class = "nav-item">
+              <a class ="nav-link" href="/table"><i class="fas fa-basketball-ball"></i> Teams Table</a>
+            </li>
+            <li class = "nav-item">
+              <a class ="nav-link" href="/API"><i class="fas fa-basketball-ball"></i> Teams API</a>
+            </li>
+          </li>
+        </ul>
+      </div>
+    </div>
+</nav>
+<!-- End of the Navigation bar-->
+<div class ="container-fluid">
+   <!-- Top of the page -->
+   <div class="row" style = "padding-bottom:10px;">
+      <div class ="col-md-8">
+      <!-- Main panel-->
+      <div class ="panel panel-default">  
+          <div class="panel-heading panel-heading-custom">
+             <h1> 2018 NCAA <i class="fas fa-basketball-ball"></i> Tournament Championship</h1>
+             <h3 style = "color:#cce6ff;">  #3 Michigan - 62 vs. <h2 style = "color:yellow;"><i class="fas fa-trophy"></i> #1 Villanova - 79</h2></h3>    
+          </div>         
+          <div class="article-body" style = "color:#cce6ff;">
+                  <img class="img-responsive " src="/static/Images/champ.jpg " style = "width: 30%" alt="Championship">
+                <p>A career-high 31 points from reserve guard Donte DiVincenzo propelled Villanova past Michigan for the Wildcats' second national championship in three seasons. The Wildcats, who won each of their six NCAA Tournament games by double digits, trailed by seven points midway through the first half before switching gears and dominating play the rest of the way. Villanova ended Michigan’s nation-leading 14-game winning streak and won its 11th game in a row to establish a new program record for wins in a season (36).</p><br> <p><strong>Player of the game</strong></p> <ul> <li>DiVincenzo, who entered the contest averaging 13 points per game, came off the bench to ring up 18 of Villanova’s 37 first-half points. The sophomore went 10 of 15 from the floor – including a 5-of-7 showing from 3-point range. Named the Final Four's Most Outstanding Player, DiVincenzo added five rebounds, three assists and a game-high two blocks.</li> </ul> <p><strong>Key stats</strong></p> <ul> <li>The Wildcats made 10 of 27 3-point tries and shot 47.4 percent from the floor overall, while the Wolverines converted just 3 of 23 long-range attempts and sank 43.6 percent of their field goals.</li> <li>Michigan’s Moritz Wagner had 11 points and five rebounds at halftime but finished with 16 points, seven boards and a game-high-tying four turnovers.</li> <li>The Wildcats enjoyed a marked rebounding advantage, 38-27.</li> <li>Villanova is the first team since North Carolina in 2005 to win the national championship as the highest-scoring team in the nation.</li> <li>Muhammad-Ali Abdur-Rahkman paced Michigan with 23 points.</li> <li>Mikal Bridges, who registered 19 points, was Villanova’s only starter to reach double digits in points.</li> <li>Michigan, which owns one national championship (1989), finished as national runner-up for the sixth time (although 1992 and 1993 were both vacated by the NCAA).</li> <li>Villanova, which also won a national title in 1985, is 13-1 in NCAA Tournament play over the last three seasons.</li> <li>Big Ten teams have now lost their last seven trips to the national championship game.</li> </ul> <p><strong>Key play</strong></p> <ul> <li>After Michigan took its largest lead of the game at 21-14 with 11 minutes left in the first half, Villanova closed the first half by scoring 23 of the next 30 points for a 37-28 halftime lead. The final basket of the extended burst was a 3-pointer from Jalen Brunson 44 seconds before the half.    </li> </ul>
+          </div>
+        </div>
+      </div>
+   <!-- right side-->
+   <div class ="col-md-3">
+      <div class = "row" style = "padding-left:30px;">
+        <a>
+        <img class="img-responsive" src="/static/Images/four.png"  style = "width: 60%; padding-left:10px;" alt= ""></a>
+        <section>
+          <h5> Season: 2017–18</h5>
+          <h5> Teams: 68</h5>
+          <h5> Finals site: San Antonio, Texas</h5>
+        </section>
+      </div>
+      <div class = "row">
+        <div class="card-columns">
+            <a href="/south">
+          <div class="card bg-danger text-center" style="width:10em;  ">
+            <div class ="zoom">
+            <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+           <div class="btn btn-primary mt-auto">South Region</div>
+          </div>
+        </a>
+        <a href="west">
+            <div class="card bg-danger text-center" style="width:10em; ">
+              <div class ="zoom">
+              <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+             <div class="btn btn-primary mt-auto">west Region</div>
+            </div>
+          </a>
+          <a href="/east">
+              <div class="card bg-danger text-center" style="width:10em; ">
+                <div class ="zoom">
+                <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+               <div class="btn btn-primary mt-auto">East Region</div>
+              </div>
+            </a>
+            <a href="/midwest">
+                <div class="card bg-danger text-center" style="width:10em; ">
+                  <div class ="zoom">
+                  <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
+                 <div class="btn btn-primary mt-auto">Midwest Region</div>
+                </div>
+              </a>
+  
+          
+        </div>
+      </div>
+    </div>
+    <br> 
+    </div>
+    <!-- Bottom of page for table scores-->
+     
+  <div class=" col-md-10 table-responsive" > 
+      <h4 style = "color:yellow;"><i class="fas fa-trophy"></i> #1 Villanova- 79:</h4>
+      <h5>Date: 2018/04/02 :Villanova Boxscore</h5>
+    <table class="table table-striped table-hover table-condensed highlight" style ="background-color:#cce6ff; color:black;">
+          <thead><tr><th title="Field #1">Name</th>
+          <th title="Field #2">POS</th>
+          <th title="Field #3">MIN</th>
+          <th title="Field #4">FGM-A</th>
+          <th title="Field #5">3PM-A</th>
+          <th title="Field #6">FTM-A</th>
+          <th title="Field #7">OREB</th>
+          <th title="Field #8">REB</th>
+          <th title="Field #9">AST</th>
+          <th title="Field #10">ST</th>
+          <th title="Field #11">BLK</th>
+          <th title="Field #12">TO</th>
+          <th title="Field #13">PF</th>
+          <th title="Field #14">PTS</th>
+          </tr></thead>
+          <tbody><tr>
+          <td>Dhamir Cosby-Roundtree</td>
+          <td>F</td>
+          <td>4</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td align="right">1.0</td>
+          <td align="right">1.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">1.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          </tr>
+          <tr>
+          <td>Omari Spellman</td>
+          <td>F</td>
+          <td>29</td>
+          <td>3-8</td>
+          <td>0-2</td>
+          <td>2-2</td>
+          <td align="right">4.0</td>
+          <td align="right">11.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">1.0</td>
+          <td align="right">3.0</td>
+          <td align="right">8.0</td>
+          </tr>
+          <tr>
+          <td>Eric Paschall</td>
+          <td>F</td>
+          <td>27</td>
+          <td>2-5</td>
+          <td>1-3</td>
+          <td>1-2</td>
+          <td align="right">1.0</td>
+          <td align="right">8.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">1.0</td>
+          <td align="right">2.0</td>
+          <td align="right">4.0</td>
+          <td align="right">6.0</td>
+          </tr>
+          <tr>
+          <td>Jermaine Samuels</td>
+          <td>F</td>
+          <td>00</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          </tr>
+          <tr>
+          <td>Tim Delaney</td>
+          <td>F</td>
+          <td>00</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          </tr>
+          <tr>
+          <td>Jalen Brunson</td>
+          <td>G</td>
+          <td>28</td>
+          <td>4-13</td>
+          <td>1-5</td>
+          <td>0-0</td>
+          <td align="right">0.0</td>
+          <td align="right">2.0</td>
+          <td align="right">2.0</td>
+          <td align="right">2.0</td>
+          <td align="right">0.0</td>
+          <td align="right">2.0</td>
+          <td align="right">4.0</td>
+          <td align="right">9.0</td>
+          </tr>
+          <tr>
+          <td>Collin Gillespie</td>
+          <td>G</td>
+          <td>16</td>
+          <td>0-0</td>
+          <td>0-0</td>
+          <td>4-4</td>
+          <td align="right">0.0</td>
+          <td align="right">5.0</td>
+          <td align="right">1.0</td>
+          <td align="right">1.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">4.0</td>
+          </tr>
+          <tr>
+          <td>Donte DiVincenzo</td>
+          <td>G</td>
+          <td>37</td>
+          <td>10-15</td>
+          <td>5-7</td>
+          <td>6-10</td>
+          <td align="right">3.0</td>
+          <td align="right">5.0</td>
+          <td align="right">3.0</td>
+          <td align="right">0.0</td>
+          <td align="right">2.0</td>
+          <td align="right">4.0</td>
+          <td align="right">1.0</td>
+          <td align="right">31.0</td>
+          </tr>
+          <tr>
+          <td>Phil Booth</td>
+          <td>G</td>
+          <td>23</td>
+          <td>1-4</td>
+          <td>0-3</td>
+          <td>0-0</td>
+          <td align="right">1.0</td>
+          <td align="right">2.0</td>
+          <td align="right">0.0</td>
+          <td align="right">1.0</td>
+          <td align="right">0.0</td>
+          <td align="right">0.0</td>
+          <td align="right">4.0</td>
+          <td align="right">2.0</td>
+          </tr>
+          <tr>
+          <td>Mikal Bridges</td>
+          <td>G-F</td>
+          <td>36</td>
+          <td>7-12</td>
+          <td>3-7</td>
+          <td>2-2</td>
+          <td align="right">2.0</td>
+          <td align="right">4.0</td>
+          <td align="right">1.0</td>
+          <td align="right">1.0</td>
+          <td align="right">0.0</td>
+          <td align="right">2.0</td>
+          <td align="right">2.0</td>
+          <td align="right">19.0</td>
+          </tr>
+          <tr>
+          <td>Total</td>
+          <td> </td>
+          <td>27-57</td>
+          <td>10-27</td>
+          <td>15-20</td>
+          <td>12</td>
+          <td align="right">38.0</td>
+          <td align="right">7.0</td>
+          <td align="right">5.0</td>
+          <td align="right">3.0</td>
+          <td align="right">12.0</td>
+          <td align="right">18.0</td>
+          <td align="right">79.0</td>
+          <td align="right"></td>
+          </tr>
+          <tr>
+          <td> </td>
+          <td>47.40%</td>
+          <td>37.00%</td>
+          <td>75.00%</td>
+          <td> </td>
+          <td> </td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          </tr>
+    </tbody></table>
+  </div>
+  <div class=" col-md-10 table-responsive"> 
+      <h4 style = "color:yellow;">  #3 Michigan - 62:</h4>
+      <h5>Date: 2018/04/02 :Michigan Boxscore</h5>
+    <table class="table table-striped table-hover table-condensed highlight" style ="background-color:#cce6ff; color:black;">
+              <thead><tr><th title="Field #1">Name</th>
+              <th title="Field #2">POS</th>
+              <th title="Field #3">MIN</th>
+              <th title="Field #4">FGM-A</th>
+              <th title="Field #5">3PM-A</th>
+              <th title="Field #6">FTM-A</th>
+              <th title="Field #7">OREB</th>
+              <th title="Field #8">REB</th>
+              <th title="Field #9">AST</th>
+              <th title="Field #10">ST</th>
+              <th title="Field #11">BLK</th>
+              <th title="Field #12">TO</th>
+              <th title="Field #13">PF</th>
+              <th title="Field #14">PTS</th>
+              </tr></thead>
+              <tbody><tr>
+              <td>Jon Teske</td>
+              <td>C</td>
+              <td>7</td>
+              <td>1-2</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td align="right">1.0</td>
+              <td align="right">3.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">2.0</td>
+              </tr>
+              <tr>
+              <td>Isaiah Livers</td>
+              <td>F</td>
+              <td>20</td>
+              <td>0-2</td>
+              <td>0-2</td>
+              <td>0-0</td>
+              <td align="right">1.0</td>
+              <td align="right">4.0</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              </tr>
+              <tr>
+              <td>Moritz Wagner</td>
+              <td>F</td>
+              <td>33</td>
+              <td>6-11</td>
+              <td>1-4</td>
+              <td>3-4</td>
+              <td align="right">0.0</td>
+              <td align="right">7.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">4.0</td>
+              <td align="right">4.0</td>
+              <td align="right">16.0</td>
+              </tr>
+              <tr>
+              <td>Austin Davis</td>
+              <td>F</td>
+              <td>00</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              </tr>
+              <tr>
+              <td>C.J. Baird</td>
+              <td>F</td>
+              <td>00</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              </tr>
+              <tr>
+              <td>Jordan Poole</td>
+              <td>G</td>
+              <td>10</td>
+              <td>1-5</td>
+              <td>0-2</td>
+              <td>1-1</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">1.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">2.0</td>
+              <td align="right">3.0</td>
+              </tr>
+              <tr>
+              <td>Zavier Simpson</td>
+              <td>G</td>
+              <td>34</td>
+              <td>4-8</td>
+              <td>0-2</td>
+              <td>2-3</td>
+              <td align="right">1.0</td>
+              <td align="right">3.0</td>
+              <td align="right">2.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">3.0</td>
+              <td align="right">1.0</td>
+              <td align="right">10.0</td>
+              </tr>
+              <tr>
+              <td>Charles Matthews</td>
+              <td>G</td>
+              <td>33</td>
+              <td>3-9</td>
+              <td>0-2</td>
+              <td>0-4</td>
+              <td align="right">0.0</td>
+              <td align="right">3.0</td>
+              <td align="right">1.0</td>
+              <td align="right">2.0</td>
+              <td align="right">1.0</td>
+              <td align="right">3.0</td>
+              <td align="right">5.0</td>
+              <td align="right">6.0</td>
+              </tr>
+              <tr>
+              <td>Jaaron Simmons</td>
+              <td>G</td>
+              <td>3</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              </tr>
+              <tr>
+              <td>Eli Brooks</td>
+              <td>G</td>
+              <td>3</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td>0-0</td>
+              <td align="right">1.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              </tr>
+              <tr>
+              <td>Muhammad-Ali Abdur-Rahkman</td>
+              <td>G</td>
+              <td>34</td>
+              <td>8-13</td>
+              <td>2-7</td>
+              <td>5-6</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">2.0</td>
+              <td align="right">23.0</td>
+              </tr>
+              <tr>
+              <td>Ibi Watson</td>
+              <td>G-F</td>
+              <td>1</td>
+              <td>1-2</td>
+              <td>0-1</td>
+              <td>0-0</td>
+              <td align="right">1.0</td>
+              <td align="right">2.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">2.0</td>
+              </tr>
+              <tr>
+              <td>Duncan Robinson</td>
+              <td>G-F</td>
+              <td>22</td>
+              <td>0-3</td>
+              <td>0-3</td>
+              <td>0-0</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">1.0</td>
+              <td align="right">0.0</td>
+              <td align="right">0.0</td>
+              <td align="right">3.0</td>
+              <td align="right">0.0</td>
+              </tr>
+              <tr>
+              <td>Total</td>
+              <td> </td>
+              <td>24-55</td>
+              <td>3-23</td>
+              <td>11-18</td>
+              <td>5</td>
+              <td align="right">26.0</td>
+              <td align="right">6.0</td>
+              <td align="right">6.0</td>
+              <td align="right">1.0</td>
+              <td align="right">10.0</td>
+              <td align="right">20.0</td>
+              <td align="right">62.0</td>
+              <td align="right"></td>
+              </tr>
+              <tr>
+              <td> </td>
+              <td>43.60%</td>
+              <td>13.00%</td>
+              <td>61.10%</td>
+              <td> </td>
+              <td> </td>
+              <td align="right"></td>
+              <td align="right"></td>
+              <td align="right"></td>
+              <td align="right"></td>
+              <td align="right"></td>
+              <td align="right"></td>
+              <td align="right"></td>
+              <td align="right"></td>
+              </tr>
+    </tbody></table>
+  </div>
+   
+  <br> 
+ 
+</div>
+    
+                  
+<!-- Footer -->
+<footer>
+<!-- Copyright -->
+  <p><i class="far fa-copyright"></i>
+                      Copyright 2018
+  </p>      
+</footer>
+                 
+</body>
+</html>

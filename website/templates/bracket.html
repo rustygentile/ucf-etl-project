@@ -80,34 +80,21 @@
       <div class ="panel panel-default">
           
          <div class="panel-heading panel-heading-custom">
-           <h1><i class="fas fa-basketball-ball"></i> 2018 NCAA Basketball Tournament:  East Region</h1>
+           <h1>2018 NCAA <i class="fas fa-basketball-ball"></i>  Tournament Bracket</h1>
            
          </div>
-         <div class="panel-body">
-            <h2 style = "color:yellow;"><i class="fas fa-trophy"></i> #11 Loyola–Chicago </h2>
-            <h3>vs. <br>#9 Kansas State Wildcats</h3>
+         <div class="panel-body" style = "padding-left:30px;margin-right:20px;">
+          <img class="img-responsive highlight" src="/static/Images/2018_bracket.png"   alt= "bracket">
          </div>
       </div>
-        <div style = "padding-right:20px;">
         
-        {% for east in east_team %}
-     
-        <div class="card bg-success " style="width: 15em; margin:10px ; padding-right:30px; padding-left:30px; float:left;">
-
-            <img class="card-img-top rounded" src="{{ east.mascot }}" style ="width: 100%; " alt="mascot" >
-            <div class="card-text" style ="background-color:#c0392b; color:#1E90FF; font-weight:bold; text-align:center; padding-bottom: 2px;">#{{ east.seed }} {{ east.name }}</div>
         
-          </div>
-
-        {% endfor %}
-     
-        </div>
     </div>
     <!-- right side-->
     <div class ="col-md-3">
       <div class = "row" style = "padding-left:30px;">
-        <a>
-        <img class="img-responsive" src="/static/Images/four.png"  style = "width: 60%; padding-left:10px;" alt= ""></a>
+        
+        <img class="img-responsive" src="/static/Images/four.png" style = "width: 60%; padding-left:10px;" alt= "">
         <section>
           <h5> Season: 2017–18</h5>
           <h5> Teams: 68</h5>
@@ -131,7 +118,7 @@
             </div>
           </a>
           <a href="/east">
-              <div class="card bg-danger text-center highlight" style="width:10em; ">
+              <div class="card bg-danger text-center" style="width:10em; ">
                 <div class ="zoom">
                 <img class="card-img-top mx-auto d-block" src="/static/Images/regional.png" style ="width: 100%; " alt="regional" ></div>
                <div class="btn btn-primary mt-auto">East Region</div>

@@ -1,3 +1,523 @@
+<<<<<<< HEAD
+<!--  ETL Prject: - NCAA Basketball: Web Visualization Dashboard -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- All meta tags should be first in the header-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Title of dashboard-->
+<title>NCSABasketball: Web Visualization Dashboard</title>
+<!-- Bootstrap links -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<!-- Scripts-->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="../static/css/style.css?121224">
+</head>
+
+         
+<body>
+    <!-- navbar: A horizontal bar,top of a web page, offering a number of links to help the viewer to navigate the web site. Origin: Shortening of navigation bar. -->
+ 
+ <!-- Navigation -->
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation ">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+        <img src="/static/Images/ncaa_hlogo.png" width="50%" class="img-responsive" ml-auto alt="">
+        </a>
+      </div>
+      <div class ="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="nav navbar-nav ">
+        <!--"Championship Bracket" which links to the bracket file -->
+          <li class ="nav-item">
+            <a class ="nav-link" href="/bracket"><i class="fas fa-basketball-ball"></i> Bracket</a>
+          </li>
+          <li class ="nav-item dropdown">
+            <a class ="nav-link dropdown-toggle" data-toggle="dropdown" data-target ="#dropdown_target" href="#"><i class="fas fa-basketball-ball"></i>  Regional Teams
+            
+            </a>
+            <ul class ="dropdown-menu" aria-labelledby="dropdown_target">
+              <li><a class ="dropdown-item" href="/south"> South Regional</a></li>
+              <li><a class ="dropdown-item" href="/west">West Regional </a></li>
+              <li><a class ="dropdown-item" href="/east">East Regional</a></li>
+             <li><a class ="dropdown-item" href="/midwest">Midwest Regional</a></li>
+          </ul>
+        </li>
+          <!--"final 4 " which links to the final_four team stat page-->
+          <li class = "nav-item">
+            <a class ="nav-link" href="/final_four"><i class="fas fa-basketball-ball"></i>  Final Four</a>
+          </li>
+          <li class = "nav-item">
+            <a class ="nav-link" href="/finals"><i class="fas fa-basketball-ball"></i>Championship</a>
+            <li class = "nav-item">
+              <a class ="nav-link" href="/table"><i class="fas fa-basketball-ball"></i> Teams Table</a>
+            </li>
+            <li class = "nav-item">
+              <a class ="nav-link" href="/API"><i class="fas fa-basketball-ball"></i> Teams API</a>
+            </li>
+          </li>
+        </ul>
+      </div>
+    </div>
+</nav>
+<!-- End of the Navigation bar-->
+<div class ="container-fluid">
+  <div class="row" style = "padding-bottom:10px;">
+    <div class ="col-md-10">
+      
+      <div class ="panel panel-default panel-heading panel-heading-custom">
+       <!-- Main panel-->      
+        <h1><i class="fas fa-trophy"></i> 2018 NCAA Division I Men's Basketball All Teams </h1>
+      </div>
+
+      <div class="panel-body">
+        <div class=" col-md-12 table-responsive">
+          <table class="table table-striped table-hover table-condensed highlight" style ="background-color:#cce6ff; color:black;">
+            <thead><tr><th title="Field #1">Region Name</th>
+            <th title="Field #2">Team Seed</th>
+            <th title="Field #3">Team Name</th>
+            <th title="Field #4">Team Mascot</th>
+            </tr></thead>
+            <tbody><tr>
+            <td>SOUTH</td>
+            <td >1</td>
+            <td>Virginia</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/virginia.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td >16</td>
+            <td>UMBC</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/umbc.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td>8</td>
+            <td>Creighton</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/creighton.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td>9</td>
+            <td>Kansas St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas-st.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >5</td>
+            <td>Kentucky</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kentucky.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >12</td>
+            <td>Davidson</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/davidson.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >4</td>
+            <td>Arizona</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/arizona.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >13</td>
+            <td>Buffalo</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/buffalo.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >6</td>
+            <td>Miami (FL)</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/miami-fl.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >11</td>
+            <td>Loyola (IL)</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/loyola-il.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >3</td>
+            <td>Tennessee</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/tennessee.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >14</td>
+            <td>Wright St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/wright-st.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >7</td>
+            <td>Nevada</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/nevada.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >10</td>
+            <td>Texas</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >2</td>
+            <td>Cincinnati</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/cincinnati.svg</td>
+            </tr>
+            <tr>
+            <td>SOUTH</td>
+            <td  >15</td>
+            <td>Georgia St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/georgia-st.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >1</td>
+            <td>Villanova</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/villanova.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >16</td>
+            <td>Radford</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/radford.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >8</td>
+            <td>Virginia Tech</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/virginia-tech.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >9</td>
+            <td>Alabama</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/alabama.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >5</td>
+            <td>West Virginia</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/west-virginia.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >12</td>
+            <td>Murray St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/murray-st.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >4</td>
+            <td>Wichita St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/wichita-st.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >13</td>
+            <td>Marshall</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/marshall.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >6</td>
+            <td>Florida</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/florida.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >11</td>
+            <td>St. Bonaventure</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/st-bonaventure.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >3</td>
+            <td>Texas Tech</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-tech.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >14</td>
+            <td>Stephen F. Austin</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/stephen-f-austin.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >7</td>
+            <td>Arkansas</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/arkansas.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >10</td>
+            <td>Butler</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/butler.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >2</td>
+            <td>Purdue</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/purdue.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >15</td>
+            <td>Cal St. Fullerton</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/cal-st-fullerton.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >3</td>
+            <td>Michigan</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >1</td>
+            <td>Kansas</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/kansas.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >1</td>
+            <td>Xavier</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/xavier.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >16</td>
+            <td>Texas Southern</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-southern.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >8</td>
+            <td>Missouri</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/missouri.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >9</td>
+            <td>Florida St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/florida-st.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >5</td>
+            <td>Ohio St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/ohio-st.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >12</td>
+            <td>South Dakota St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/south-dakota-st.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >4</td>
+            <td>Gonzaga</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/gonzaga.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >13</td>
+            <td>UNC Greensboro</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/unc-greensboro.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >6</td>
+            <td>Houston</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/houston.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >11</td>
+            <td>San Diego St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/san-diego-st.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >14</td>
+            <td>Montana</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/montana.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >7</td>
+            <td>Texas A&amp;M</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/texas-am.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >10</td>
+            <td>Providence</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/providence.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >2</td>
+            <td>North Carolina</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >15</td>
+            <td>Lipscomb</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/lipscomb.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >16</td>
+            <td>Penn</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/penn.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >8</td>
+            <td>Seton Hall</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/seton-hall.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >9</td>
+            <td>North Carolina St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/north-carolina-st.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >5</td>
+            <td>Clemson</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/clemson.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >12</td>
+            <td>New Mexico St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/new-mexico-st.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >4</td>
+            <td>Auburn</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/auburn.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >13</td>
+            <td>Col. of Charleston</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/col-of-charleston.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >6</td>
+            <td>TCU</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/tcu.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >11</td>
+            <td>Syracuse</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/syracuse.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >3</td>
+            <td>Michigan St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/michigan-st.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >14</td>
+            <td>Bucknell</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/bucknell.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >7</td>
+            <td>Rhode Island</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/rhode-island.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >10</td>
+            <td>Oklahoma</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/oklahoma.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >2</td>
+            <td>Duke</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/duke.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >15</td>
+            <td>Iona</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/iona.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >16</td>
+            <td>Long Island</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/long-island.svg</td>
+            </tr>
+            <tr>
+            <td>EAST</td>
+            <td  >11</td>
+            <td>UCLA</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/ucla.svg</td>
+            </tr>
+            <tr>
+            <td>WEST</td>
+            <td  >16</td>
+            <td>N.C. Central</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/nc-central.svg</td>
+            </tr>
+            <tr>
+            <td>MIDWEST</td>
+            <td  >11</td>
+            <td>Arizona St.</td>
+            <td>https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/arizona-st.svg</td>
+            </tr>
+            </tbody></table>
+        </div>
+              
+              
+      </div>
+   
+
+  </div>  
+</div>
+    
+                  
+<!-- Footer -->
+<footer>
+<!-- Copyright -->
+  <p><i class="far fa-copyright"></i>
+                      Copyright 2018
+  </p>      
+</footer>
+                 
+</body>
+</html>
+=======
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -424,3 +944,4 @@
     </tr>
   </tbody>
 </table>
+>>>>>>> f866252b7b72cc8cb339a215cc9acbe51c16e8df
