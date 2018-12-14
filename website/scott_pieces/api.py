@@ -11,8 +11,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
-from flask import Flask, jsonify, render_template
-from flask_bootstrap import Bootstrap
+from flask import Flask, jsonify, render_template, redirect, url_for
 from sqlalchemy.pool import StaticPool
 
 # Reflect an existing database into a new model
@@ -27,11 +26,12 @@ session = 'player-list-full-2017.csv'
 #session = Session(engine)
 
 app = Flask(__name__)
-Bootstrap(app)
-
-
 @app.route("/")
 def main():
+    return redirect("/api", code=302)
+
+@app.route("/api")
+def mainapi():
     title = 'List all available api routes.'
     """List all available api routes."""
     return (
@@ -65,13 +65,7 @@ def main():
         f"- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes." 
     )
 
-@app.route('/about')
-def aboutpage():
-    title = "About this site"
-    content = "blah blah blah memememememmeme blah blah memememe"
-    return render_template("index_template.html", title=title, content=content)
-
-@app.route("/api/v1.0/team_names")
+@app.route("/api/2017/team_names")
 def teamname():
     teams = []
     with open('team-list-2017.json') as json_data:
@@ -81,8 +75,8 @@ def teamname():
         return jsonify(teams)
 
 
-@app.route("/api/v1.0/team")
-@app.route("/api/v1.0/team/<name>")
+@app.route("/api/2017/team")
+@app.route("/api/2017/team/<name>")
 def team(name=None):
     if not name:
         with open('team-list-2017.json') as json_data:
@@ -96,7 +90,7 @@ def team(name=None):
                 return jsonify(team)
 
 
-@app.route("/api/v1.0/player_names")
+@app.route("/api/2017/player_names")
 def playernames():
     names = []
     with open('player-list_2017.json') as json_data:
@@ -105,8 +99,8 @@ def playernames():
             names.append(player['Player_Name'])
         return jsonify(names)
 
-@app.route("/api/v1.0/player")
-@app.route("/api/v1.0/player/<name>")
+@app.route("/api/2017/player")
+@app.route("/api/2017/player/<name>")
 def player(name=None):
     if not name:
         with open('player-list-full-2017.json') as json_data:
@@ -118,6 +112,7 @@ def player(name=None):
                 name = (' ').join(name.split('%20'))
                 if player['name'] == name:
                     return jsonify(player)
+#@app.route("/api/2018")
 
 if __name__ == "__main__":
     app.run(debug=True)
