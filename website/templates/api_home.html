@@ -17,11 +17,9 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="../static/css/style.css?121227">
+<link rel="stylesheet" href="../static/css/style.css?1215">
 
-</head>
-
-    
+</head>   
 <body>
         
     <!-- Navigation -->
@@ -73,51 +71,53 @@
     
   <div class ="container-fluid">
 
-      <h1 >NCAA API Team and Player Search</h1>
-      <strong><p style = "color:aliceblue;">This API will be able to searcha and display data from both 2017 and 2018 NCAA championship matches. Instructions on how to use are below.
-      </p></strong>
-      <h2>Available API Routes:</h2><br>
+    <h1 >NCAA API Team and Player Search</h1>
+    <strong><p style = "color:aliceblue;">This API will be able to searcha and display data from both 2017 and 2018 NCAA championship matches. Instructions on how to use are below.
+    </p></strong>
+    <h2>Available API Routes:</h2><br>
     
       <!--############# First Row ###################################-->  
     <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
 
       <div class ="col-md-3"> 
-      <a href="/api/2017/team_names">
+        <a href="/api/2017/team_names">
         <div class="btn btn-primary mt-auto">2017 All Team Names</div>
-      </a>
+        </a>
         <p>- Display all of the team names from NCAA 2017 (easy reference to search)</p> </div>
+        <!----------------------------------->
         <div class ="col-md-1"></div>
-      <div class ="col-md-3"> 
+        <!----------------------------------->
+        <div class ="col-md-3"> 
         <a href="/api/2017/team">
         <div class="btn btn-primary mt-auto">2017 All Team Names with stats</div>
         </a>
         <p>- Display all teams and available stats: from NCAA 2017 </p></div>
-      <div class ="col-md-1"></div>
-      <div class ="col-md-3"> 
+        <!----------------------------------->
+        <div class ="col-md-1"></div>
+        <!----------------------------------->
+        <div class ="col-md-3"> 
         <div class="btn btn-primary mt-auto" onclick="myFunction()">2017 Select the Team by Name</div>
         <p id="Team_info" class = "highlight"></p>
         <p>- Search for one particular team. Example: /api/v1.0/team/Florida%20St</p>
-      </div>
-    
+        </div>
+        <!---------------Script -------------------->
       <script>
-      var mod_team_name
-    function myFunction() {
+        var mod_team_name
+        function myFunction() {
 
-      var ent_team_name = prompt("Please enter team name", "Florida");
-      if (ent_team_name != null) {
-        mod_team_name = ent_team_name.replace(" ","%20");
+        var ent_team_name = prompt("Please enter team name", "Florida");
+        if (ent_team_name != null) {
+          mod_team_name = ent_team_name.replace(" ","%20");
         
           document.getElementById("Team_info").innerHTML =
          ( "NCAA Team Name: " +ent_team_name); 
           
-          
-      }
-     
-    var str = (" Click here to get Team "+ent_team_name + " stats");
-    var result = str.link("/api/2017/team/"+mod_team_name);
-    document.getElementById("Team_info").innerHTML = result;
-  }
-      </script>
+          var str = (" Click here to get Team "+ent_team_name + " stats");
+          var result = str.link("/api/2017/team/"+mod_team_name);
+          document.getElementById("Team_info").innerHTML = result;
+          }
+        }
+        </script>
     </div>
     <!--################### End of First Row ###################-->
 
@@ -128,13 +128,17 @@
           <div class="btn btn-primary mt-auto">2017 All Player Names</div>
         </a>
           <p>- Display all of the player names from NCAA 2017 (easy reference to search)</p> </div>
+          <!----------------------------------->
           <div class ="col-md-1"></div>
+          <!----------------------------------->
         <div class ="col-md-3"> 
           <a href="/api/2017/player">
           <div class="btn btn-primary mt-auto">2017 All Player Names with stats</div>
           </a>
           <p>- Display all Player and available stats: from NCAA 2017 </p></div>
+          <!----------------------------------->
         <div class ="col-md-1"></div>
+        <!----------------------------------->
         <div class ="col-md-3"> 
           <div class="btn btn-primary mt-auto" onclick="myPlayerFunction()">2017 Select the Player Name</div>
           <p id="Player_info" class = "highlight"></p>
@@ -149,12 +153,13 @@
         if (ent_player_name != null) {
           mod_player_name = ent_player_name.replace(" ","%20");
           
-            document.getElementById("Player_info").innerHTML =
-           ( "NCAA Player Name: " +ent_player_name);     
+          document.getElementById("Player_info").innerHTML =
+           ( "NCAA Player Name: " +ent_player_name); 
+           var str_player = (" Click here to get Player "+ent_player_name + " stats");
+          var result_player = str_player.link("/api/2017/player/"+mod_player_name);
+          document.getElementById("Player_info").innerHTML = result_player;    
         }
-        var str_player = (" Click here to get Player "+ent_player_name + " stats");
-        var result_player = str_player.link("/api/2017/player/"+mod_player_name);
-        document.getElementById("Player_info").innerHTML = result_player;
+
       }
       </script>
     </div>
@@ -183,10 +188,10 @@
       var mod_elite_player_name
       function myElitePlayerFunction() {
 
-        var ent_eight_player_name = prompt("Please enter the elite player name", "Nick DiNardi");
-        if (ent_player_name != null) {
+        var ent_eight_player_name = prompt("Please enter the elite player name", "Nick DiNardi"); 
+        if (ent_eight_player_name != null) {
           mod_elite_player_name = ent_eight_player_name.replace(" ","%20");
-          
+     
             document.getElementById("Elite_info").innerHTML =
           ( "NCAA Elite 8 Player Name: " + ent_eight_player_name);     
         }
@@ -199,14 +204,77 @@
     <!--#################### End of Third Row #########################-->
     <!--#################### Beginning of the 4th Row #################-->
     <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
+
+      <div class ="col-md-3"> 
+        <div class="btn btn-primary mt-auto" onclick="myRegionFunction()">2018 Select the region Name</div>
+        <p id="Region_info" class = "highlight"></p>
+        <p>- Search for one particular region Teams with seedings. Example: http://127.0.0.1:5000//api/2018/Seeds_region/EAST</p>
+        </div>
+        <!--------------Script--------------------->
+        <script>
+        var mod_region_name
+        function myRegionFunction() {
+  
+        var ent_region_name = prompt("Please enter the Region name", "SOUTH");
+        if (ent_region_name != null) {
+          mod_region_name = ent_region_name.toUpperCase();
+        
+          document.getElementById("Region_info").innerHTML =
+         ( "NCAA Region Name: " +ent_region_name); 
+          var str_region = (" Click here to Region liest with seeds "+ent_region_name );
+          var result_region = str_region.link("/api/2018/Seeds_region/"+mod_region_name);
+          document.getElementById("Region_info").innerHTML = result_region;    
+      }
+  
+    }
+        </script>
+        <!----------------------------------->
+      <div class ="col-md-1"></div>
+        <!----------------------------------->
       <div class ="col-md-3"> 
       <a href="/api/2018/championship">
         <div class="btn btn-primary mt-auto">2018 Championship Game</div>
       </a>
-        <p>- Display the 2018 Championship Final</p> </div>
-        <div class ="col-md-1"></div>
-      </div>  
-    </div>
+        <p>- Display the 2018 Championship Final</p>
+      </div>
+      <!----------------------------------->
+      <div class ="col-md-1"></div>
+      <!----------------------------------->
+    
+      <div class ="col-md-3"> 
+        <div class="btn btn-primary mt-auto" onclick="myRankFunction()">2018 Top NCAA Player Names</div>
+        <p id="Rank_info" class = "highlight"></p>
+        <p>- Search for one number of top player till Date: 12/13/2018. Example: http://127.0.0.1:5000/api/2018/player_rank/25</p>
+        </div>
+        <!----------------Script------------------->
+        <script>
+        var mod_rank_name
+        function myRankFunction() {
+  
+      var ent_rank_name = prompt("Please enter the number for list of top player's name", "25");
+      if (ent_rank_name != null) {
+        mod_rank_name = ent_rank_name.replace(" ","");
+        
+        document.getElementById("Rank_info").innerHTML =
+         ( "NCAA top Rank Player's Names: " +ent_rank_name); 
+         var str_rank = (" Click here to get Top "+ent_rank_name +" Player List");
+        var result_rank = str_rank.link("/api/2018/player_rank/"+mod_rank_name);
+        document.getElementById("Rank_info").innerHTML = result_rank;    
+      }
+  
+    }
+        </script>
+        <!----------------------------------->
+  </div>  
+  <br>
+  </div>
     <!--#################### ENd of the 4th Row #######################-->
+  <!-- Footer -->
+<footer>
+  <!-- Copyright -->
+    <p><i class="far fa-copyright"></i>
+       Copyright 2018: Liopleurodon
+    </p>      
+  </footer>
   </body>
 </html>
