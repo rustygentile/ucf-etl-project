@@ -146,7 +146,36 @@ def player(name=None):
                 if player['name'] == name:
                     return jsonify(player)
 
-######################
+################################## ELITE 8 2018 Routes ##################################
+@app.route("/api/2018/elite_player_names")
+def elite_players():
+    with open('player_stats-elite_eight-2018.json') as json_data:
+        elite = json.load(json_data)
+        names = []
+        for player in elite:
+            names.append(player['name'])
+        return jsonify(names)
 
+@app.route("/api/2018/elite_eight")
+@app.route("/api/2018/elite_eight/<name>")
+def elite(name=None):
+    if not name:
+        with open('player_stats-elite_eight-2018.json') as json_data:
+            elite = json.load(json_data)
+            return jsonify(elite)
+    with open('player_stats-elite_eight-2018.json') as json_data:
+        elite_player = json.load(json_data)
+    for player in elite_player:
+        name = (' ').join(name.split('%20'))
+        if name == player['name']:
+            return jsonify(player)
+
+@app.route("/api/2018/championship")
+def champ():
+    with open('team_stats-full-2018_championship.json') as json_data:
+        elite = json.load(json_data)
+        return jsonify(elite)    
+
+###################### End #########################
 if __name__ == "__main__":
     app.run(debug=True)

@@ -77,22 +77,24 @@
       <strong><p style = "color:aliceblue;">This API will be able to searcha and display data from both 2017 and 2018 NCAA championship matches. Instructions on how to use are below.
       </p></strong>
       <h2>Available API Routes:</h2><br>
-    <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
     
+      <!--############# First Row ###################################-->  
+    <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
+
       <div class ="col-md-3"> 
       <a href="/api/2017/team_names">
-        <div class="btn btn-primary mt-auto">All Team Names</div>
+        <div class="btn btn-primary mt-auto">2017 All Team Names</div>
       </a>
         <p>- Display all of the team names from NCAA 2017 (easy reference to search)</p> </div>
         <div class ="col-md-1"></div>
       <div class ="col-md-3"> 
         <a href="/api/2017/team">
-        <div class="btn btn-primary mt-auto">All Team Names with stats</div>
+        <div class="btn btn-primary mt-auto">2017 All Team Names with stats</div>
         </a>
         <p>- Display all teams and available stats: from NCAA 2017 </p></div>
       <div class ="col-md-1"></div>
       <div class ="col-md-3"> 
-        <div class="btn btn-primary mt-auto" onclick="myFunction()">Select the Team Name</div>
+        <div class="btn btn-primary mt-auto" onclick="myFunction()">2017 Select the Team by Name</div>
         <p id="Team_info" class = "highlight"></p>
         <p>- Search for one particular team. Example: /api/v1.0/team/Florida%20St</p>
       </div>
@@ -117,22 +119,24 @@
   }
       </script>
     </div>
-    
+    <!--################### End of First Row ###################-->
+
+    <!--#################### Second Row #######################-->
     <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
         <div class ="col-md-3"> 
         <a href="/api/2017/player_names">
-          <div class="btn btn-primary mt-auto">All Player Names</div>
+          <div class="btn btn-primary mt-auto">2017 All Player Names</div>
         </a>
           <p>- Display all of the player names from NCAA 2017 (easy reference to search)</p> </div>
           <div class ="col-md-1"></div>
         <div class ="col-md-3"> 
           <a href="/api/2017/player">
-          <div class="btn btn-primary mt-auto">All Player Names with stats</div>
+          <div class="btn btn-primary mt-auto">2017 All Player Names with stats</div>
           </a>
           <p>- Display all Player and available stats: from NCAA 2017 </p></div>
         <div class ="col-md-1"></div>
         <div class ="col-md-3"> 
-          <div class="btn btn-primary mt-auto" onclick="myPlayerFunction()">Select the Player Name</div>
+          <div class="btn btn-primary mt-auto" onclick="myPlayerFunction()">2017 Select the Player Name</div>
           <p id="Player_info" class = "highlight"></p>
           <p>- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes</p>
         </div>
@@ -153,8 +157,56 @@
         document.getElementById("Player_info").innerHTML = result_player;
       }
       </script>
-    </div>   
-  </div>
+    </div>
+    <!--#################### End of Second Row ##################################--> 
+    <!--#################### Start of Third Row #################################-->
+    <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
+      <div class ="col-md-3"> 
+      <a href="/api/2018/elite_player_names">
+        <div class="btn btn-primary mt-auto">2018 Elite Eight Player Names</div>
+      </a>
+        <p>- Display all of the player names from the NCAA 2018 Elite Eight (easy reference to search)</p> </div>
+        <div class ="col-md-1"></div>
+      <div class ="col-md-3"> 
+        <a href="/api/2018/elite_eight">
+        <div class="btn btn-primary mt-auto">2018 Elite Eight Players</div>
+        </a>
+        <p>- Display all Elite Eight players and available stats </p></div>
+      <div class ="col-md-1"></div>
+      <div class ="col-md-3"> 
+        <div class="btn btn-primary mt-auto" onclick="myElitePlayerFunction()">2018 Select the Elite Player Name</div>
+        <p id="Elite_info" class = "highlight"></p>
+        <p>- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes</p>
+      </div>
+    
+      <script>
+      var mod_elite_player_name
+      function myElitePlayerFunction() {
 
+        var ent_eight_player_name = prompt("Please enter the elite player name", "Nick DiNardi");
+        if (ent_player_name != null) {
+          mod_elite_player_name = ent_eight_player_name.replace(" ","%20");
+          
+            document.getElementById("Elite_info").innerHTML =
+          ( "NCAA Elite 8 Player Name: " + ent_eight_player_name);     
+        }
+        var str_elite = (" Click here to get Player "+ent_eight_player_name + " stats");
+        var result_elite = str_elite.link("/api/2018/elite_eight/"+mod_elite_player_name);
+        document.getElementById("Elite_info").innerHTML = result_elite;
+      }
+      </script>
+    </div>  
+    <!--#################### End of Third Row #########################-->
+    <!--#################### Beginning of the 4th Row #################-->
+    <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
+      <div class ="col-md-3"> 
+      <a href="/api/2018/championship">
+        <div class="btn btn-primary mt-auto">2018 Championship Game</div>
+      </a>
+        <p>- Display the 2018 Championship Final</p> </div>
+        <div class ="col-md-1"></div>
+      </div>  
+    </div>
+    <!--#################### ENd of the 4th Row #######################-->
   </body>
 </html>

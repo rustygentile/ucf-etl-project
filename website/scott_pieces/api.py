@@ -1,3 +1,6 @@
+# This application does not run in the actual app. This API is for building and testing
+# the API routes.
+
 import numpy as np
 import pandas as pd
 import json
@@ -41,28 +44,44 @@ def mainapi():
         f"Available API Routes:<br>"
         f"<br>"
         f"<br>" 
-        f"<strong>/api/v1.0/team_names</strong><br>"
+        f"<strong>/api/2017/team_names</strong><br>"
         f"- Display all of the team names for easy reference to search."
         f"<br>"
         f"<br>" 
-        f"<strong>/api/v1.0/team</strong><br>"
+        f"<strong>/api/2017/team</strong><br>"
         f"- Display all teams and available stats."
         f"<br>"
         f"<br>" 
-        f"<strong>/api/v1.0/team/(name)</strong><br>"
+        f"<strong>/api/2017/team/(name)</strong><br>"
         f"- Search for one particular team. Example: /api/v1.0/team/Florida%20St"
         f"<br>"
         f"<br>"       
-        f"<strong>/api/v1.0/player_names</strong><br>"
+        f"<strong>/api/2017/player_names</strong><br>"
         f"- Display all player names for easy reference to search."
         f"<br>"
         f"<br>"
-        f"<strong>/api/v1.0/player</strong><br>"
+        f"<strong>/api/2017/player</strong><br>"
         f"- Show all player stats." 
         f"<br>"
         f"<br>"
-        f"<strong>/api/v1.0/player/name</strong><br>"
-        f"- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes." 
+        f"<strong>/api/2017/player/name</strong><br>"
+        f"- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes."
+        f"<br>"
+        f"<br>" 
+        f"<strong>/api/2018/elite_player_names</strong><br>"
+        f"- Display player names for the 2018 elite 8."
+        f"<br>"
+        f"<br>"
+        f"<strong>/api/2018/elite_eight</strong><br>"
+        f"- Display all players in the elite 8 teams."
+        f"<br>"
+        f"<br>"
+        f"<strong>/api/2018/elite_eight/(name)</strong><br>" 
+        f"- Search for one particular player in one of the elite 8 teams"
+        f"<br>"
+        f"<br>"
+        f"<strong>/api/2018/championship</strong><br>"
+        f"<- display the team data for the championship final."
     )
 
 @app.route("/api/2017/team_names")
@@ -112,7 +131,36 @@ def player(name=None):
                 name = (' ').join(name.split('%20'))
                 if player['name'] == name:
                     return jsonify(player)
-#@app.route("/api/2018")
+
+################################## ELITE 8 2018 Routes ##################################
+@app.route("/api/2018/elite_player_names")
+def elite_players():
+    with open('player_stats-elite_eight-2018.json') as json_data:
+        elite = json.load(json_data)
+        names = []
+        for player in elite:
+            names.append(player['name'])
+        return jsonify(names)
+
+@app.route("/api/2018/elite_eight")
+@app.route("/api/2018/elite_eight/<name>")
+def elite(name=None):
+    if not name:
+        with open('player_stats-elite_eight-2018.json') as json_data:
+            elite = json.load(json_data)
+            return jsonify(elite)
+    with open('player_stats-elite_eight-2018.json') as json_data:
+        elite_player = json.load(json_data)
+    for player in elite_player:
+        name = (' ').join(name.split('%20'))
+        if name == player['name']:
+            return jsonify(player)
+
+@app.route("/api/2018/championship")
+def champ():
+    with open('team_stats-full-2018_championship.json') as json_data:
+        elite = json.load(json_data)
+        return jsonify(elite)    
 
 if __name__ == "__main__":
     app.run(debug=True)
