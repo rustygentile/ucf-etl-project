@@ -1,0 +1,9 @@
+id,name,region_id,rank,mascot
+1,Kansas,4,1,NULL
+2,Duke,4,2,NULL
+3,Michigan,3,3,NULL
+4,"Florida St",3,9,NULL
+5,"Kansas St.",1,9,NULL
+6,Loyola,1,11,NULL
+7,Villanova,2,1,NULL
+8,"Texas Tech",2,3,NULL

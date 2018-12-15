@@ -1,0 +1,8 @@
+id,tournament_round_id,region_id,team_play,winner,loser,score
+1,1,1,"Kansas St. vs. Loyola",Loyola,"Kansas St.",78-62
+2,2,2,"Villanova vs. Texas Tech",Villanova,"Texas Tech.",71-59
+3,3,3,"Michigan vs. Florida St",Michigan,"Florida St",58-54
+4,4,4,"Kansas vs. Duke",Kansas,Duke,85-81
+5,5,NULL,"Villanova vs. Kansas",Villanova,Kansas,95-79
+6,6,NULL,"Michigan vs.Loyola",Michigan,Loyola,58-54
+7,7,NULL,"Villanova vs. Michigan",Villanova,Michigan,79-62

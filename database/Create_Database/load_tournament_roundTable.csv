@@ -1,0 +1,8 @@
+id,date,region_id,name
+1,2018-03-24,1,"Elite 8"
+2,2018-03-25,2,"Elite 8"
+3,2018-03-24,3,"Elite 8"
+4,2018-03-25,4,"Elite 8"
+5,2018-03-31,NULL,"final four A"
+6,2018-03-31,NULL,"final four B"
+7,2018-04-02,NULL,"national championship"
