@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS ncaam_basketball_db;
+DROP DATABASE IF EXISTS ncaam_basketball_2018_db;
 
-CREATE DATABASE ncaam_basketball_db;
+CREATE DATABASE ncaam_basketball_2018_db;
 
-USE ncaam_basketball_db;
+USE ncaam_basketball_2018_db;
 
 
 DROP TABLE IF EXISTS region;
@@ -13,6 +13,16 @@ name VARCHAR(50)
 
 );
 
+USE ncaam_basketball_2018test_db;
+
+INSERT INTO region(name)
+	VALUES
+    ('south'),
+    ('east'),
+    ('west'),
+    ('midwest');
+
+
 DROP TABLE IF EXISTS team;
 
 CREATE TABLE team(
@@ -21,6 +31,8 @@ name VARCHAR(50),
 region_id INT NOT NULL,
 
 INDEX (region_id),
+
+rank INT,
 
 foreign key (region_id)
 REFERENCES region(id)
@@ -43,6 +55,7 @@ DROP TABLE IF EXISTS tournament_round;
 
 CREATE TABLE tournament_round(
 id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+date VARCHAR(50),
 region_id INT,
 
 INDEX (region_id),
@@ -54,6 +67,26 @@ name VARCHAR(50)
 
 );
 
+
+INSERT INTO tournament_round(name, region_id, date)
+	VALUES
+
+    ('Elite 8', 1, '2018-03-24'),
+    ('Elite 8', 2, '2018-03-25'),
+    ('Elite 8', 3, '2018-03-24'),
+    ('Elite 8', 4, '2018-03-25');
+    
+
+INSERT INTO tournament_round(name, date)
+	VALUES
+    
+    ('final four A', '2018-03-31'),
+    ('final four B', '2018-03-31'),
+    ('national championship','2018-04-02');
+
+
+
+
 DROP TABLE IF EXISTS game;
 CREATE TABLE game(
 id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
@@ -62,7 +95,7 @@ region_id INT,
 team_play VARCHAR(100),
 winner VARCHAR(100),
 loser VARCHAR(100),
-score INT,
+score VARCHAR(50),
 
 
 INDEX(tournament_round_id),
@@ -100,6 +133,9 @@ ON UPDATE CASCADE ON DELETE RESTRICT
 
 );
 
+DROP TABLE IF EXISTS tournament_dates;
+
+
 DROP TABLE IF EXISTS player_stats;
 
 CREATE TABLE player_stats(
@@ -122,9 +158,12 @@ FGM INT,
 FGA INT,
 3PA INT,
 3PM INT,
+FTA INT,
+FTM INT,
 OREB INT,
 REB INT,
 AST INT,
+ST INT,
 BLK INT, 
 Turnover INT,
 PF INT, 
@@ -142,9 +181,12 @@ FGM INT,
 FGA INT,
 3PA INT,
 3PM INT,
+FTA INT,
+FTM INT,
 OREB INT,
 REB INT,
 AST INT,
+ST INT,
 BLK INT, 
 Turnover INT,
 PF INT, 
@@ -161,53 +203,7 @@ FOREIGN KEY (game_id)
 REFERENCES game(id)
 ON UPDATE CASCADE ON DELETE RESTRICT
 
-
 );
-
-USE ncaam_basketball_db;
-
-INSERT INTO region(name)
-	VALUES
-    ('south'),
-    ('east'),
-    ('west'),
-    ('midwest');
-
-SELECT * FROM region;
-
-
-INSERT INTO tournament_round(name, region_id)
-	VALUES
-    ('first round', 1),
-    ('first round', 2),
-    ('first round', 3),
-    ('first round', 4),
-    ('second round', 1),
-    ('second round', 2),
-    ('second round', 3),
-    ('second round', 4),
-    ('regional semifinals', 1),
-    ('regional semifinals', 2),
-    ('regional semifinals', 3),
-    ('regional semifinals', 4),
-    ('regional finals', 1),
-    ('regional finals', 2),
-    ('regional finals', 3),
-    ('regional finals', 4);
-    
-    
-SELECT * FROM tournament_round;
-
-
-INSERT INTO tournament_round(name)
-	VALUES
-    
-    ('final four A'),
-    ('final four B'),
-    ('national championship');
-
-
-SELECT * FROM tournament_round;
 
 
 INSERT INTO positions(name, abrv)
@@ -217,95 +213,28 @@ INSERT INTO positions(name, abrv)
     ('center', 'C');
     
     
-SELECT * FROM positions;
-
-SELECT * FROM region;
-
-INSERT INTO team(name, region_id)
+INSERT INTO team(name, region_id, rank)
 	VALUES
     
-	('Virginia', 1),
-    ('UMBC',1),
-    ('Creighton',1),
-    ('Kansas St.',1),
-    ('Kentucky', 1),
-    ('Davidson', 1),
-    ('Arizona', 1),
-    ('Buffalo',1),
-    ('Miami (Fla.)',1),
-    ('Loyola Chicago',1),
-    ('Tennessee',1),
-    ('Wright St.',1),
-    ('Nevada',1),
-    ('Texas',1),
-    ('Cincinnati',1),
-    ('Georgia St.',1),
-    ('Villanova',2),
-    ('Radford',2),
-    ('Virginia Tech',2),
-    ('Alabama',2),
-    ('West Virginia',2),
-    ('Murray St.',2),
-    ('Wichita St.',2),
-    ('Marshall',2),
-    ('Florida',2),
-    ('St. Bonaventure',2),
-    ('Texas Tech',2),
-    ('S.F. Austin',2),
-    ('Arkansas',2),
-    ('Butler',2),
-    ('Purdue',2),
-    ('CSU Fullerton',2),
-    ('Kansas',4),
-    ('Penn',4),
-    ('Seton Hall',4),
-    ('NC St.',4),
-    ('Clemson',4),
-    ('New Mexico St.',4),
-    ('Auburn',4),
-    ('Charleston',4),
-    ('TCU',4),
-    ('Syracuse',4),
-    ('Michigan St.',4),
-    ('Bucknell',4),
-    ('Rhode Island',4),
-    ('Oklahoma',4),
-    ('Duke',4),
-    ('Iona',4),
-    ('Xavier',3),
-    ('Texas Southern',3),
-    ('Missouri',3),
-    ('Florida St.',3),
-    ('Ohio St',3),
-    ('S. Dakota St.',3),
-    ('Gonzaga ',3),
-    ('UNCG',3),
-    ('Houston',3),
-    ('San Diego St.',3),
-    ('Michigan',3),
-    ('Montana',3),
-    ('Texas A&M',3),
-    ('Providence',3),
-    ('North Carolina',3),
-    ('Lipscomb',3);
-    
-    
-SELECT t.name, 
-	   r.name,
-       r.id
-FROM team t
 
-JOIN region r
+   
+    ('Kansas',4,1),           -- elite 8
+    ('Duke', 4,2),        -- elite 8
+    
+    ('Michigan',3,3),  -- elite 8
+    ('Florida St',3, 9), -- elite 8
+    
+   
+    ('Kansas St.',1, 9),       -- elite 8
+    ('Loyola',1, 11), -- elite 8
+ 
 
-ON (t.region_id = r.id)
+    ('Villanova',2, 1),  -- elite 8
+     ('Texas Tech',2,3);       -- elite 8
+    
 
-WHERE t.region_id = 1;
 
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
