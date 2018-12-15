@@ -1,0 +1,6014 @@
+[
+    {
+        "": "0",
+        "Player_Name": "Malcolm_Bernard",
+        "player_id": "365",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "1",
+        "Player_Name": "Quentin_Goodin",
+        "player_id": "364",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "2",
+        "Player_Name": "RaShid_Gaston",
+        "player_id": "362",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "3",
+        "Player_Name": "J.P._Macura",
+        "player_id": "363",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "4",
+        "Player_Name": "Tyrique_Jones",
+        "player_id": "361",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "5",
+        "Player_Name": "Kaiser_Gates",
+        "player_id": "360",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "6",
+        "Player_Name": "Trevon_Bluiett",
+        "player_id": "366",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "60",
+        "team_name": "Xavier"
+    },
+    {
+        "": "7",
+        "Player_Name": "Alex_Illikainen",
+        "player_id": "327",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "8",
+        "Player_Name": "Zak_Showalter",
+        "player_id": "333",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "9",
+        "Player_Name": "Vitto_Brown",
+        "player_id": "326",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "10",
+        "Player_Name": "D'Mitrik_Trice",
+        "player_id": "332",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "11",
+        "Player_Name": "Nigel_Hayes",
+        "player_id": "325",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "12",
+        "Player_Name": "Bronson_Koenig",
+        "player_id": "331",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "13",
+        "Player_Name": "Jordan_Hill",
+        "player_id": "330",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "14",
+        "Player_Name": "Aaron_Moesch",
+        "player_id": "329",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "15",
+        "Player_Name": "Ethan_Happ",
+        "player_id": "328",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "22",
+        "team_name": "Wisconsin"
+    },
+    {
+        "": "16",
+        "Player_Name": "Anders_Broman",
+        "player_id": "354",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "17",
+        "Player_Name": "Josh_Ferguson",
+        "player_id": "349",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "18",
+        "Player_Name": "Duby_Okeke",
+        "player_id": "348",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "19",
+        "Player_Name": "Kellen_Blake",
+        "player_id": "359",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "20",
+        "Player_Name": "Hunter_Sadlon",
+        "player_id": "358",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "21",
+        "Player_Name": "Tevin_Prescott",
+        "player_id": "353",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "22",
+        "Player_Name": "Bjorn_Broman",
+        "player_id": "357",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "23",
+        "Player_Name": "Josh_Davenport",
+        "player_id": "352",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "24",
+        "Player_Name": "Keon_Johnson",
+        "player_id": "356",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "25",
+        "Player_Name": "Mitch_Hill",
+        "player_id": "351",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "26",
+        "Player_Name": "Adam_Pickett",
+        "player_id": "355",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "27",
+        "Player_Name": "Roderick_Perkins",
+        "player_id": "350",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "10",
+        "team_name": "Winthrop"
+    },
+    {
+        "": "28",
+        "Player_Name": "Markis_McDuffie",
+        "player_id": "661",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "29",
+        "Player_Name": "Landry_Shamet",
+        "player_id": "665",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "30",
+        "Player_Name": "Rashard_Kelly",
+        "player_id": "660",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "31",
+        "Player_Name": "Conner_Frankamp",
+        "player_id": "664",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "32",
+        "Player_Name": "Zach_Brown",
+        "player_id": "659",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "33",
+        "Player_Name": "Daishon_Smith",
+        "player_id": "663",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "34",
+        "Player_Name": "Shaquille_Morris",
+        "player_id": "658",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "35",
+        "Player_Name": "Rauno_Nurger",
+        "player_id": "657",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "36",
+        "Player_Name": "Darral_Willis",
+        "player_id": "662",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "37",
+        "Player_Name": "Austin_Reaves",
+        "player_id": "666",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "15",
+        "team_name": "Wichita St"
+    },
+    {
+        "": "38",
+        "Player_Name": "Lamont_West",
+        "player_id": "75",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "39",
+        "Player_Name": "James_Bolden",
+        "player_id": "80",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "40",
+        "Player_Name": "Brandon_Watkins",
+        "player_id": "74",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "41",
+        "Player_Name": "Jevon_Carter",
+        "player_id": "79",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "42",
+        "Player_Name": "Nathan_Adrian",
+        "player_id": "73",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "43",
+        "Player_Name": "Teyvon_Myers",
+        "player_id": "78",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "44",
+        "Player_Name": "Sagaba_Konate",
+        "player_id": "72",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "45",
+        "Player_Name": "Tarik_Phillip",
+        "player_id": "77",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "46",
+        "Player_Name": "Elijah_Macon",
+        "player_id": "71",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "47",
+        "Player_Name": "Daxter_Miles",
+        "player_id": "76",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "48",
+        "Player_Name": "Esa_Ahmad",
+        "player_id": "70",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "57",
+        "team_name": "West Virginia"
+    },
+    {
+        "": "49",
+        "Player_Name": "Sam_Japhet-Mathias",
+        "player_id": "25",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "50",
+        "Player_Name": "Keyshawn_Woods",
+        "player_id": "34",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "51",
+        "Player_Name": "Trent_VanHorn",
+        "player_id": "33",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "52",
+        "Player_Name": "Austin_Arians",
+        "player_id": "29",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "53",
+        "Player_Name": "Bryant_Crawford",
+        "player_id": "32",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "54",
+        "Player_Name": "John_Collins",
+        "player_id": "28",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "55",
+        "Player_Name": "Brandon_Childress",
+        "player_id": "31",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "56",
+        "Player_Name": "Greg_McClinton",
+        "player_id": "27",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "57",
+        "Player_Name": "Mitchell_Wilbekin",
+        "player_id": "30",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "58",
+        "Player_Name": "Konstantinos_Mitoglou",
+        "player_id": "26",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "1",
+        "team_name": "Wake Forest"
+    },
+    {
+        "": "59",
+        "Player_Name": "Seth_Allen",
+        "player_id": "336",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "20",
+        "team_name": "Virginia Tech"
+    },
+    {
+        "": "60",
+        "Player_Name": "Khadim_Sy",
+        "player_id": "335",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "20",
+        "team_name": "Virginia Tech"
+    },
+    {
+        "": "61",
+        "Player_Name": "Justin_Bibbs",
+        "player_id": "339",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "20",
+        "team_name": "Virginia Tech"
+    },
+    {
+        "": "62",
+        "Player_Name": "Zach_LeDay",
+        "player_id": "334",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "20",
+        "team_name": "Virginia Tech"
+    },
+    {
+        "": "63",
+        "Player_Name": "Justin_Robinson",
+        "player_id": "338",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "20",
+        "team_name": "Virginia Tech"
+    },
+    {
+        "": "64",
+        "Player_Name": "Ahmed_Hill",
+        "player_id": "337",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "20",
+        "team_name": "Virginia Tech"
+    },
+    {
+        "": "65",
+        "Player_Name": "Marial_Shayok",
+        "player_id": "262",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "66",
+        "Player_Name": "Kyle_Guy",
+        "player_id": "261",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "67",
+        "Player_Name": "Isaiah_Wilkins",
+        "player_id": "257",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "68",
+        "Player_Name": "Jack_Salt",
+        "player_id": "255",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "69",
+        "Player_Name": "London_Perrantes",
+        "player_id": "260",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "70",
+        "Player_Name": "Mamadi_Diakite",
+        "player_id": "256",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "71",
+        "Player_Name": "Devon_Hall",
+        "player_id": "259",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "72",
+        "Player_Name": "Darius_Thompson",
+        "player_id": "258",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "73",
+        "Player_Name": "Ty_Jerome",
+        "player_id": "263",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "23",
+        "team_name": "Virginia"
+    },
+    {
+        "": "74",
+        "Player_Name": "Jalen_Brunson",
+        "player_id": "161",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "75",
+        "Player_Name": "Josh_Hart",
+        "player_id": "160",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "76",
+        "Player_Name": "Darryl_Reynolds",
+        "player_id": "158",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "77",
+        "Player_Name": "Donte_DiVincenzo",
+        "player_id": "159",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "78",
+        "Player_Name": "Eric_Paschall",
+        "player_id": "157",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "79",
+        "Player_Name": "Kris_Jenkins",
+        "player_id": "156",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "80",
+        "Player_Name": "Dylan_Painter",
+        "player_id": "155",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "21",
+        "team_name": "Villanova"
+    },
+    {
+        "": "81",
+        "Player_Name": "Trae_Bell-Haynes",
+        "player_id": "321",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "82",
+        "Player_Name": "Payton_Henson",
+        "player_id": "320",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "83",
+        "Player_Name": "Darren_Payen",
+        "player_id": "319",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "84",
+        "Player_Name": "Dre_Wills",
+        "player_id": "324",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "85",
+        "Player_Name": "Drew_Urquhart",
+        "player_id": "318",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "86",
+        "Player_Name": "Ernie_Duncan",
+        "player_id": "323",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "87",
+        "Player_Name": "Anthony_Lamb",
+        "player_id": "317",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "88",
+        "Player_Name": "Cam_Ward",
+        "player_id": "322",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "42",
+        "team_name": "Vermont"
+    },
+    {
+        "": "89",
+        "Player_Name": "Malik_Crowfield",
+        "player_id": "299",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "90",
+        "Player_Name": "Doug_Brooks",
+        "player_id": "298",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "91",
+        "Player_Name": "Jonathan_Williams",
+        "player_id": "297",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "92",
+        "Player_Name": "Samir_Doughty",
+        "player_id": "296",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "93",
+        "Player_Name": "Justin_Tillman",
+        "player_id": "293",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "94",
+        "Player_Name": "JeQuan_Lewis",
+        "player_id": "295",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "95",
+        "Player_Name": "Hamdy_Mohamed",
+        "player_id": "292",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "96",
+        "Player_Name": "De'Riante_Jenkins",
+        "player_id": "294",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "97",
+        "Player_Name": "Mo_Alie-Cox",
+        "player_id": "291",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "65",
+        "team_name": "VCU"
+    },
+    {
+        "": "98",
+        "Player_Name": "Denzel_Ingram",
+        "player_id": "289",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "99",
+        "Player_Name": "Chuck_Ogbodo",
+        "player_id": "284",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "100",
+        "Player_Name": "Ambrose_Mosley",
+        "player_id": "288",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "101",
+        "Player_Name": "Devontae_Cacok",
+        "player_id": "283",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "102",
+        "Player_Name": "Jaylen_Fornes",
+        "player_id": "287",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "103",
+        "Player_Name": "C.J._Bryce",
+        "player_id": "282",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "104",
+        "Player_Name": "Jordon_Talley",
+        "player_id": "286",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "105",
+        "Player_Name": "Chris_Flemmings",
+        "player_id": "290",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "106",
+        "Player_Name": "Marcus_Bryan",
+        "player_id": "285",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "55",
+        "team_name": "Vanderbilt"
+    },
+    {
+        "": "107",
+        "Player_Name": "C.J._Bryce",
+        "player_id": "264",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "108",
+        "Player_Name": "Chris_Flemmings",
+        "player_id": "272",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "109",
+        "Player_Name": "Denzel_Ingram",
+        "player_id": "271",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "110",
+        "Player_Name": "Ambrose_Mosley",
+        "player_id": "270",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "111",
+        "Player_Name": "Jaylen_Fornes",
+        "player_id": "269",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "112",
+        "Player_Name": "Marcus_Bryan",
+        "player_id": "267",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "113",
+        "Player_Name": "Jordon_Talley",
+        "player_id": "268",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "114",
+        "Player_Name": "Chuck_Ogbodo",
+        "player_id": "266",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "115",
+        "Player_Name": "Devontae_Cacok",
+        "player_id": "265",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "24",
+        "team_name": "UNC Wilmington"
+    },
+    {
+        "": "116",
+        "Player_Name": "Lonzo_Ball",
+        "player_id": "438",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "117",
+        "Player_Name": "Ikenna_Okwarabizie",
+        "player_id": "430",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "118",
+        "Player_Name": "Alec_Wulff",
+        "player_id": "437",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "119",
+        "Player_Name": "Thomas_Welsh",
+        "player_id": "429",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "120",
+        "Player_Name": "Jerrold_Smith",
+        "player_id": "436",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "121",
+        "Player_Name": "Isaac_Hamilton",
+        "player_id": "435",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "122",
+        "Player_Name": "Gyorgy_Goloman",
+        "player_id": "432",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "123",
+        "Player_Name": "Aaron_Holiday",
+        "player_id": "434",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "124",
+        "Player_Name": "TJ_Leaf",
+        "player_id": "431",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "125",
+        "Player_Name": "Bryce_Alford",
+        "player_id": "433",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "12",
+        "team_name": "UCLA"
+    },
+    {
+        "": "126",
+        "Player_Name": "Siler_Schneider",
+        "player_id": "41",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "127",
+        "Player_Name": "Lawrence_White",
+        "player_id": "651",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "128",
+        "Player_Name": "Garrison_Goode",
+        "player_id": "38",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "129",
+        "Player_Name": "Arell_Hennings",
+        "player_id": "40",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "130",
+        "Player_Name": "Chima_Moneke",
+        "player_id": "37",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "131",
+        "Player_Name": "Brynton_Lemar",
+        "player_id": "39",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "132",
+        "Player_Name": "Mikey_Henn",
+        "player_id": "36",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "133",
+        "Player_Name": "Chima_Moneke",
+        "player_id": "650",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "134",
+        "Player_Name": "Siler_Schneider",
+        "player_id": "656",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "135",
+        "Player_Name": "J.T._Adenrele",
+        "player_id": "35",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "136",
+        "Player_Name": "Garrison_Goode",
+        "player_id": "649",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "137",
+        "Player_Name": "Brynton_Lemar",
+        "player_id": "655",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "138",
+        "Player_Name": "Georgi_Funtarov",
+        "player_id": "648",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "139",
+        "Player_Name": "Darius_Graham",
+        "player_id": "654",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "140",
+        "Player_Name": "Lawrence_White",
+        "player_id": "43",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "141",
+        "Player_Name": "J.T._Adenrele",
+        "player_id": "647",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "142",
+        "Player_Name": "Michael_Onyebalu",
+        "player_id": "653",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "143",
+        "Player_Name": "Darius_Graham",
+        "player_id": "42",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "144",
+        "Player_Name": "Mikey_Henn",
+        "player_id": "646",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "145",
+        "Player_Name": "Arell_Hennings",
+        "player_id": "652",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "36",
+        "team_name": "UC Davis"
+    },
+    {
+        "": "146",
+        "Player_Name": "Kevin_Baker",
+        "player_id": "633",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "147",
+        "Player_Name": "Wesley_Person",
+        "player_id": "632",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "148",
+        "Player_Name": "Daniel_Peace",
+        "player_id": "631",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "149",
+        "Player_Name": "Alex_Hicks",
+        "player_id": "628",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "150",
+        "Player_Name": "Jeremy_Hollimon",
+        "player_id": "630",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "151",
+        "Player_Name": "Jordon_Varnado",
+        "player_id": "627",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "152",
+        "Player_Name": "B.J._Miller",
+        "player_id": "629",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "153",
+        "Player_Name": "Juan_Davis",
+        "player_id": "626",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "154",
+        "Player_Name": "Whit_Moreman",
+        "player_id": "625",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "34",
+        "team_name": "Troy"
+    },
+    {
+        "": "155",
+        "Player_Name": "Stephan_Bennett",
+        "player_id": "605",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "156",
+        "Player_Name": "Jalan_McCloud",
+        "player_id": "613",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "157",
+        "Player_Name": "Zach_Lofton",
+        "player_id": "612",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "158",
+        "Player_Name": "Dulani_Robinson",
+        "player_id": "611",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "159",
+        "Player_Name": "Ty_Bynum",
+        "player_id": "610",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "160",
+        "Player_Name": "Lamont_Walker",
+        "player_id": "607",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "161",
+        "Player_Name": "Kevin_Scott",
+        "player_id": "609",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "162",
+        "Player_Name": "Eric_Washington",
+        "player_id": "606",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "163",
+        "Player_Name": "Marvin_Jones",
+        "player_id": "604",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "164",
+        "Player_Name": "Demontrae_Jefferson",
+        "player_id": "608",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "2",
+        "team_name": "Texas Southern"
+    },
+    {
+        "": "165",
+        "Player_Name": "De'Anthony_Melton",
+        "player_id": "56",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "166",
+        "Player_Name": "Nick_Rakocevic",
+        "player_id": "580",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "167",
+        "Player_Name": "Bennie_Boatwright",
+        "player_id": "55",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "168",
+        "Player_Name": "Chimezie_Metu",
+        "player_id": "579",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "169",
+        "Player_Name": "Jordan_McLaughlin",
+        "player_id": "585",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "170",
+        "Player_Name": "Nick_Rakocevic",
+        "player_id": "54",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "171",
+        "Player_Name": "Bennie_Boatwright",
+        "player_id": "578",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "172",
+        "Player_Name": "Jonah_Mathews",
+        "player_id": "584",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "173",
+        "Player_Name": "Chimezie_Metu",
+        "player_id": "53",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "174",
+        "Player_Name": "Charles_Buggs",
+        "player_id": "577",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "175",
+        "Player_Name": "Elijah_Stewart",
+        "player_id": "60",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "176",
+        "Player_Name": "Elijah_Stewart",
+        "player_id": "583",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "177",
+        "Player_Name": "Shaqquan_Aaron",
+        "player_id": "59",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "178",
+        "Player_Name": "Shaqquan_Aaron",
+        "player_id": "582",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "179",
+        "Player_Name": "Jordan_McLaughlin",
+        "player_id": "58",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "180",
+        "Player_Name": "De'Anthony_Melton",
+        "player_id": "581",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "181",
+        "Player_Name": "Jonah_Mathews",
+        "player_id": "57",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "67",
+        "team_name": "Southern California"
+    },
+    {
+        "": "182",
+        "Player_Name": "Hassani_Gravett",
+        "player_id": "454",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "183",
+        "Player_Name": "Rakym_Felder",
+        "player_id": "461",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "184",
+        "Player_Name": "Sindarius_Thornwell",
+        "player_id": "460",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "185",
+        "Player_Name": "Justin_McKie",
+        "player_id": "459",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "186",
+        "Player_Name": "PJ_Dozier",
+        "player_id": "458",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "187",
+        "Player_Name": "Maik_Kotsar",
+        "player_id": "453",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "188",
+        "Player_Name": "Duane_Notice",
+        "player_id": "457",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "189",
+        "Player_Name": "Chris_Silva",
+        "player_id": "452",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "190",
+        "Player_Name": "Evan_Hinson",
+        "player_id": "456",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "191",
+        "Player_Name": "Sedee_Keita",
+        "player_id": "451",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "192",
+        "Player_Name": "TeMarcus_Blanton",
+        "player_id": "455",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "31",
+        "team_name": "South Carolina"
+    },
+    {
+        "": "193",
+        "Player_Name": "Ben_Moore",
+        "player_id": "586",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "27",
+        "team_name": "SMU"
+    },
+    {
+        "": "194",
+        "Player_Name": "Ben_Emelogu",
+        "player_id": "589",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "27",
+        "team_name": "SMU"
+    },
+    {
+        "": "195",
+        "Player_Name": "Jarrey_Foster",
+        "player_id": "588",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "27",
+        "team_name": "SMU"
+    },
+    {
+        "": "196",
+        "Player_Name": "Sterling_Brown",
+        "player_id": "591",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "27",
+        "team_name": "SMU"
+    },
+    {
+        "": "197",
+        "Player_Name": "Semi_Ojeleye",
+        "player_id": "587",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "27",
+        "team_name": "SMU"
+    },
+    {
+        "": "198",
+        "Player_Name": "Malik_Milton",
+        "player_id": "590",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "27",
+        "team_name": "SMU"
+    },
+    {
+        "": "199",
+        "Player_Name": "Ismael_Sanogo",
+        "player_id": "570",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "200",
+        "Player_Name": "Myles_Powell",
+        "player_id": "575",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "201",
+        "Player_Name": "Michael_Nzei",
+        "player_id": "569",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "202",
+        "Player_Name": "Khadeen_Carrington",
+        "player_id": "574",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "203",
+        "Player_Name": "Rashed_Anthony",
+        "player_id": "573",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "204",
+        "Player_Name": "Desi_Rodriguez",
+        "player_id": "572",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "205",
+        "Player_Name": "Angel_Delgado",
+        "player_id": "571",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "206",
+        "Player_Name": "Madison_Jones",
+        "player_id": "576",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "6",
+        "team_name": "Seton Hall"
+    },
+    {
+        "": "207",
+        "Player_Name": "Evan_Fitzner",
+        "player_id": "300",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "208",
+        "Player_Name": "Joe_Rahon",
+        "player_id": "306",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "209",
+        "Player_Name": "Dane_Pineau",
+        "player_id": "305",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "210",
+        "Player_Name": "Kyle_Clark",
+        "player_id": "304",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "211",
+        "Player_Name": "Calvin_Hermanson",
+        "player_id": "303",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "212",
+        "Player_Name": "Jordan_Hunter",
+        "player_id": "302",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "213",
+        "Player_Name": "Emmett_Naar",
+        "player_id": "308",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "214",
+        "Player_Name": "Jock_Landale",
+        "player_id": "301",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "215",
+        "Player_Name": "Tanner_Krebs",
+        "player_id": "307",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "64",
+        "team_name": "Saint Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "216",
+        "Player_Name": "Tevin_King",
+        "player_id": "251",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "217",
+        "Player_Name": "Michael_Orris",
+        "player_id": "250",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "218",
+        "Player_Name": "Chris_Howell",
+        "player_id": "249",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "219",
+        "Player_Name": "Skyler_Flatten",
+        "player_id": "248",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "220",
+        "Player_Name": "Mike_Daum",
+        "player_id": "247",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "221",
+        "Player_Name": "Adam_Dykman",
+        "player_id": "246",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "222",
+        "Player_Name": "Beau_Brown",
+        "player_id": "254",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "223",
+        "Player_Name": "Ian_Theisen",
+        "player_id": "245",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "224",
+        "Player_Name": "Sergio_El_Darwich",
+        "player_id": "253",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "225",
+        "Player_Name": "Andre_Wallace",
+        "player_id": "252",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "53",
+        "team_name": "S.Dakota St"
+    },
+    {
+        "": "226",
+        "Player_Name": "Jared_Terrell",
+        "player_id": "545",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "227",
+        "Player_Name": "Cyril_Langevine",
+        "player_id": "538",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "228",
+        "Player_Name": "Jarvis_Garrett",
+        "player_id": "544",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "229",
+        "Player_Name": "Hassan_Martin",
+        "player_id": "537",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "230",
+        "Player_Name": "Jeff_Dowtin",
+        "player_id": "543",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "231",
+        "Player_Name": "Mike_Layssard",
+        "player_id": "536",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "232",
+        "Player_Name": "Will_Leviton",
+        "player_id": "542",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "233",
+        "Player_Name": "Andre_Berry",
+        "player_id": "535",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "234",
+        "Player_Name": "E.C._Matthews",
+        "player_id": "541",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "235",
+        "Player_Name": "Nicola_Akele",
+        "player_id": "534",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "236",
+        "Player_Name": "Stanford_Robinson",
+        "player_id": "540",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "237",
+        "Player_Name": "Kuran_Iverson",
+        "player_id": "533",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "238",
+        "Player_Name": "Christion_Thompson",
+        "player_id": "539",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "239",
+        "Player_Name": "Eric_Dadika",
+        "player_id": "546",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "44",
+        "team_name": "Rhode Island"
+    },
+    {
+        "": "240",
+        "Player_Name": "Vincent_Edwards",
+        "player_id": "310",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "241",
+        "Player_Name": "Spike_Albrecht",
+        "player_id": "316",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "242",
+        "Player_Name": "Dakota_Mathias",
+        "player_id": "315",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "243",
+        "Player_Name": "Ryan_Cline",
+        "player_id": "314",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "244",
+        "Player_Name": "P.J._Thompson",
+        "player_id": "313",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "245",
+        "Player_Name": "Isaac_Haas",
+        "player_id": "309",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "246",
+        "Player_Name": "Carsen_Edwards",
+        "player_id": "312",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "247",
+        "Player_Name": "Caleb_Swanigan",
+        "player_id": "311",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "41",
+        "team_name": "Purdue"
+    },
+    {
+        "": "248",
+        "Player_Name": "Jalen_Lindsey",
+        "player_id": "67",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "249",
+        "Player_Name": "Rodney_Bullock",
+        "player_id": "61",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "250",
+        "Player_Name": "Alpha_Diallo",
+        "player_id": "66",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "251",
+        "Player_Name": "Ryan_Fazekas",
+        "player_id": "65",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "252",
+        "Player_Name": "Isaiah_Jackson",
+        "player_id": "64",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "253",
+        "Player_Name": "Kyron_Cartwright",
+        "player_id": "69",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "254",
+        "Player_Name": "Kalif_Young",
+        "player_id": "63",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "255",
+        "Player_Name": "Maliek_White",
+        "player_id": "68",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "256",
+        "Player_Name": "Emmitt_Holt",
+        "player_id": "62",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "68",
+        "team_name": "Providence"
+    },
+    {
+        "": "257",
+        "Player_Name": "Amir_Bell",
+        "player_id": "233",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "258",
+        "Player_Name": "Myles_Stephens",
+        "player_id": "232",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "259",
+        "Player_Name": "Devin_Cannady",
+        "player_id": "231",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "260",
+        "Player_Name": "Steven_Cook",
+        "player_id": "229",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "261",
+        "Player_Name": "Aaron_Young",
+        "player_id": "230",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "262",
+        "Player_Name": "Will_Gladson",
+        "player_id": "228",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "263",
+        "Player_Name": "Alec_Brennan",
+        "player_id": "227",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "264",
+        "Player_Name": "Pete_Miller",
+        "player_id": "226",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "265",
+        "Player_Name": "Spencer_Weisz",
+        "player_id": "225",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "69",
+        "team_name": "Princeton"
+    },
+    {
+        "": "266",
+        "Player_Name": "Dylan_Ennis",
+        "player_id": "382",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "267",
+        "Player_Name": "Keith_Smith",
+        "player_id": "380",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "268",
+        "Player_Name": "Casey_Benson",
+        "player_id": "381",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "269",
+        "Player_Name": "Kavell_Bigby-Williams",
+        "player_id": "379",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "270",
+        "Player_Name": "Roman_Sorkin",
+        "player_id": "378",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "271",
+        "Player_Name": "Dillon_Brooks",
+        "player_id": "377",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "272",
+        "Player_Name": "Jordan_Bell",
+        "player_id": "376",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "273",
+        "Player_Name": "Payton_Pritchard",
+        "player_id": "384",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "274",
+        "Player_Name": "Tyler_Dorsey",
+        "player_id": "383",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "45",
+        "team_name": "Oregon"
+    },
+    {
+        "": "275",
+        "Player_Name": "Matt_Farrell",
+        "player_id": "221",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "276",
+        "Player_Name": "Matt_Ryan",
+        "player_id": "220",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "277",
+        "Player_Name": "V.J._Beachem",
+        "player_id": "219",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "278",
+        "Player_Name": "Bonzie_Colson",
+        "player_id": "218",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "279",
+        "Player_Name": "Martinas_Geben",
+        "player_id": "217",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "280",
+        "Player_Name": "Austin_Torres",
+        "player_id": "216",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "281",
+        "Player_Name": "Temple_Gibbs",
+        "player_id": "224",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "282",
+        "Player_Name": "Steve_Vasturia",
+        "player_id": "223",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "283",
+        "Player_Name": "Rex_Pflueger",
+        "player_id": "222",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "56",
+        "team_name": "Notre Dame"
+    },
+    {
+        "": "284",
+        "Player_Name": "Devon_Hall",
+        "player_id": "277",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "285",
+        "Player_Name": "Jack_Salt",
+        "player_id": "273",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "286",
+        "Player_Name": "Darius_Thompson",
+        "player_id": "276",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "287",
+        "Player_Name": "Isaiah_Wilkins",
+        "player_id": "275",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "288",
+        "Player_Name": "Ty_Jerome",
+        "player_id": "281",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "289",
+        "Player_Name": "Mamadi_Diakite",
+        "player_id": "274",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "290",
+        "Player_Name": "Marial_Shayok",
+        "player_id": "280",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "291",
+        "Player_Name": "Kyle_Guy",
+        "player_id": "279",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "292",
+        "Player_Name": "London_Perrantes",
+        "player_id": "278",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "54",
+        "team_name": "Northwestern"
+    },
+    {
+        "": "293",
+        "Player_Name": "Carson_Williams",
+        "player_id": "527",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "294",
+        "Player_Name": "Lavone_Holland",
+        "player_id": "531",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "295",
+        "Player_Name": "Brennan_Gillis",
+        "player_id": "526",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "296",
+        "Player_Name": "Cole_Murray",
+        "player_id": "530",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "297",
+        "Player_Name": "Jeff_Garrett",
+        "player_id": "525",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "298",
+        "Player_Name": "Mason_Faulkner",
+        "player_id": "529",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "299",
+        "Player_Name": "Jordan_Garnett",
+        "player_id": "528",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "300",
+        "Player_Name": "Dantez_Walton",
+        "player_id": "532",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "17",
+        "team_name": "Northern Ky."
+    },
+    {
+        "": "301",
+        "Player_Name": "Josh_Collins",
+        "player_id": "205",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "302",
+        "Player_Name": "Corey_Baldwin",
+        "player_id": "215",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "303",
+        "Player_Name": "Devon_Pekas",
+        "player_id": "214",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "304",
+        "Player_Name": "Quinton_Hooker",
+        "player_id": "213",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "305",
+        "Player_Name": "Carson_Shanks",
+        "player_id": "204",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "306",
+        "Player_Name": "Billy_Brown",
+        "player_id": "212",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "307",
+        "Player_Name": "Cortez_Seales",
+        "player_id": "211",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "308",
+        "Player_Name": "Conner_Avants",
+        "player_id": "208",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "309",
+        "Player_Name": "Thomas_Blake",
+        "player_id": "210",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "310",
+        "Player_Name": "Drick_Bernstine",
+        "player_id": "207",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "311",
+        "Player_Name": "Geno_Crandall",
+        "player_id": "209",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "312",
+        "Player_Name": "Kienan_Walter",
+        "player_id": "206",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "66",
+        "team_name": "North Dakota"
+    },
+    {
+        "": "313",
+        "Player_Name": "Kanler_Coker",
+        "player_id": "603",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "314",
+        "Player_Name": "Kennedy_Meeks",
+        "player_id": "597",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "315",
+        "Player_Name": "Brandon_Robinson",
+        "player_id": "602",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "316",
+        "Player_Name": "Isaiah_Hicks",
+        "player_id": "596",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "317",
+        "Player_Name": "Seventh_Woods",
+        "player_id": "601",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "318",
+        "Player_Name": "Shea_Rush",
+        "player_id": "595",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "319",
+        "Player_Name": "Nate_Britt",
+        "player_id": "600",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "320",
+        "Player_Name": "Luke_Maye",
+        "player_id": "594",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "321",
+        "Player_Name": "Stilman_White",
+        "player_id": "599",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "322",
+        "Player_Name": "Tony_Bradley",
+        "player_id": "593",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "323",
+        "Player_Name": "Joel_Berry",
+        "player_id": "598",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "324",
+        "Player_Name": "Aaron_Rohlman",
+        "player_id": "592",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "3",
+        "team_name": "North Carolina"
+    },
+    {
+        "": "325",
+        "Player_Name": "Nate_Frye",
+        "player_id": "15",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "326",
+        "Player_Name": "Tevin_Broyles",
+        "player_id": "14",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "327",
+        "Player_Name": "Erik_Thomas",
+        "player_id": "11",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "328",
+        "Player_Name": "Christavious_Gill",
+        "player_id": "13",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "329",
+        "Player_Name": "Makur_Puou",
+        "player_id": "10",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "330",
+        "Player_Name": "Jorge_Rosa",
+        "player_id": "12",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "331",
+        "Player_Name": "Travin_Thibodeaux",
+        "player_id": "9",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "19",
+        "team_name": "New Orleans"
+    },
+    {
+        "": "332",
+        "Player_Name": "Eli_Chuha",
+        "player_id": "507",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "333",
+        "Player_Name": "Jalyn_Pennie",
+        "player_id": "515",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "334",
+        "Player_Name": "Jemerrio_Jones",
+        "player_id": "506",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "335",
+        "Player_Name": "Jermaine_Haley",
+        "player_id": "514",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "336",
+        "Player_Name": "Tanveer_Bhullar",
+        "player_id": "505",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "337",
+        "Player_Name": "Braxton_Huggins",
+        "player_id": "513",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "338",
+        "Player_Name": "Matt_Taylor",
+        "player_id": "512",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "339",
+        "Player_Name": "Ian_Baker",
+        "player_id": "511",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "340",
+        "Player_Name": "Chance_Ellis",
+        "player_id": "510",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "341",
+        "Player_Name": "Joe_Garza",
+        "player_id": "509",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "342",
+        "Player_Name": "Johnathon_Wilkins",
+        "player_id": "508",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "30",
+        "team_name": "New Mexico St."
+    },
+    {
+        "": "343",
+        "Player_Name": "Bryce_Thurston",
+        "player_id": "190",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "344",
+        "Player_Name": "Miles_Wilson",
+        "player_id": "189",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "345",
+        "Player_Name": "Elijah_Long",
+        "player_id": "188",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "346",
+        "Player_Name": "Junior_Robinson",
+        "player_id": "187",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "347",
+        "Player_Name": "Khalid_Nwandu",
+        "player_id": "186",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "348",
+        "Player_Name": "Will_Miller",
+        "player_id": "182",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "349",
+        "Player_Name": "Greg_Alexander",
+        "player_id": "185",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "350",
+        "Player_Name": "Chris_Wray",
+        "player_id": "181",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "351",
+        "Player_Name": "Sean_Gurdon",
+        "player_id": "184",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "352",
+        "Player_Name": "Mawdo_Sallah",
+        "player_id": "180",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "353",
+        "Player_Name": "Charles_Glover",
+        "player_id": "183",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "40",
+        "team_name": "Nevada"
+    },
+    {
+        "": "354",
+        "Player_Name": "Patrick_Cole",
+        "player_id": "52",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "355",
+        "Player_Name": "Ron_Trapps",
+        "player_id": "51",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "356",
+        "Player_Name": "Rashaun_Madison",
+        "player_id": "50",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "357",
+        "Player_Name": "Dajuan_Graf",
+        "player_id": "49",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "358",
+        "Player_Name": "Kyle_Benton",
+        "player_id": "47",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "359",
+        "Player_Name": "CJ_Wiggins",
+        "player_id": "48",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "360",
+        "Player_Name": "Pablo_Rivas",
+        "player_id": "46",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "361",
+        "Player_Name": "Will_Ransom",
+        "player_id": "45",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "362",
+        "Player_Name": "Del'Vin_Dickerson",
+        "player_id": "44",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "51",
+        "team_name": "N.C. Central"
+    },
+    {
+        "": "363",
+        "Player_Name": "Charles_Glover",
+        "player_id": "8",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "364",
+        "Player_Name": "Mawdo_Sallah",
+        "player_id": "162",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "365",
+        "Player_Name": "Greg_Alexander",
+        "player_id": "167",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "366",
+        "Player_Name": "Chris_Wray",
+        "player_id": "3",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "367",
+        "Player_Name": "Elijah_Long",
+        "player_id": "7",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "368",
+        "Player_Name": "Mawdo_Sallah",
+        "player_id": "1",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "369",
+        "Player_Name": "Sean_Gurdon",
+        "player_id": "166",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "370",
+        "Player_Name": "Will_Miller",
+        "player_id": "2",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "371",
+        "Player_Name": "Greg_Alexander",
+        "player_id": "6",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "372",
+        "Player_Name": "Charles_Glover",
+        "player_id": "165",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "373",
+        "Player_Name": "Will_Miller",
+        "player_id": "164",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "374",
+        "Player_Name": "Junior_Robinson",
+        "player_id": "5",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "375",
+        "Player_Name": "Bryce_Thurston",
+        "player_id": "172",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "376",
+        "Player_Name": "Chris_Wray",
+        "player_id": "163",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "377",
+        "Player_Name": "Miles_Wilson",
+        "player_id": "4",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "378",
+        "Player_Name": "Miles_Wilson",
+        "player_id": "171",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "379",
+        "Player_Name": "Elijah_Long",
+        "player_id": "170",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "380",
+        "Player_Name": "Junior_Robinson",
+        "player_id": "169",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "381",
+        "Player_Name": "Khalid_Nwandu",
+        "player_id": "168",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "18",
+        "team_name": "Mount St. Mary\u00e2\u20ac\u2122s"
+    },
+    {
+        "": "382",
+        "Player_Name": "Nate_Mason",
+        "player_id": "152",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "383",
+        "Player_Name": "Eric_Curry",
+        "player_id": "150",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "384",
+        "Player_Name": "Reggie_Lynch",
+        "player_id": "147",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "385",
+        "Player_Name": "Amir_Coffey",
+        "player_id": "151",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "386",
+        "Player_Name": "Jordan_Murphy",
+        "player_id": "149",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "387",
+        "Player_Name": "Bakary_Konate",
+        "player_id": "146",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "388",
+        "Player_Name": "Michael_Hurt",
+        "player_id": "148",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "389",
+        "Player_Name": "Stephon_Sharp",
+        "player_id": "154",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "390",
+        "Player_Name": "Dupree_McBrayer",
+        "player_id": "153",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "7",
+        "team_name": "Minnesota"
+    },
+    {
+        "": "391",
+        "Player_Name": "Antwain_Johnson",
+        "player_id": "145",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "392",
+        "Player_Name": "Giddy_Potts",
+        "player_id": "144",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "393",
+        "Player_Name": "Jacorey_Williams",
+        "player_id": "140",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "394",
+        "Player_Name": "Tyrik_Dixon",
+        "player_id": "143",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "395",
+        "Player_Name": "Brandon_Walters",
+        "player_id": "139",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "396",
+        "Player_Name": "Edward_Simpson",
+        "player_id": "142",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "397",
+        "Player_Name": "Reggie_Upshaw",
+        "player_id": "138",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "398",
+        "Player_Name": "Quavius_Copeland",
+        "player_id": "141",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "399",
+        "Player_Name": "Xavier_Habersham",
+        "player_id": "137",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "8",
+        "team_name": "Middle Tenn."
+    },
+    {
+        "": "400",
+        "Player_Name": "Greg_Roy",
+        "player_id": "476",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "401",
+        "Player_Name": "Miles_Bridges",
+        "player_id": "475",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "402",
+        "Player_Name": "Joshua_Langford",
+        "player_id": "483",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "403",
+        "Player_Name": "Kenny_Goins",
+        "player_id": "474",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "404",
+        "Player_Name": "Matt_McQuaid",
+        "player_id": "482",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "405",
+        "Player_Name": "Matt_Van_Dyk",
+        "player_id": "473",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "406",
+        "Player_Name": "Alvin_Ellis",
+        "player_id": "481",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "407",
+        "Player_Name": "Nick_Ward",
+        "player_id": "472",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "408",
+        "Player_Name": "Conner_George",
+        "player_id": "480",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "409",
+        "Player_Name": "Lourawls_Nairn",
+        "player_id": "479",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "410",
+        "Player_Name": "Kyle_Ahrens",
+        "player_id": "478",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "411",
+        "Player_Name": "Cassius_Winston",
+        "player_id": "477",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "38",
+        "team_name": "Michigan St."
+    },
+    {
+        "": "412",
+        "Player_Name": "Kamari_Murphy",
+        "player_id": "487",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "413",
+        "Player_Name": "Dejan_Vasiljevic",
+        "player_id": "489",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "414",
+        "Player_Name": "Dewan_Huell",
+        "player_id": "486",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "415",
+        "Player_Name": "Bruce_Brown",
+        "player_id": "494",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "416",
+        "Player_Name": "Ebuka_Izundu",
+        "player_id": "485",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "417",
+        "Player_Name": "Davon_Reed",
+        "player_id": "493",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "418",
+        "Player_Name": "Rodney_Miller",
+        "player_id": "484",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "419",
+        "Player_Name": "Mike_Robinson",
+        "player_id": "492",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "420",
+        "Player_Name": "Ja'Quan_Newton",
+        "player_id": "491",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "421",
+        "Player_Name": "Chris_Stowell",
+        "player_id": "488",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "422",
+        "Player_Name": "Anthony_Lawrence",
+        "player_id": "490",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "37",
+        "team_name": "Miami (Fla.)"
+    },
+    {
+        "": "423",
+        "Player_Name": "Ivan_Bender",
+        "player_id": "367",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "424",
+        "Player_Name": "Anthony_Cowan",
+        "player_id": "375",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "425",
+        "Player_Name": "Kevin_Huerter",
+        "player_id": "374",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "426",
+        "Player_Name": "Dion_Wiley",
+        "player_id": "373",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "427",
+        "Player_Name": "Jaylen_Brantley",
+        "player_id": "372",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "428",
+        "Player_Name": "Damonte_Dodd",
+        "player_id": "370",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "429",
+        "Player_Name": "Melo_Trimble",
+        "player_id": "371",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "430",
+        "Player_Name": "Justin_Jackson",
+        "player_id": "369",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "431",
+        "Player_Name": "L.G._Gill",
+        "player_id": "368",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "59",
+        "team_name": "Maryland"
+    },
+    {
+        "": "432",
+        "Player_Name": "Duane_Wilson",
+        "player_id": "464",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "433",
+        "Player_Name": "Cam_Marotta",
+        "player_id": "471",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "434",
+        "Player_Name": "Katin_Reinhardt",
+        "player_id": "470",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "435",
+        "Player_Name": "JaJuan_Johnson",
+        "player_id": "469",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "436",
+        "Player_Name": "Andrew_Rowsey",
+        "player_id": "468",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "437",
+        "Player_Name": "Sam_Hauser",
+        "player_id": "467",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "438",
+        "Player_Name": "Luke_Fischer",
+        "player_id": "463",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "439",
+        "Player_Name": "Markus_Howard",
+        "player_id": "466",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "440",
+        "Player_Name": "Matt_Heldt",
+        "player_id": "462",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "441",
+        "Player_Name": "Haanif_Cheatham",
+        "player_id": "465",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "32",
+        "team_name": "Marquette"
+    },
+    {
+        "": "442",
+        "Player_Name": "Quentin_Snider",
+        "player_id": "397",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "443",
+        "Player_Name": "Deng_Adel",
+        "player_id": "396",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "444",
+        "Player_Name": "V.J._King",
+        "player_id": "395",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "445",
+        "Player_Name": "Ray_Spalding",
+        "player_id": "394",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "446",
+        "Player_Name": "Jaylen_Johnson",
+        "player_id": "393",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "447",
+        "Player_Name": "David_Levitch",
+        "player_id": "400",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "448",
+        "Player_Name": "Anas_Mahmoud",
+        "player_id": "392",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "449",
+        "Player_Name": "Tony_Hicks",
+        "player_id": "399",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "450",
+        "Player_Name": "Donovan_Mitchell",
+        "player_id": "398",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "49",
+        "team_name": "Louisville"
+    },
+    {
+        "": "451",
+        "Player_Name": "Isaac_Humphries",
+        "player_id": "519",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "452",
+        "Player_Name": "De'Aaron_Fox",
+        "player_id": "524",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "453",
+        "Player_Name": "Derek_Willis",
+        "player_id": "518",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "454",
+        "Player_Name": "Isaiah_Briscoe",
+        "player_id": "523",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "455",
+        "Player_Name": "Wenyen_Gabriel",
+        "player_id": "517",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "456",
+        "Player_Name": "Mychal_Mulder",
+        "player_id": "522",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "457",
+        "Player_Name": "Edrice_Adebayo",
+        "player_id": "516",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "458",
+        "Player_Name": "Malik_Monk",
+        "player_id": "521",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "459",
+        "Player_Name": "Dominique_Hawkins",
+        "player_id": "520",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "16",
+        "team_name": "Kentucky"
+    },
+    {
+        "": "460",
+        "Player_Name": "Jimmy_Hall",
+        "player_id": "442",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "461",
+        "Player_Name": "Jon_Fleming",
+        "player_id": "450",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "462",
+        "Player_Name": "Alonzo_Walker",
+        "player_id": "441",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "463",
+        "Player_Name": "Mitch_Peterson",
+        "player_id": "449",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "464",
+        "Player_Name": "Danny_Pippen",
+        "player_id": "440",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "465",
+        "Player_Name": "Jalen_Avery",
+        "player_id": "448",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "466",
+        "Player_Name": "Desmond_Ridenour",
+        "player_id": "447",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "467",
+        "Player_Name": "Kevin_Zabo",
+        "player_id": "446",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "468",
+        "Player_Name": "Jaylin_Walker",
+        "player_id": "445",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "469",
+        "Player_Name": "Deon_Edwin",
+        "player_id": "444",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "470",
+        "Player_Name": "Adonis_De_La_Rosa",
+        "player_id": "439",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "471",
+        "Player_Name": "Leo_Edwards",
+        "player_id": "443",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "13",
+        "team_name": "Kent St."
+    },
+    {
+        "": "472",
+        "Player_Name": "Brian_Patrick",
+        "player_id": "426",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "473",
+        "Player_Name": "Kamau_Stokes",
+        "player_id": "24",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "474",
+        "Player_Name": "Wesley_Iwundu",
+        "player_id": "419",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "475",
+        "Player_Name": "Dean_Wade",
+        "player_id": "20",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "476",
+        "Player_Name": "Carlbe_Ervin",
+        "player_id": "425",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "477",
+        "Player_Name": "Brian_Patrick",
+        "player_id": "23",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "478",
+        "Player_Name": "Dean_Wade",
+        "player_id": "418",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "479",
+        "Player_Name": "Isaiah_Maurice",
+        "player_id": "19",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "480",
+        "Player_Name": "Barry_Brown",
+        "player_id": "424",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "481",
+        "Player_Name": "Carlbe_Ervin",
+        "player_id": "22",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "482",
+        "Player_Name": "Xavier_Sneed",
+        "player_id": "417",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "483",
+        "Player_Name": "Xavier_Sneed",
+        "player_id": "18",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "484",
+        "Player_Name": "Zach_Winter",
+        "player_id": "423",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "485",
+        "Player_Name": "Barry_Brown",
+        "player_id": "21",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "486",
+        "Player_Name": "Isaiah_Maurice",
+        "player_id": "416",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "487",
+        "Player_Name": "D.J._Johnson",
+        "player_id": "17",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "488",
+        "Player_Name": "Wesley_Iwundu",
+        "player_id": "16",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "489",
+        "Player_Name": "D.J._Johnson",
+        "player_id": "422",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "490",
+        "Player_Name": "Mason_Schoen",
+        "player_id": "428",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "491",
+        "Player_Name": "Austin_Budke",
+        "player_id": "421",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "492",
+        "Player_Name": "Kamau_Stokes",
+        "player_id": "427",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "493",
+        "Player_Name": "Pierson_McAtee",
+        "player_id": "420",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "4",
+        "team_name": "Kansas St"
+    },
+    {
+        "": "494",
+        "Player_Name": "Dwight_Coleby",
+        "player_id": "637",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "495",
+        "Player_Name": "Tucker_Vang",
+        "player_id": "638",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "496",
+        "Player_Name": "Landen_Lucas",
+        "player_id": "636",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "497",
+        "Player_Name": "Devonte'_Graham",
+        "player_id": "645",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "498",
+        "Player_Name": "Carlton_Bragg",
+        "player_id": "635",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "499",
+        "Player_Name": "Sviatoslav_Mykhailiuk",
+        "player_id": "644",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "500",
+        "Player_Name": "Mitch_Lightfoot",
+        "player_id": "634",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "501",
+        "Player_Name": "Josh_Jackson",
+        "player_id": "643",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "502",
+        "Player_Name": "Tyler_Self",
+        "player_id": "642",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "503",
+        "Player_Name": "Lagerald_Vick",
+        "player_id": "641",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "504",
+        "Player_Name": "Clay_Young",
+        "player_id": "640",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "505",
+        "Player_Name": "Frank_Mason",
+        "player_id": "639",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "35",
+        "team_name": "Kansas"
+    },
+    {
+        "": "506",
+        "Player_Name": "Erik_Durham",
+        "player_id": "407",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "507",
+        "Player_Name": "Christian_Cunningham",
+        "player_id": "401",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "508",
+        "Player_Name": "Ashton_Spears",
+        "player_id": "406",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "509",
+        "Player_Name": "Tyrik_Edwards",
+        "player_id": "405",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "510",
+        "Player_Name": "Malcolm_Drumwright",
+        "player_id": "404",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "511",
+        "Player_Name": "Greg_Tucker",
+        "player_id": "403",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "512",
+        "Player_Name": "Jacara_Cross",
+        "player_id": "402",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "50",
+        "team_name": "Jacksonville St."
+    },
+    {
+        "": "513",
+        "Player_Name": "Jalen_Brunson",
+        "player_id": "179",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "514",
+        "Player_Name": "Kris_Jenkins",
+        "player_id": "174",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "515",
+        "Player_Name": "Josh_Hart",
+        "player_id": "178",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "516",
+        "Player_Name": "Dylan_Painter",
+        "player_id": "173",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "517",
+        "Player_Name": "Donte_DiVincenzo",
+        "player_id": "177",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "518",
+        "Player_Name": "Darryl_Reynolds",
+        "player_id": "176",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "519",
+        "Player_Name": "Eric_Paschall",
+        "player_id": "175",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "39",
+        "team_name": "Iowa St."
+    },
+    {
+        "": "520",
+        "Player_Name": "Schadrac_Casimir",
+        "player_id": "391",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "521",
+        "Player_Name": "Deyshonee_Much",
+        "player_id": "390",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "522",
+        "Player_Name": "Sam_Cassell",
+        "player_id": "389",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "523",
+        "Player_Name": "Rickey_McGill",
+        "player_id": "388",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "524",
+        "Player_Name": "Jon_Severe",
+        "player_id": "387",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "525",
+        "Player_Name": "Taylor_Bessick",
+        "player_id": "386",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "526",
+        "Player_Name": "Jordan_Washington",
+        "player_id": "385",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "46",
+        "team_name": "Iona"
+    },
+    {
+        "": "527",
+        "Player_Name": "Nigel_Williams-Goss",
+        "player_id": "240",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "528",
+        "Player_Name": "Killian_Tillie",
+        "player_id": "237",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "529",
+        "Player_Name": "Zach_Collins",
+        "player_id": "236",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "530",
+        "Player_Name": "Jeremy_Jones",
+        "player_id": "235",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "531",
+        "Player_Name": "Przemek_Karnowski",
+        "player_id": "234",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "532",
+        "Player_Name": "Silas_Melson",
+        "player_id": "244",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "533",
+        "Player_Name": "Jordan_Mathews",
+        "player_id": "243",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "534",
+        "Player_Name": "Josh_Perkins",
+        "player_id": "242",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "535",
+        "Player_Name": "Johnathan_Williams",
+        "player_id": "239",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "536",
+        "Player_Name": "Bryan_Alberts",
+        "player_id": "241",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "537",
+        "Player_Name": "Rui_Hachimura",
+        "player_id": "238",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "52",
+        "team_name": "Gonzaga"
+    },
+    {
+        "": "538",
+        "Player_Name": "Braian_Angola-Rodas",
+        "player_id": "123",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "539",
+        "Player_Name": "Xavier_Rathan-Mayes",
+        "player_id": "122",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "540",
+        "Player_Name": "Trent_Forrest",
+        "player_id": "121",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "541",
+        "Player_Name": "Christ_Koumadje",
+        "player_id": "117",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "542",
+        "Player_Name": "Jonathan_Isaac",
+        "player_id": "120",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "543",
+        "Player_Name": "Michael_Ojo",
+        "player_id": "116",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "544",
+        "Player_Name": "CJ_Walker",
+        "player_id": "127",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "545",
+        "Player_Name": "Phil_Cofer",
+        "player_id": "119",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "546",
+        "Player_Name": "PJ_Savoy",
+        "player_id": "126",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "547",
+        "Player_Name": "Jarquez_Smith",
+        "player_id": "118",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "548",
+        "Player_Name": "Dwayne_Bacon",
+        "player_id": "125",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "549",
+        "Player_Name": "Terance_Mann",
+        "player_id": "124",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "61",
+        "team_name": "Florida St"
+    },
+    {
+        "": "550",
+        "Player_Name": "Devin_Robinson",
+        "player_id": "109",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "551",
+        "Player_Name": "Chris_Chiozza",
+        "player_id": "115",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "552",
+        "Player_Name": "KeVaughn_Allen",
+        "player_id": "114",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "553",
+        "Player_Name": "Schuyler_Rimmer",
+        "player_id": "108",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "554",
+        "Player_Name": "Kasey_Hill",
+        "player_id": "113",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "555",
+        "Player_Name": "Canyon_Barry",
+        "player_id": "112",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "556",
+        "Player_Name": "Keith_Stone",
+        "player_id": "111",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "557",
+        "Player_Name": "Justin_Leon",
+        "player_id": "110",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "25",
+        "team_name": "Florida"
+    },
+    {
+        "": "558",
+        "Player_Name": "Reggie_Reid",
+        "player_id": "135",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "559",
+        "Player_Name": "Marc-Eddy_Norelia",
+        "player_id": "130",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "560",
+        "Player_Name": "Rayjon_Tucker",
+        "player_id": "134",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "561",
+        "Player_Name": "Antravious_Simmons",
+        "player_id": "129",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "562",
+        "Player_Name": "Christian_Terrell",
+        "player_id": "133",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "563",
+        "Player_Name": "Demetris_Morant",
+        "player_id": "128",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "564",
+        "Player_Name": "Zach_Johnson",
+        "player_id": "132",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "565",
+        "Player_Name": "Brandon_Goodwin",
+        "player_id": "136",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "566",
+        "Player_Name": "Kevin_Mickle",
+        "player_id": "131",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "62",
+        "team_name": "Fla. Gulf Coast"
+    },
+    {
+        "": "567",
+        "Player_Name": "Jermaine_Long",
+        "player_id": "106",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "568",
+        "Player_Name": "Desonta_Bradford",
+        "player_id": "105",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "569",
+        "Player_Name": "Tevin_Glass",
+        "player_id": "102",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "570",
+        "Player_Name": "A.J._Merriweather",
+        "player_id": "104",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "571",
+        "Player_Name": "Hanner_Mosquera-Perea",
+        "player_id": "101",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "572",
+        "Player_Name": "T.J._Cromer",
+        "player_id": "103",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "573",
+        "Player_Name": "David_Burrell",
+        "player_id": "100",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "574",
+        "Player_Name": "Isaac_Banks",
+        "player_id": "99",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "575",
+        "Player_Name": "Devontavius_Payne",
+        "player_id": "107",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "26",
+        "team_name": "East Tenn. St."
+    },
+    {
+        "": "576",
+        "Player_Name": "Justin_Robinson",
+        "player_id": "620",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "577",
+        "Player_Name": "Frank_Jackson",
+        "player_id": "622",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "578",
+        "Player_Name": "Jayson_Tatum",
+        "player_id": "619",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "579",
+        "Player_Name": "Luke_Kennard",
+        "player_id": "621",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "580",
+        "Player_Name": "Jack_White",
+        "player_id": "618",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "581",
+        "Player_Name": "Amile_Jefferson",
+        "player_id": "617",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "582",
+        "Player_Name": "Javin_DeLaurier",
+        "player_id": "616",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "583",
+        "Player_Name": "Harry_Giles",
+        "player_id": "615",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "584",
+        "Player_Name": "Antonio_Vrankovic",
+        "player_id": "614",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "585",
+        "Player_Name": "Grayson_Allen",
+        "player_id": "624",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "586",
+        "Player_Name": "Matt_Jones",
+        "player_id": "623",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "33",
+        "team_name": "Duke"
+    },
+    {
+        "": "587",
+        "Player_Name": "Kendall_Pollard",
+        "player_id": "671",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "588",
+        "Player_Name": "John_Crosby",
+        "player_id": "676",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "589",
+        "Player_Name": "Ryan_Mikesell",
+        "player_id": "670",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "590",
+        "Player_Name": "Kyle_Davis",
+        "player_id": "675",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "591",
+        "Player_Name": "Sam_Miller",
+        "player_id": "669",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "592",
+        "Player_Name": "Charles_Cooke",
+        "player_id": "674",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "593",
+        "Player_Name": "Josh_Cunningham",
+        "player_id": "668",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "594",
+        "Player_Name": "Scoochie_Smith",
+        "player_id": "673",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "595",
+        "Player_Name": "Xeyrius_Williams",
+        "player_id": "667",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "596",
+        "Player_Name": "Darrell_Davis",
+        "player_id": "672",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "14",
+        "team_name": "Dayton"
+    },
+    {
+        "": "597",
+        "Player_Name": "Cole_Huff",
+        "player_id": "549",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "598",
+        "Player_Name": "Zach_Hanson",
+        "player_id": "548",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "599",
+        "Player_Name": "Isaiah_Zierden",
+        "player_id": "558",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "600",
+        "Player_Name": "Justin_Patton",
+        "player_id": "547",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "601",
+        "Player_Name": "Kobe_Paras",
+        "player_id": "557",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "602",
+        "Player_Name": "Jordan_Scurry",
+        "player_id": "556",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "603",
+        "Player_Name": "Ronnie_Harrell",
+        "player_id": "555",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "604",
+        "Player_Name": "Davion_Mintz",
+        "player_id": "554",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "605",
+        "Player_Name": "Khyri_Thomas",
+        "player_id": "553",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "606",
+        "Player_Name": "Martin_Krampelj",
+        "player_id": "551",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "607",
+        "Player_Name": "Tyler_Clement",
+        "player_id": "552",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "608",
+        "Player_Name": "Toby_Hegner",
+        "player_id": "550",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "609",
+        "Player_Name": "Marcus_Foster",
+        "player_id": "559",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "43",
+        "team_name": "Creighton"
+    },
+    {
+        "": "610",
+        "Player_Name": "Nysier_Brooks",
+        "player_id": "408",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "611",
+        "Player_Name": "Kevin_Johnson",
+        "player_id": "415",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "612",
+        "Player_Name": "Gary_Clark",
+        "player_id": "411",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "613",
+        "Player_Name": "Justin_Jenifer",
+        "player_id": "414",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "614",
+        "Player_Name": "Quadri_Moore",
+        "player_id": "410",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "615",
+        "Player_Name": "Troy_Caupain",
+        "player_id": "413",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "616",
+        "Player_Name": "Kyle_Washington",
+        "player_id": "409",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "617",
+        "Player_Name": "Jarron_Cumberland",
+        "player_id": "412",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "11",
+        "team_name": "Cincinnati"
+    },
+    {
+        "": "618",
+        "Player_Name": "Kamar_Baldwin",
+        "player_id": "347",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "619",
+        "Player_Name": "Andrew_Chrabascz",
+        "player_id": "343",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "620",
+        "Player_Name": "Tyler_Lewis",
+        "player_id": "346",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "621",
+        "Player_Name": "Kelan_Martin",
+        "player_id": "342",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "622",
+        "Player_Name": "Kethan_Savage",
+        "player_id": "345",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "623",
+        "Player_Name": "Tyler_Wideman",
+        "player_id": "341",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "624",
+        "Player_Name": "Nate_Fowler",
+        "player_id": "340",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "625",
+        "Player_Name": "Avery_Woodson",
+        "player_id": "344",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "9",
+        "team_name": "Butler"
+    },
+    {
+        "": "626",
+        "Player_Name": "John_Azzinaro",
+        "player_id": "86",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "627",
+        "Player_Name": "Avi_Toomer",
+        "player_id": "90",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "628",
+        "Player_Name": "Nate_Jones",
+        "player_id": "89",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "629",
+        "Player_Name": "Zach_Thomas",
+        "player_id": "85",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "630",
+        "Player_Name": "Kimbal_Mackenzie",
+        "player_id": "88",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "631",
+        "Player_Name": "Nana_Foulland",
+        "player_id": "82",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "632",
+        "Player_Name": "Bruce_Moore",
+        "player_id": "84",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "633",
+        "Player_Name": "Stephen_Brown",
+        "player_id": "87",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "634",
+        "Player_Name": "Nate_Sestina",
+        "player_id": "81",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "635",
+        "Player_Name": "D.J._MacLeay",
+        "player_id": "83",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "58",
+        "team_name": "Bucknell "
+    },
+    {
+        "": "636",
+        "Player_Name": "Jake_Lindsey",
+        "player_id": "503",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "637",
+        "Player_Name": "King_McClure",
+        "player_id": "502",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "638",
+        "Player_Name": "Nuni_Omot",
+        "player_id": "499",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "639",
+        "Player_Name": "Ishmail_Wainright",
+        "player_id": "500",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "640",
+        "Player_Name": "Al_Freeman",
+        "player_id": "501",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "641",
+        "Player_Name": "Terry_Maston",
+        "player_id": "498",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "642",
+        "Player_Name": "Johnathan_Motley",
+        "player_id": "497",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "643",
+        "Player_Name": "Jonathan_Davis",
+        "player_id": "496",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "644",
+        "Player_Name": "Jo_Lual-Acuil",
+        "player_id": "495",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "645",
+        "Player_Name": "Manu_Lecomte",
+        "player_id": "504",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "29",
+        "team_name": "Baylor"
+    },
+    {
+        "": "646",
+        "Player_Name": "Trey_Thompson",
+        "player_id": "563",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "647",
+        "Player_Name": "Anton_Beard",
+        "player_id": "568",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "648",
+        "Player_Name": "Arlando_Cook",
+        "player_id": "562",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "649",
+        "Player_Name": "Jaylen_Barford",
+        "player_id": "567",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "650",
+        "Player_Name": "Moses_Kingsley",
+        "player_id": "561",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "651",
+        "Player_Name": "Daryl_Macon",
+        "player_id": "566",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "652",
+        "Player_Name": "Dustin_Thomas",
+        "player_id": "560",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "653",
+        "Player_Name": "Dusty_Hannahs",
+        "player_id": "565",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "654",
+        "Player_Name": "Manuale_Watkins",
+        "player_id": "564",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "5",
+        "team_name": "Arkansas"
+    },
+    {
+        "": "655",
+        "Player_Name": "Allonzo_Trier",
+        "player_id": "203",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "656",
+        "Player_Name": "Tyler_Trillo",
+        "player_id": "202",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "657",
+        "Player_Name": "Jake_Desjardins",
+        "player_id": "195",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "658",
+        "Player_Name": "Paulo_Cruz",
+        "player_id": "201",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "659",
+        "Player_Name": "Lauri_Markkanen",
+        "player_id": "194",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "660",
+        "Player_Name": "Parker_Jackson-Cartwright",
+        "player_id": "200",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "661",
+        "Player_Name": "Keanu_Pinder",
+        "player_id": "193",
+        "position_id": "2",
+        "position_name": "forward",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "662",
+        "Player_Name": "Kadeem_Allen",
+        "player_id": "199",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "663",
+        "Player_Name": "Chance_Comanche",
+        "player_id": "192",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "664",
+        "Player_Name": "Rawle_Alkins",
+        "player_id": "198",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "665",
+        "Player_Name": "Dusan_Ristic",
+        "player_id": "191",
+        "position_id": "3",
+        "position_name": "center",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "666",
+        "Player_Name": "Kobi_Simmons",
+        "player_id": "197",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    },
+    {
+        "": "667",
+        "Player_Name": "Kory_Jones",
+        "player_id": "196",
+        "position_id": "1",
+        "position_name": "gaurd",
+        "team_id": "63",
+        "team_name": "Arizona"
+    }
+]
