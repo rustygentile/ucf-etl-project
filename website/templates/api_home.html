@@ -194,10 +194,11 @@
      
             document.getElementById("Elite_info").innerHTML =
           ( "NCAA Elite 8 Player Name: " + ent_eight_player_name);     
+          var str_elite = (" Click here to get Player "+ent_eight_player_name + " stats");
+          var result_elite = str_elite.link("/api/2018/elite_eight/"+mod_elite_player_name);
+          document.getElementById("Elite_info").innerHTML = result_elite;
         }
-        var str_elite = (" Click here to get Player "+ent_eight_player_name + " stats");
-        var result_elite = str_elite.link("/api/2018/elite_eight/"+mod_elite_player_name);
-        document.getElementById("Elite_info").innerHTML = result_elite;
+
       }
       </script>
     </div>  
