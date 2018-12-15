@@ -4,16 +4,26 @@ from flask import Flask, render_template, redirect, make_response,request, jsoni
 import os
 import json
 from flask_pymongo import PyMongo
-import scrape_four
+
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
+from sqlalchemy.pool import StaticPool
 from sqlalchemy import create_engine, func
-######################
+#################################################
 # Database Setup
+#################################################
+# Web sites use threads, but sqlite is not thread-safe.
+# These parameters will let us get around it.
+# However, it is recommended you create a new Engine, Base, and Session
+#   for each thread (each route call gets its own thread)
+engine = create_engine("sqlite:///static/Resources/ncaa_Rank_Seed2018.sqlite",
+    connect_args={'check_same_thread':False},
+    poolclass=StaticPool)
+#################################################
 
-engine = create_engine("sqlite:///static/Resources/ncaa_Rank_Seed2018.sqlite")
+
 
 # Relect the existing database into a new model.
 
@@ -93,29 +103,16 @@ def data():
 @app.route("/final_four")
 def final_four():
    # Find one record of data from the mongo database
-   final_four_data = mongo.db.collection.find_one()
+ 
 
-   return render_template("final_four.html",final_four_data=final_four_data)
+   return render_template("final_four.html")
 #--------------------
 # Route to render final.html template using csv data
 @app.route("/finals")
 def finals():
 
    return render_template("finals.html")
-#--------------------
-# Route that will trigger the scrape function
-@app.route("/scrape")
-def scrape():
-
-   # Run the scrape function
-   four_data = scrape_four.scrape_info()
-
-   # Update the Mongo database using update and upsert=True
-   mongo.db.collection.update({}, four_data, upsert=True)
-
-   # Redirect back to home page
-   return redirect("/final_four")
-
+#-------------------
 #--------------------
 #error handler
 @app.errorhandler(404)

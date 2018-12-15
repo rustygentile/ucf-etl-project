@@ -72,7 +72,7 @@
   <div class ="container-fluid">
 
     <h1 >NCAA API Team and Player Search</h1>
-    <strong><p style = "color:aliceblue;">This API will be able to searcha and display data from both 2017 and 2018 NCAA championship matches. Instructions on how to use are below.
+    <strong><p style = "color:aliceblue;">This API will be able to search and display data from both 2017 and 2018 NCAA championship matches. Instructions on how to use are below.
     </p></strong>
     <h2>Available API Routes:</h2><br>
     
@@ -83,22 +83,22 @@
         <a href="/api/2017/team_names">
         <div class="btn btn-primary mt-auto">2017 All Team Names</div>
         </a>
-        <p>- Display all of the team names from NCAA 2017 (easy reference to search)</p> </div>
+        <p>- Display all of the team names from NCAA 2017 (easy reference to search)</p><p>Example: /api/2017/team_names</p> </div>
         <!----------------------------------->
         <div class ="col-md-1"></div>
         <!----------------------------------->
         <div class ="col-md-3"> 
         <a href="/api/2017/team">
-        <div class="btn btn-primary mt-auto">2017 All Team Names with stats</div>
+        <div class="btn btn-primary mt-auto">2017 All Team Names Info!</div>
         </a>
-        <p>- Display all teams and available stats: from NCAA 2017 </p></div>
+        <p>- Display all teams and available stats: from NCAA 2017 </p><p>Example: /api/2017/team</p></div>
         <!----------------------------------->
         <div class ="col-md-1"></div>
         <!----------------------------------->
         <div class ="col-md-3"> 
         <div class="btn btn-primary mt-auto" onclick="myFunction()">2017 Select the Team by Name</div>
         <p id="Team_info" class = "highlight"></p>
-        <p>- Search for one particular team. Example: /api/v1.0/team/Florida%20St</p>
+        <p>- Search for one particular team. </p><p>Example: /api/v1.0/team/Florida%20St</p>
         </div>
         <!---------------Script -------------------->
       <script>
@@ -112,7 +112,7 @@
           document.getElementById("Team_info").innerHTML =
          ( "NCAA Team Name: " +ent_team_name); 
           
-          var str = (" Click here to get Team "+ent_team_name + " stats");
+          var str = (" Click here to get Team "+ent_team_name + " Info!");
           var result = str.link("/api/2017/team/"+mod_team_name);
           document.getElementById("Team_info").innerHTML = result;
           }
@@ -127,22 +127,22 @@
         <a href="/api/2017/player_names">
           <div class="btn btn-primary mt-auto">2017 All Player Names</div>
         </a>
-          <p>- Display all of the player names from NCAA 2017 (easy reference to search)</p> </div>
+          <p>- Display all of the player names from NCAA 2017 (easy reference to search)</p><p>Example: /api/2017/player_names</p> </div>
           <!----------------------------------->
           <div class ="col-md-1"></div>
           <!----------------------------------->
         <div class ="col-md-3"> 
           <a href="/api/2017/player">
-          <div class="btn btn-primary mt-auto">2017 All Player Names with stats</div>
+          <div class="btn btn-primary mt-auto">2017 All Player Names Info!</div>
           </a>
-          <p>- Display all Player and available stats: from NCAA 2017 </p></div>
+          <p>- Display all Player and available stats: from NCAA 2017</p><p>Example: /api/2017/player</p></div>
           <!----------------------------------->
         <div class ="col-md-1"></div>
         <!----------------------------------->
         <div class ="col-md-3"> 
           <div class="btn btn-primary mt-auto" onclick="myPlayerFunction()">2017 Select the Player Name</div>
           <p id="Player_info" class = "highlight"></p>
-          <p>- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes</p>
+          <p>- Search for one particular player.</p><p> Example: /api/v1.0/player/Nick%20DiNardi</p>
         </div>
       
       <script>
@@ -170,18 +170,18 @@
       <a href="/api/2018/elite_player_names">
         <div class="btn btn-primary mt-auto">2018 Elite Eight Player Names</div>
       </a>
-        <p>- Display all of the player names from the NCAA 2018 Elite Eight (easy reference to search)</p> </div>
+        <p>- Display all of the player names from the NCAA 2018 Elite Eight (easy reference to search)</p><p> Example: /api/2018/elite_player_names</p> </div>
         <div class ="col-md-1"></div>
       <div class ="col-md-3"> 
         <a href="/api/2018/elite_eight">
         <div class="btn btn-primary mt-auto">2018 Elite Eight Players</div>
         </a>
-        <p>- Display all Elite Eight players and available stats </p></div>
+        <p>- Display all Elite Eight players and available stats</p><p> Example: /api/2018/elite_eight </p></div>
       <div class ="col-md-1"></div>
       <div class ="col-md-3"> 
         <div class="btn btn-primary mt-auto" onclick="myElitePlayerFunction()">2018 Select the Elite Player Name</div>
         <p id="Elite_info" class = "highlight"></p>
-        <p>- Search for one particular player. Example: http://127.0.0.1:5000/api/v1.0/player/Nigel%20Hayes</p>
+        <p>- Search for one particular player. </p><p>Example: /api/v1.0/player/Nigel%20Hayes </p>
       </div>
     
       <script>
@@ -205,10 +205,22 @@
     <!--#################### Beginning of the 4th Row #################-->
     <div class="row" style = "padding-bottom:10px; padding-left: 30px;">
 
+      <div class ="col-md-3"> </div>
+      <div class ="col-md-1"></div>
+        <!----------------------------------->
+      <div class ="col-md-3"> 
+      <a href="/api/2018/championship">
+        <div class="btn btn-primary mt-auto">2018 Championship Game</div>
+      </a>
+        <p>- Display the 2018 Championship Final</p><p>Example: /api/2018/championship</p>
+      </div>
+      <!----------------------------------->
+      <div class ="col-md-1"></div>
+      <!----------------------------------->
       <div class ="col-md-3"> 
         <div class="btn btn-primary mt-auto" onclick="myRegionFunction()">2018 Select the region Name</div>
         <p id="Region_info" class = "highlight"></p>
-        <p>- Search for one particular region Teams with seedings. Example: http://127.0.0.1:5000//api/2018/Seeds_region/EAST</p>
+        <p>- Search for one particular region Teams with seedings. </p><p>Example: /api/2018/Seeds_region/EAST </p>
         </div>
         <!--------------Script--------------------->
         <script>
@@ -229,24 +241,13 @@
     }
         </script>
         <!----------------------------------->
-      <div class ="col-md-1"></div>
-        <!----------------------------------->
-      <div class ="col-md-3"> 
-      <a href="/api/2018/championship">
-        <div class="btn btn-primary mt-auto">2018 Championship Game</div>
-      </a>
-        <p>- Display the 2018 Championship Final</p>
-      </div>
-      <!----------------------------------->
-      <div class ="col-md-1"></div>
-      <!----------------------------------->
-    
+      <!----------------
       <div class ="col-md-3"> 
         <div class="btn btn-primary mt-auto" onclick="myRankFunction()">2018 Top NCAA Player Names</div>
         <p id="Rank_info" class = "highlight"></p>
-        <p>- Search for one number of top player till Date: 12/13/2018. Example: http://127.0.0.1:5000/api/2018/player_rank/25</p>
+        <p>- Search for one number of top player till Date: 12/13/2018. Example: /api/2018/player_rank/25</p>
         </div>
-        <!----------------Script------------------->
+       -------------Script------------------
         <script>
         var mod_rank_name
         function myRankFunction() {
@@ -264,7 +265,7 @@
   
     }
         </script>
-        <!----------------------------------->
+        --------------------------------->
   </div>  
   <br>
   </div>
