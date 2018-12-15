@@ -14,7 +14,8 @@ The purpose of this project was to model and demonstrate a successful ETL proces
 
 # Website: to run website, clone repository and run 'app.py'
 
-# Database: to create database,navigate to Database/Create_database folder and first run 'create_ncaa2018_elite_eight_db.sql' file in mySQL. Next load labeled 'load'. 
+# Database: 
+#### To create database navigate to Database/Create_database folder and first run 'create_ncaa2018_elite_eight_db.sql' file in mySQL. Next load labeled 'load'. 
 
 #  Note: Order of loading matters. Load in the order below:
 * load_regionTable.csv 
@@ -28,4 +29,5 @@ The purpose of this project was to model and demonstrate a successful ETL proces
 
 # Report: 
 
+* To view full technical report navigate to 'doc' and view Technical_Report_FINAL.docx file.
 
